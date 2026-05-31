@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:43:50.000Z
+pubDatetime: 2026-05-31T21:28:55.000Z
 title: "Jogadores baratos de Italianos no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,12 +30,12 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Gianluigi Donnarumma | 89 | GK | Premier League | 7k coins | +8.2% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | 0% |
-| Nicolò Barella | 87 | CM | Serie A TIM | 3k coins | +31.8% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +11.1% |
+| Nicolò Barella | 87 | CM | Serie A TIM | 2k coins | +8.7% |
 | Marco Carnesecchi | 87 | GK | Serie A TIM | 12k coins | -6% |
 | Federico Dimarco | 87 | LB | Serie A TIM | 12k coins | -71.3% |
 | Sandro Tonali | 87 | CDM | Premier League | 13k coins | +1.9% |
-| Claudio Marchisio | 87 | CM | Serie A TIM | 14k coins | -36% |
+| Claudio Marchisio | 87 | CM | Serie A TIM | 15k coins | +7.1% |
 | Moise Kean | 86 | ST | Serie A TIM | 11k coins | -76.9% |
 | Manuel Locatelli | 86 | CDM | Serie A TIM | 12k coins | -63.7% |
 | Antonio Caracciolo | 85 | CB | Serie A TIM | 11k coins | -76.8% |
@@ -50,9 +50,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **7k coins**
 
-- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11k coins**
+- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Nicolò Barella (87, CM)** da Serie A TIM, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Nicolò Barella (87, CM)** da Serie A TIM, a apenas **2k coins**
 
 - **Marco Carnesecchi (87, GK)** da Serie A TIM, a apenas **12k coins**
 
@@ -81,6 +81,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> 📊 Esta análise usa os dados do <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>: preços de múltiplas fontes, previsões e radar de mercado do EA FC Ultimate Team.
 
 ---
 
