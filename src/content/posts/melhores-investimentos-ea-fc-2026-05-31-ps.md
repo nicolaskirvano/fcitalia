@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:54.000Z
+pubDatetime: 2026-05-31T22:29:01.000Z
 title: "Melhores investimentos em Italianos no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -34,7 +34,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Nicolò Zaniolo | 86 | Serie A TIM | 24k coins | +9.1% | +39.1% | 5% |
 | Claudio Marchisio | 88 | Serie A TIM | 137k coins | +23.4% | +37.7% | 16% |
 | Daniele De Rossi | 89 | Serie A TIM | 150k coins | +11.1% | +23% | 39% |
-| Gianluigi Buffon | 91 | Icons | 125k coins | +14.7% | +15.7% | 18% |
+| Andrea Pirlo | 90 | Icons | 107k coins | +32.1% | +10.9% | 95% |
 
 
 ## 📈 Análise dos destaques
@@ -45,7 +45,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Daniele De Rossi (89)** — 150k coins, **+23% em 7 dias** (+11.1% em 24h). Preço em linha com a média de 7 dias (+7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Gianluigi Buffon (91)** — 125k coins, **+15.7% em 7 dias** (+14.7% em 24h). Preço +11% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Andrea Pirlo (90)** — 107k coins, **+10.9% em 7 dias** (+32.1% em 24h). Preço +18% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
 
 ## Como usar esta lista

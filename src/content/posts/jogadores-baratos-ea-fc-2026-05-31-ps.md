@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:54.000Z
+pubDatetime: 2026-05-31T22:29:02.000Z
 title: "Jogadores baratos de Italianos no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -31,7 +31,6 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Gianluigi Donnarumma | 89 | GK | Premier League | 7k coins | +18.6% |
 | Gianluca Vialli | 89 | ST | Serie A TIM | 13k coins | -1.9% |
-| Nicolò Barella | 87 | CM | Serie A TIM | 2k coins | -19% |
 | Marco Carnesecchi | 87 | GK | Serie A TIM | 12k coins | -12.5% |
 | Sandro Tonali | 87 | CDM | Premier League | 13k coins | -10.3% |
 | Federico Dimarco | 87 | LB | Serie A TIM | 13k coins | -57.3% |
@@ -40,10 +39,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Giorgio Scalvini | 86 | CB | Serie A TIM | 12k coins | -75% |
 | Cher Ndour | 86 | CM | Serie A TIM | 12k coins | -18.6% |
 | Mateo Retegui | 85 | ST | Brasileirão | 11k coins | 0% |
+| Matteo Politano | 85 | RM | Serie A TIM | 11k coins | -75.4% |
 | Antonio Caracciolo | 85 | CB | Serie A TIM | 11k coins | -62.8% |
 | Wladimiro Falcone | 85 | GK | Serie A TIM | 11k coins | -64.8% |
-| Matteo Politano | 85 | RM | Serie A TIM | 11k coins | -75.4% |
 | Bryan Cristante | 85 | CM | Serie A TIM | 11k coins | -62.5% |
+| Luca Mazzitelli | 84 | CM | Serie A TIM | 11k coins | -63% |
 
 
 ## 📈 Destaques
@@ -52,11 +52,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **13k coins**
 
-- **Nicolò Barella (87, CM)** da Serie A TIM, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Marco Carnesecchi (87, GK)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Sandro Tonali (87, CDM)** da Premier League, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Federico Dimarco (87, LB)** da Serie A TIM, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
