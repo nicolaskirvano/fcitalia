@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:29:02.000Z
+pubDatetime: 2026-06-01T13:29:02.000Z
 title: "Italianos no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,69 +13,69 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 01/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/06/2026)?"
-    a: "Paolo Maldini (94, Icons), com +34.1% em 24h, a 2.95M coins no PC."
+    a: "Giovanni Di Lorenzo (85, Serie A TIM), com +22.7% em 24h, a 23k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Davide Zappacosta (88), -36% em 24h, a 28k coins."
+    a: "Gianluigi Buffon (91), -28.9% em 24h, a 106k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 16 cartas em alta contra 38 em queda (média -2.31%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 13 cartas em alta contra 36 em queda (média -2.52%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **16 subiram** e **38 caíram**, com variação média de **-2.31%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **13 subiram** e **36 caíram**, com variação média de **-2.52%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
-> 🟢 **Maior alta:** Paolo Maldini (94) **+34.1%** · 🔴 **Maior baixa:** Davide Zappacosta (88) **-36%**
+> 🟢 **Maior alta:** Giovanni Di Lorenzo (85) **+22.7%** · 🔴 **Maior baixa:** Gianluigi Buffon (91) **-28.9%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Paolo Maldini | 94 | Icons | 2.95M coins | +34.1% | +47.5% |
-| Riccardo Orsolini | 85 | Serie A TIM | 24k coins | +30.6% | -4.1% |
-| Fabio Cannavaro | 89 | Icons | 121k coins | +22.2% | +22.2% |
-| Giovanni Di Lorenzo | 85 | Serie A TIM | 24k coins | +21% | +22.5% |
-| Antonio Di Natale | 88 | Serie A TIM | 183k coins | +20.4% | -3.7% |
-| Daniele De Rossi | 89 | Serie A TIM | 159k coins | +19.6% | 0% |
-| Antonio Di Natale | 92 | Serie A TIM | 1.20M coins | +14.3% | -14.3% |
-| Daniele De Rossi | 87 | Serie A TIM | 32k coins | +12.5% | -4.6% |
-| Paolo Maldini | 93 | Icons | 1.19M coins | +9.2% | -3.3% |
-| Mattia Zaccagni | 87 | Serie A TIM | 25k coins | +5.3% | +26.6% |
+| Giovanni Di Lorenzo | 85 | Serie A TIM | 23k coins | +22.7% | +15% |
+| Paolo Maldini | 94 | Icons | 2.53M coins | +16.8% | +26.6% |
+| Gianluca Zambrotta | 86 | Icons | 96k coins | +15.1% | +21.7% |
+| Andrea Pirlo | 90 | Icons | 112k coins | +14.9% | +4.7% |
+| Daniele De Rossi | 89 | Serie A TIM | 179k coins | +12.6% | +12.6% |
+| Andrea Barzagli | 88 | Serie A TIM | 69k coins | +12.2% | +165.4% |
+| Leonardo Spinazzola | 89 | Serie A TIM | 21k coins | +10.5% | -4.6% |
+| Nicolò Zaniolo | 86 | Serie A TIM | 25k coins | +10% | +11.2% |
+| Federico Baschirotto | 81 | Serie A TIM | 30k coins | +7.1% | 0% |
+| Roberto Baggio | 91 | Icons | 78k coins | +4% | +2.6% |
 
 
 ### Análise das altas
 
-- **Paolo Maldini (94)** subiu **+34.1%** em 24h, a **2.95M coins** (faixa do dia: 1.70M–2.95M). Está +43% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
+- **Giovanni Di Lorenzo (85)** subiu **+22.7%** em 24h, a **23k coins** (faixa do dia: 16k–24k). Está em linha com a média de 7 dias (-5%). O modelo vê **estabilização** no curto prazo.
 
-- **Riccardo Orsolini (85)** subiu **+30.6%** em 24h, a **24k coins** (faixa do dia: 18k–32k). Está em linha com a média de 7 dias (-6%). O modelo vê **estabilização** no curto prazo.
+- **Paolo Maldini (94)** subiu **+16.8%** em 24h, a **2.53M coins** (faixa do dia: 1.70M–2.95M). Está +22% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
-- **Fabio Cannavaro (89)** subiu **+22.2%** em 24h, a **121k coins** (faixa do dia: 96k–121k). Está +20% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Gianluca Zambrotta (86)** subiu **+15.1%** em 24h, a **96k coins** (faixa do dia: 69k–96k). Está +24% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Davide Zappacosta | 88 | Serie A TIM | 28k coins | -36% | -41.2% |
-| Gianluigi Donnarumma | 95 | Premier League | 999k coins | -33.4% | 0% |
-| Gianluigi Buffon | 91 | Icons | 108k coins | -22.9% | -22.9% |
-| Giada Greggi | 87 | Calcio A Femminile | 25k coins | -21.4% | -3.9% |
-| Andrea Pirlo | 90 | Icons | 80k coins | -18% | -25.2% |
-| Sandro Tonali | 91 | Premier League | 99k coins | -17.5% | -1% |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 52k coins | -11.2% | +12% |
-| Paolo Maldini | 92 | Icons | 377k coins | -9.2% | -12.1% |
-| Franco Baresi | 92 | Icons | 682k coins | -5.3% | +15.6% |
-| Federico Baschirotto | 81 | Serie A TIM | 28k coins | -5% | -5% |
+| Gianluigi Buffon | 91 | Icons | 106k coins | -28.9% | -24.3% |
+| Giada Greggi | 87 | Calcio A Femminile | 24k coins | -25.4% | -8.7% |
+| Paolo Maldini | 92 | Icons | 349k coins | -16.9% | -18.6% |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 52k coins | -16.3% | +10.2% |
+| Antonio Di Natale | 92 | Serie A TIM | 840k coins | -15.9% | -40% |
+| Alessandro Bastoni | 91 | Serie A TIM | 152k coins | -13.1% | -19.2% |
+| Antonio Di Natale | 88 | Serie A TIM | 153k coins | -12.1% | -1.3% |
+| Sandro Tonali | 91 | Premier League | 99k coins | -11.6% | -13.9% |
+| Gianfranco Zola | 87 | Icons | 76k coins | -10.6% | +3.4% |
+| Franco Baresi | 92 | Icons | 697k coins | -9.4% | +6.7% |
 
 
 ### Análise das baixas
 
-- **Davide Zappacosta (88)** caiu **-36%** em 24h, a **28k coins** (faixa do dia: 28k–44k). Está -31% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Gianluigi Buffon (91)** caiu **-28.9%** em 24h, a **106k coins** (faixa do dia: 106k–148k). Está -16% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Gianluigi Donnarumma (95)** caiu **-33.4%** em 24h, a **999k coins** (faixa do dia: 938k–1.46M). Está em linha com a média de 7 dias (-1%). O modelo vê **estabilização** no curto prazo.
+- **Giada Greggi (87)** caiu **-25.4%** em 24h, a **24k coins** (faixa do dia: 24k–32k). Está -19% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Gianluigi Buffon (91)** caiu **-22.9%** em 24h, a **108k coins** (faixa do dia: 108k–149k). Está -15% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Paolo Maldini (92)** caiu **-16.9%** em 24h, a **349k coins** (faixa do dia: 349k–420k). Está -14% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -86,13 +86,13 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/06/2026)?**  
-Paolo Maldini (94, Icons), com +34.1% em 24h, a 2.95M coins no PC.
+Giovanni Di Lorenzo (85, Serie A TIM), com +22.7% em 24h, a 23k coins no PC.
 
 **E a maior queda do dia?**  
-Davide Zappacosta (88), -36% em 24h, a 28k coins.
+Gianluigi Buffon (91), -28.9% em 24h, a 106k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 16 cartas em alta contra 38 em queda (média -2.31%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 13 cartas em alta contra 36 em queda (média -2.52%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

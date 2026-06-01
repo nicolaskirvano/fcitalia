@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:29:01.000Z
+pubDatetime: 2026-06-01T13:29:01.000Z
 title: "Italianos no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Mattia Zaccagni (87) — 95% de probabilidade de alta, a 27k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 24 cartas em alta contra 36 em queda (média 0.24%)."
+    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 24 cartas em alta contra 35 em queda (média -0.23%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **24 subiram** e **36 caíram**, com variação média de **0.24%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **24 subiram** e **35 caíram**, com variação média de **-0.23%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Barbara Bonansea (87) **+25.4%** · 🔴 **Maior baixa:** Andrea Pirlo (91) **-29.5%**
 
@@ -60,24 +60,24 @@ Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Andrea Pirlo | 91 | Icons | 690k coins | -29.5% | -32.9% |
-| Andrea Pirlo | 90 | Icons | 85k coins | -20.6% | -11.9% |
-| Gianfranco Zola | 87 | Icons | 68k coins | -19.4% | -12.2% |
 | Fabio Cannavaro | 90 | Icons | 341k coins | -16.8% | -23.7% |
+| Andrea Pirlo | 90 | Icons | 80k coins | -14.4% | -12.6% |
 | Nicolò Zaniolo | 86 | Serie A TIM | 21k coins | -14.4% | +3.8% |
 | Riccardo Calafiori | 90 | Premier League | 400k coins | -14% | +17% |
 | Daniele De Rossi | 91 | Serie A TIM | 164k coins | -11.8% | -2.4% |
-| Fabio Cannavaro | 89 | Icons | 85k coins | -10% | -4% |
+| Gianfranco Zola | 87 | Icons | 66k coins | -11.4% | -12% |
 | Gianluigi Donnarumma | 89 | Premier League | 399k coins | -9.3% | -6.1% |
-| Gianluigi Buffon | 91 | Icons | 116k coins | -7.2% | +3.6% |
+| Fabio Cannavaro | 89 | Icons | 89k coins | -7.8% | +0.6% |
+| Giorgio Chiellini | 89 | Icons | 319k coins | -3% | -6.4% |
 
 
 ### Análise das baixas
 
 - **Andrea Pirlo (91)** caiu **-29.5%** em 24h, a **690k coins** (faixa do dia: 690k–1.03M). Está -26% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Andrea Pirlo (90)** caiu **-20.6%** em 24h, a **85k coins** (faixa do dia: 85k–112k). Está em linha com a média de 7 dias (-7%). 🔮 O modelo projeta **recuperação** (reversão para alta), com 95% de probabilidade.
+- **Fabio Cannavaro (90)** caiu **-16.8%** em 24h, a **341k coins** (faixa do dia: 341k–410k). Está -15% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Gianfranco Zola (87)** caiu **-19.4%** em 24h, a **68k coins** (faixa do dia: 68k–90k). Está -17% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Andrea Pirlo (90)** caiu **-14.4%** em 24h, a **80k coins** (faixa do dia: 72k–112k). Está -11% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 95% de probabilidade.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -87,8 +87,8 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
 | Mattia Zaccagni | 87 | 27k coins | 35k coins | 95% |
-| Fabio Cannavaro | 89 | 85k coins | 98k coins | 95% |
-| Andrea Pirlo | 90 | 85k coins | 107k coins | 95% |
+| Fabio Cannavaro | 89 | 89k coins | 102k coins | 95% |
+| Andrea Pirlo | 90 | 80k coins | 101k coins | 95% |
 | Gianluigi Donnarumma | 89 | 399k coins | 497k coins | 95% |
 | Gennaro Gattuso | 86 | 65k coins | 72k coins | 84% |
 | Giorgio Chiellini | 89 | 319k coins | 348k coins | 80% |
@@ -103,10 +103,10 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
 | Federico Chiesa | 86 | 335k coins | -15.6% |
-| Gianluca Mancini | 85 | 29k coins | -29.2% |
-| Nicolò Zaniolo | 86 | 21k coins | -21.4% |
-| Giovanni Di Lorenzo | 86 | 57k coins | -24% |
 | Gianluca Zambrotta | 86 | 104k coins | -15.6% |
+| Giovanni Di Lorenzo | 86 | 57k coins | -24% |
+| Nicolò Zaniolo | 86 | 21k coins | -21.4% |
+| Gianluca Mancini | 85 | 29k coins | -29.2% |
 | Antonio Di Natale | 88 | 169k coins | -12.6% |
 | Claudio Marchisio | 87 | 18k coins | -10.3% |
 | Claudio Marchisio | 88 | 155k coins | -10.2% |
@@ -129,7 +129,7 @@ Andrea Pirlo (91), -29.5% em 24h, a 690k coins.
 Pelo modelo FutQuant, Mattia Zaccagni (87) — 95% de probabilidade de alta, a 27k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 24 cartas em alta contra 36 em queda (média 0.24%).
+Hoje o mercado está em mercado lateral — sem direção clara, com 24 cartas em alta contra 35 em queda (média -0.23%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

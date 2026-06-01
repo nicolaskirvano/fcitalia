@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:29:02.000Z
+pubDatetime: 2026-06-01T13:29:01.000Z
 title: "Melhores investimentos em Italianos no EA FC (01/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -36,6 +36,7 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Riccardo Orsolini | 85 | Serie A TIM | 24k coins | +5.4% | +24% | 5% |
 | Barbara Bonansea | 87 | Calcio A Femminile | 36k coins | +25.4% | +23.3% | 50% |
 | Gianluca Zambrotta | 86 | Icons | 104k coins | +18.9% | +22.4% | 5% |
+| Gianluigi Buffon | 91 | Icons | 128k coins | +6.7% | +20.8% | 18% |
 | Giorgio Chiellini | 88 | Icons | 128k coins | +10.3% | +20.8% | 47% |
 | Antonio Di Natale | 88 | Serie A TIM | 169k coins | +3% | +16.6% | 8% |
 | Alessandro Del Piero | 90 | Icons | 160k coins | +4.6% | +15.9% | 65% |

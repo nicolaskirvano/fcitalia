@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:29:03.000Z
+pubDatetime: 2026-06-01T13:29:03.000Z
 title: "Jogadores baratos de Italianos no EA FC (01/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 01/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (01/06/2026)?"
-    a: "Gianluigi Donnarumma (89, Premier League) aparece como melhor custo-benefício, a 7k coins no PC."
+    a: "Gianluigi Donnarumma (89, Premier League) aparece como melhor custo-benefício, a 6k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **01/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Gianluigi Donnarumma (89) por apenas 7k coins.
+> 💰 **Melhor pechincha:** Gianluigi Donnarumma (89) por apenas 6k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 7k coins | +9.8% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | -2.2% |
-| Marco Carnesecchi | 87 | GK | Serie A TIM | 11k coins | -6.2% |
-| Federico Dimarco | 87 | LB | Serie A TIM | 11k coins | -73% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 6k coins | +3.2% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +4.4% |
+| Nicolò Barella | 87 | CM | Serie A TIM | 2k coins | 0% |
+| Alessandro Bastoni | 87 | CB | Serie A TIM | 2k coins | 0% |
+| Marco Carnesecchi | 87 | GK | Serie A TIM | 11k coins | -8.3% |
+| Sandro Tonali | 87 | CDM | Premier League | 12k coins | -5.8% |
+| Manuel Locatelli | 86 | CDM | Serie A TIM | 11k coins | -68.2% |
+| Moise Kean | 86 | ST | Serie A TIM | 11k coins | -17.3% |
 | Giorgio Scalvini | 86 | CB | Serie A TIM | 11k coins | -64.2% |
-| Moise Kean | 86 | ST | Serie A TIM | 11k coins | -72.8% |
-| Manuel Locatelli | 86 | CDM | Serie A TIM | 11k coins | -64.6% |
-| Antonio Caracciolo | 85 | CB | Serie A TIM | 11k coins | -75.8% |
-| Wladimiro Falcone | 85 | GK | Serie A TIM | 11k coins | -68.8% |
-| Domenico Berardi | 85 | RW | Serie A TIM | 11k coins | -61.6% |
-| Bryan Cristante | 85 | CM | Serie A TIM | 11k coins | -64.8% |
-| Matteo Politano | 85 | RM | Serie A TIM | 11k coins | -69.9% |
-| Vincenzo Grifo | 84 | LM | Bundesliga | 11k coins | -14% |
-| Ilario Monterisi | 84 | CB | Serie BKT | 11k coins | -66.1% |
-| Luca Mazzitelli | 84 | CM | Serie A TIM | 11k coins | -74.7% |
+| Cristiana Girelli | 85 | ST | Calcio A Femminile | 2k coins | -13% |
+| Domenico Berardi | 85 | RW | Serie A TIM | 11k coins | -77.4% |
+| Bryan Cristante | 85 | CM | Serie A TIM | 11k coins | -70.1% |
+| Antonio Caracciolo | 85 | CB | Serie A TIM | 11k coins | -17.3% |
+| Wladimiro Falcone | 85 | GK | Serie A TIM | 11k coins | -68.4% |
+| Matteo Politano | 85 | RM | Serie A TIM | 11k coins | -68.8% |
 
 
 ## 📈 Destaques
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **7k coins**
+- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **6k coins**
 
-- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11k coins**
+- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Marco Carnesecchi (87, GK)** da Serie A TIM, a apenas **11k coins**
+- **Nicolò Barella (87, CM)** da Serie A TIM, a apenas **2k coins**
 
-- **Federico Dimarco (87, LB)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Alessandro Bastoni (87, CB)** da Serie A TIM, a apenas **2k coins**
 
-- **Giorgio Scalvini (86, CB)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Marco Carnesecchi (87, GK)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (01/06/2026)?**  
-Gianluigi Donnarumma (89, Premier League) aparece como melhor custo-benefício, a 7k coins no PC.
+Gianluigi Donnarumma (89, Premier League) aparece como melhor custo-benefício, a 6k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
