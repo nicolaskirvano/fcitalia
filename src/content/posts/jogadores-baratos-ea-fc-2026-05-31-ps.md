@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:29:02.000Z
+pubDatetime: 2026-06-01T01:29:02.000Z
 title: "Jogadores baratos de Italianos no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Gianluigi Donnarumma | 89 | GK | Premier League | 7k coins | +18.6% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 13k coins | -1.9% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | -10% |
 | Marco Carnesecchi | 87 | GK | Serie A TIM | 12k coins | -12.5% |
 | Sandro Tonali | 87 | CDM | Premier League | 13k coins | -10.3% |
 | Federico Dimarco | 87 | LB | Serie A TIM | 13k coins | -57.3% |
@@ -50,7 +50,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **13k coins**
+- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Marco Carnesecchi (87, GK)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
