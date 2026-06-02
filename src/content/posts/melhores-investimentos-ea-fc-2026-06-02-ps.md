@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-02T10:29:01.000Z
+pubDatetime: 2026-06-02T13:29:02.000Z
 title: "Melhores investimentos em Italianos no EA FC (02/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
