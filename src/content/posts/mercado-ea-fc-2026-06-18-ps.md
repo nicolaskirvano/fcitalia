@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T20:13:28.000Z
+pubDatetime: 2026-06-18T22:29:28.000Z
 title: "Italianos no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Claudio Marchisio (87, Serie A TIM), com +28.4% em 24h, a 21k coins no Console (PS)."
+    a: "Andrea Pirlo (91, Icons), com +14.6% em 24h, a 924k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Daniele De Rossi (87), -37% em 24h, a 21k coins."
+    a: "Andrea Barzagli (87), -20% em 24h, a 24k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Gianluigi Donnarumma (89) — 95% de probabilidade de alta, a 272k coins."
+    a: "Pelo modelo FutQuant, Sandro Tonali (88) — 95% de probabilidade de alta, a 189k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 22 cartas em alta contra 26 em queda (média -0.7%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 30 cartas em alta contra 20 em queda (média -0.12%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado italiano de console apresenta um cenário lateralizado nesta terça-feira, com 22 altas e 26 quedas equilibrando os fluxos e uma média negativa de -0.7% nas últimas 24 horas. Essa estabilidade sugere cautela, pois não há tendência unilateral forte, mas sim oportunidades pontuais baseadas em volatilidade específica de cada card.
+O mercado de italianos no PS apresenta um claro viés comprador nesta segunda-feira, com 30 altas contra apenas 20 quedas e uma variação média negativa de apenas 0.12% nas últimas 24 horas. Esse cenário de otimismo sugere que os traders estão dispostos a pagar mais por ativos de qualidade, criando oportunidades tanto para venda de alta quanto para acumulação estratégica.
 
-> 🟢 **Maior alta:** Claudio Marchisio (87) **+28.4%** · 🔴 **Maior baixa:** Daniele De Rossi (87) **-37%**
+> 🟢 **Maior alta:** Andrea Pirlo (91) **+14.6%** · 🔴 **Maior baixa:** Andrea Barzagli (87) **-20%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Claudio Marchisio | 87 | Serie A TIM | 21k coins | +28.4% | +41% |
-| Francesco Totti | 89 | Icons | 394k coins | +19.4% | +18.7% |
-| Giovanni Di Lorenzo | 85 | Serie A TIM | 68k coins | +13.4% | +16.4% |
-| Fabio Cannavaro | 89 | Icons | 127k coins | +10.5% | +12.5% |
-| Antonio Di Natale | 88 | Serie A TIM | 88k coins | +8.8% | +40.3% |
-| Franco Baresi | 91 | Icons | 78k coins | +8.2% | +9.7% |
-| Daniele De Rossi | 91 | Serie A TIM | 216k coins | +6.7% | +13.7% |
-| Giorgio Chiellini | 89 | Icons | 240k coins | +6.7% | +10.1% |
-| Nicolò Savona | 83 | Premier League | 101k coins | +6.7% | +21.5% |
-| Paolo Maldini | 93 | Icons | 820k coins | +3.7% | -11.4% |
+| Andrea Pirlo | 91 | Icons | 924k coins | +14.6% | +20.5% |
+| Francesco Totti | 89 | Icons | 350k coins | +14.2% | +11.4% |
+| Tommaso Biasci | 84 | Serie BKT | 45k coins | +12.5% | +4.7% |
+| Fabio Cannavaro | 89 | Icons | 110k coins | +11.5% | +12.5% |
+| Andrea Pirlo | 90 | Icons | 110k coins | +10.6% | +5.5% |
+| Federico Chiesa | 86 | Premier League | 155k coins | +10.4% | +13.1% |
+| Ilario Monterisi | 84 | Serie BKT | 41k coins | +8.9% | +7.5% |
+| Gennaro Gattuso | 86 | Icons | 82k coins | +8.8% | +1.3% |
+| Claudio Marchisio | 88 | Serie A TIM | 140k coins | +7.7% | +17.6% |
+| Nicolò Zaniolo | 86 | Serie A TIM | 25k coins | +7.5% | -9.1% |
 
 
-Claudio Marchisio lidera as altas com 28.4% de ganho, atingindo 21k coins, seguido pelo ícone Francesco Totti que subiu 19.4% para 394k coins. Giovanni Di Lorenzo e Fabio Cannavaro também se destacam com alta probabilidade de continuidade, registrando 13.4% e 10.5% de valorização, respectivamente, nos preços de 68k e 127k coins.
+Andrea Pirlo (91) lidera as altas com 14.6% de valorização, atingindo 924k coins, seguido de perto por Francesco Totti (89) que subiu 14.2% para 350k coins. O mercado também respondeu bem a cartas de meta mais baratas, como Tommaso Biasci (84) que pulou 12.5% para 45k coins, e ícones consolidados como Fabio Cannavaro (89) e Andrea Pirlo (90), ambos em 110k coins com altas superiores a 10%.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Daniele De Rossi | 87 | Serie A TIM | 21k coins | -37% | +51.8% |
-| Tommaso Biasci | 84 | Serie BKT | 41k coins | -17.6% | -4.7% |
-| Roberto Baggio | 91 | Icons | 69k coins | -13% | -11.4% |
-| Gianluigi Donnarumma | 89 | Premier League | 272k coins | -12.7% | -12.7% |
-| Alessandro Bastoni | 91 | Serie A TIM | 69k coins | -10.7% | +23.8% |
-| Paolo Maldini | 94 | Icons | 1.28M coins | -8.9% | -13.7% |
-| Daniele De Rossi | 89 | Serie A TIM | 115k coins | -7% | -4% |
-| Alessandro Nesta | 89 | Icons | 76k coins | -6.7% | +3.7% |
-| Sandro Tonali | 91 | Premier League | 143k coins | -6.5% | +29.7% |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 62k coins | -5.9% | +10.4% |
+| Andrea Barzagli | 87 | Serie A TIM | 24k coins | -20% | -19% |
+| Barbara Bonansea | 87 | Calcio A Femminile | 54k coins | -16.3% | +0.9% |
+| Gianluigi Donnarumma | 89 | Premier League | 268k coins | -14.3% | -14.3% |
+| Paolo Maldini | 94 | Icons | 1.30M coins | -13.5% | -16.2% |
+| Sandro Tonali | 91 | Premier League | 148k coins | -10.3% | +12.9% |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 52k coins | -9.6% | +6.1% |
+| Francesco Totti | 89 | Icons | 873k coins | -8.9% | -0.2% |
+| Nicolò Savona | 83 | Premier League | 94k coins | -5.1% | +16.1% |
+| Sandro Tonali | 88 | Premier League | 189k coins | -5.1% | +10.7% |
+| Gianluca Gaetano | 83 | Serie A TIM | 35k coins | -4.1% | -6.7% |
 
 
-Daniele De Rossi (87) sofreu a maior queda do dia com -37%, despencando para 21k coins, enquanto Tommaso Biasci caiu 17.6% para 41k coins. Entre os ícones, Roberto Baggio e Paolo Maldini registraram quedas de 13% e 8.9%, respectivamente, com o último valendo 1.28M coins, indicando ajuste de preços em assets de alto valor.
+Na ponta de vendas, Andrea Barzagli (87) sofreu a maior queda de -20%, despencando para 24k coins, enquanto Gianluigi Donnarumma (89) caiu 14.3% para 268k coins. Paolo Maldini (94) também perdeu valor, recuando 13.5% para 1.30M coins, indicando que mesmo os ativos mais caros estão enfrentando pressão de venda ou correção após alta recente.
 
 
 ## 🔮 Projeções do modelo para 24h
@@ -74,17 +74,17 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Gianluigi Donnarumma | 89 | 272k coins | 339k coins | 95% |
-| Antonio Di Natale | 89 | 218k coins | 271k coins | 95% |
-| Sandro Tonali | 88 | 175k coins | 224k coins | 95% |
-| Fabio Cannavaro | 89 | 127k coins | 146k coins | 95% |
-| Roberto Baggio | 91 | 69k coins | 85k coins | 95% |
-| Mattia Zaccagni | 87 | 17k coins | 22k coins | 95% |
-| Giovanni Di Lorenzo | 85 | 68k coins | 80k coins | 95% |
-| Vincenzo Grifo | 84 | 38k coins | 51k coins | 95% |
+| Sandro Tonali | 88 | 189k coins | 242k coins | 95% |
+| Fabio Cannavaro | 89 | 110k coins | 127k coins | 95% |
+| Gianluigi Donnarumma | 89 | 268k coins | 334k coins | 95% |
+| Roberto Baggio | 91 | 80k coins | 99k coins | 95% |
+| Giovanni Di Lorenzo | 85 | 60k coins | 71k coins | 95% |
+| Andrea Pirlo | 90 | 110k coins | 139k coins | 95% |
+| Andrea Barzagli | 88 | 45k coins | 50k coins | 93% |
+| Giorgio Scalvini | 86 | 30k coins | 34k coins | 93% |
 
 
-O modelo projeta alta iminente para Gianluigi Donnarumma e Antonio Di Natale, ambos com 95% de probabilidade de valorização nos preços de 272k e 218k coins. Sandro Tonali, Fabio Cannavaro e Roberto Baggio também entram na lista de compras recomendadas pela IA, todos com 95% de chance de alta nos valores atuais de 175k, 127k e 69k coins.
+O modelo projeta alta com probabilidade de 95% para Sandro Tonali (88) a 189k coins, Fabio Cannavaro (89) a 110k coins e Gianluigi Donnarumma (89) a 268k coins. Outros ativos com forte expectativa de valorização incluem Roberto Baggio (91) a 80k coins, Giovanni Di Lorenzo (85) a 60k coins e Andrea Pirlo (90) a 110k coins, todos com chances muito elevadas de subir.
 
 
 ## ⚠️ Cartas em risco nas próximas 24h
@@ -93,18 +93,18 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Wladimiro Falcone | 85 | 32k coins | -23.8% |
-| Giovanni Di Lorenzo | 86 | 62k coins | -24% |
+| Gianluca Mancini | 85 | 18k coins | -29.2% |
+| Federico Chiesa | 86 | 155k coins | -15.6% |
+| Gianluca Zambrotta | 86 | 113k coins | -15.6% |
+| Giovanni Di Lorenzo | 86 | 52k coins | -24% |
 | Davide Zappacosta | 88 | 34k coins | -34.2% |
 | Leonardo Spinazzola | 89 | 34k coins | -16.7% |
-| Gianluca Mancini | 85 | 17k coins | -29.2% |
-| Nicolò Zaniolo | 86 | 22k coins | -21.4% |
-| Cher Ndour | 86 | 16k coins | -15.6% |
-| Antonio Di Natale | 88 | 88k coins | -12.6% |
+| Nicolò Zaniolo | 86 | 25k coins | -21.4% |
+| Wladimiro Falcone | 85 | 32k coins | -23.8% |
 
 
 ## 🎯 Conclusão do dia
-Recomenda-se comprar os ativos com alta probabilidade de subida indicados pelo modelo, como Donnarumma e Cannavaro, e evitar posicionar-se em De Rossi (87) devido à forte desvalorização recente. O ambiente lateral pede paciência e foco em trades de curto prazo com margem de lucro definida.
+A recomendação é comprar ativamente as cartas com previsão de alta de 95%, especialmente Donnarumma e Cannavaro, aproveitando a correção de preços para entrada. Evite segurar ativos que já sofreram quedas acentuadas sem sinal de suporte imediato, como Barzagli, e foque em rotacionar capital para os ícones e meta que o modelo indica como tendência de alta sólida.
 
 
 ## 📊 Nossa metodologia em 30 segundos
@@ -114,16 +114,16 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
-Claudio Marchisio (87, Serie A TIM), com +28.4% em 24h, a 21k coins no Console (PS).
+Andrea Pirlo (91, Icons), com +14.6% em 24h, a 924k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Daniele De Rossi (87), -37% em 24h, a 21k coins.
+Andrea Barzagli (87), -20% em 24h, a 24k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Gianluigi Donnarumma (89) — 95% de probabilidade de alta, a 272k coins.
+Pelo modelo FutQuant, Sandro Tonali (88) — 95% de probabilidade de alta, a 189k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em mercado de lado — altas e quedas se equilibram, com 22 cartas em alta contra 26 em queda (média -0.7%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 30 cartas em alta contra 20 em queda (média -0.12%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
