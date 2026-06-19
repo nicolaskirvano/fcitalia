@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T19:29:41.000Z
+pubDatetime: 2026-06-19T22:30:25.000Z
 title: "Italianos no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Gianluigi Donnarumma (89, Premier League), com +23.6% em 24h, a 340k coins no Console (PS)."
+    a: "Mattia Zaccagni (87, Serie A TIM), com +23.7% em 24h, a 21k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Barbara Bonansea (87), -35.2% em 24h, a 37k coins."
+    a: "Gianluigi Buffon (91), -43.5% em 24h, a 118k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Giovanni Di Lorenzo (85) — 95% de probabilidade de alta, a 68k coins."
+    a: "Pelo modelo FutQuant, Giovanni Di Lorenzo (85) — 95% de probabilidade de alta, a 70k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 19 cartas em alta contra 18 em queda (média 0.52%)."
+    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 13 cartas em alta contra 25 em queda (média -6.0%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado de cartas italianas para consoles PlayStation em 19 de junho de 2026 apresenta um cenário de extrema volatilidade e indecisão, caracterizado por um dia indefinido onde não há uma tendência dominante clara para guiar os traders. Com um equilíbrio quase perfeito entre altas e quedas, registrando 19 altas contra 18 quedas nas últimas 24 horas, o sentimento do mercado reflete uma média de variação de apenas 0.52%, indicando que a maioria dos ativos está lateralizada ou com movimentos de baixa amplitude. Esse contexto sugere que os traders estão aguardando gatilhos específicos, como anúncios de eventos ou mudanças nas odds de squads, antes de tomar posições mais agressivas em grandes volumes. A ausência de uma direção clara exige uma análise mais granular dos ativos individuais, pois o movimento coletivo não oferece oportunidades óbvias de arbitragem ou momentum trading. Portanto, a estratégia deve focar na identificação de outliers, sejam eles as poucas altas significativas ou as quedas acentuadas que podem representar oportunidades de compra em zonas de suporte ou de venda em pânico.
+O mercado dos italianos no console PS para 19 de junho de 2026 apresenta um cenário extremamente hostil, onde a pressão de venda esmagadora define a narrativa do dia com uma média negativa de -6.0% nas últimas 24 horas, refletindo a dominância de 25 quedas contra apenas 13 altas. Esse desequilíbrio claro indica que a liquidez está sendo drenada rapidamente de ativos que antes pareciam seguros, forçando os traders a adotarem uma postura defensiva imediata e a reconsiderarem suas tesas de longo prazo diante da volatilidade exacerbada. O sentimento de mercado pressionado não é apenas uma flutuação pontual, mas um sinal de alerta vermelho para quem mantém posições pesadas em cards de alta cotação sem proteção adequada, pois a dinâmica de oferta e demanda está claramente inclinada para o lado dos vendedores desesperados. Traders experientes devem interpretar esse ambiente como uma oportunidade de caça a descontos profundos em ícones e elites, enquanto evitam a qualquer custo tentar comprar no topo de movimentos artificiais ou de curta duração que carecem de sustentação fundamental. A estratégia diária deve focar na identificação de ativos com probabilidade de alta superior a 90% que ainda estejam em preços de entrada, aproveitando a pânico generalizado para acumular posições de qualidade antes de qualquer possível correção técnica.
 
-> 🟢 **Maior alta:** Gianluigi Donnarumma (89) **+23.6%** · 🔴 **Maior baixa:** Barbara Bonansea (87) **-35.2%**
+> 🟢 **Maior alta:** Mattia Zaccagni (87) **+23.7%** · 🔴 **Maior baixa:** Gianluigi Buffon (91) **-43.5%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluigi Donnarumma | 89 | Premier League | 340k coins | +23.6% | +3% |
-| Lorenzo Pellegrini | 83 | Serie A TIM | 52k coins | +22.8% | +1% |
-| Daniele De Rossi | 87 | Serie A TIM | 25k coins | +17.9% | +37.5% |
-| Fabio Cannavaro | 90 | Icons | 440k coins | +14.5% | +26.1% |
-| Giada Greggi | 87 | Calcio A Femminile | 20k coins | +14.3% | +14.3% |
-| Claudio Marchisio | 87 | Serie A TIM | 21k coins | +9.9% | +23.6% |
-| Vincenzo Grifo | 84 | Bundesliga | 41k coins | +7.9% | 0% |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 64k coins | +7.9% | +6.2% |
+| Mattia Zaccagni | 87 | Serie A TIM | 21k coins | +23.7% | +15.9% |
+| Lorenzo Pellegrini | 83 | Serie A TIM | 53k coins | +23.3% | +1.9% |
+| Gennaro Gattuso | 86 | Icons | 78k coins | +18.1% | +42.1% |
+| Claudio Marchisio | 87 | Serie A TIM | 20k coins | +15.4% | +25% |
+| Giovanni Di Lorenzo | 85 | Serie A TIM | 70k coins | +13.4% | +8.9% |
+| Sandro Tonali | 91 | Premier League | 148k coins | +11.4% | +15.6% |
 | Gianluca Gaetano | 83 | Serie A TIM | 38k coins | +7.1% | 0% |
-| Daniele De Rossi | 89 | Serie A TIM | 123k coins | +5.6% | +9.2% |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 64k coins | +5.5% | +5.5% |
+| Ilario Monterisi | 84 | Serie BKT | 43k coins | +4.3% | +0.6% |
+| Franco Baresi | 91 | Icons | 76k coins | +3.4% | +4.1% |
 
 
-Na ponta das altas, Gianluigi Donnarumma lidera com uma impressionante alta de 23.6% em 24 horas, atingindo 340k coins, com uma probabilidade de alta futura de 95%, o que sugere forte acumulação para um evento iminente ou squad exclusivo. Logo atrás, Lorenzo Pellegrini sobe 22.8% para 52k coins, embora sua probabilidade de alta futura seja baixa, de apenas 5%, indicando que este movimento pode ser um pico de curto prazo sem sustentação. Daniele De Rossi apresenta uma alta sólida de 17.9% para 25k coins, com uma probabilidade de alta de 27%, sugerindo que o ativo está em uma fase de consolidação ascendente moderada. Fabio Cannavaro, um ícone de alta liquidez, sobe 14.5% para 440k coins, com 35% de probabilidade de alta, refletindo a estabilidade dos ícones em momentos de incerteza do mercado. Giada Greggi completa o top 5 com 14.3% de alta para 20k coins, possuindo uma alta probabilidade de 80% de continuar subindo, o que a torna uma candidata interessante para swing trades de curto prazo, enquanto Claudio Marchisio e Vincenzo Grifo também registram altas modestas de 9.9% e 7.9% respectivamente, com probabilidades de alta de 16% e 95%, respectivamente, mostrando divergência nos sentimentos dos traders para ativos de média e baixa captação.
+Entre as poucas ilhas de estabilidade no mar de quedas, Mattia Zaccagni (87, Serie A TIM) se destaca com uma alta impressionante de 23.7% em 24 horas, atingindo 21k coins, um movimento robusto apoiado por uma probabilidade de alta de 95% que sugere forte interesse de mercado e possível escassez de oferta imediata. Lorenzo Pellegrini (83, Serie A TIM) também registrou um salto significativo de 23.3% para 53k coins, embora sua probabilidade de alta futura seja baixa de apenas 5%, indicando que este movimento pode ser uma correção técnica de curto prazo ou uma especulação isolada sem continuidade garantida. Gennaro Gattuso (86, Icons) subiu 18.1% para 78k coins com uma probabilidade de alta de 84%, demonstrando que ícones de médio porte ainda conseguem atrair capital quando há uma combinação de escassez e demanda estável, tornando-o um ativo interessante para swing trading. Claudio Marchisio (87, Serie A TIM) apresentou alta de 15.4% para 20k coins, mas com probabilidade de alta de apenas 16%, o que alerta os traders para a fragilidade desse movimento e o risco de reversão rápida se novos compradores não entrarem no mercado. Giovanni Di Lorenzo (85, Serie A TIM) completou o seleto grupo de altas com 13.4% para 70k coins e probabilidade de alta de 95%, consolidando-se como um dos ativos mais saudáveis do dia, com indicadores técnicos favoráveis e suporte de preço bem estabelecido pela comunidade de traders.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Barbara Bonansea | 87 | Calcio A Femminile | 37k coins | -35.2% | -30.4% |
-| Andrea Pirlo | 90 | Icons | 87k coins | -18.2% | -12.5% |
-| Paolo Maldini | 93 | Icons | 664k coins | -16.4% | -26.8% |
-| Antonio Di Natale | 89 | Serie A TIM | 175k coins | -14.2% | -2.1% |
-| Roberto Baggio | 91 | Icons | 69k coins | -13% | -14.6% |
-| Andrea Barzagli | 88 | Serie A TIM | 32k coins | -11.2% | +10.4% |
-| Franco Baresi | 92 | Icons | 398k coins | -10.7% | -17% |
-| Leonardo Spinazzola | 89 | Serie A TIM | 30k coins | -10.4% | -0.8% |
-| Francesco Totti | 89 | Icons | 331k coins | -7.1% | -3.9% |
-| Federico Chiesa | 86 | Premier League | 160k coins | -6.8% | +9.3% |
+| Gianluigi Buffon | 91 | Icons | 118k coins | -43.5% | -32.5% |
+| Andrea Pirlo | 91 | Icons | 622k coins | -36.2% | -25.2% |
+| Barbara Bonansea | 87 | Calcio A Femminile | 30k coins | -34% | -34.6% |
+| Paolo Maldini | 93 | Icons | 600k coins | -33.7% | -42% |
+| Luca Mazzitelli | 84 | Serie A TIM | 34k coins | -24.4% | -20.5% |
+| Andrea Pirlo | 90 | Icons | 81k coins | -24.3% | -18.2% |
+| Daniele De Rossi | 91 | Serie A TIM | 180k coins | -24.1% | -8.6% |
+| Tommaso Biasci | 84 | Serie BKT | 32k coins | -15.6% | -9.5% |
+| Davide Zappacosta | 88 | Serie A TIM | 30k coins | -13.8% | -12.5% |
+| Paolo Maldini | 92 | Icons | 325k coins | -13.6% | -18.4% |
 
 
-Do lado das baixas, Barbara Bonansea sofre a maior queda com -35.2% em 24 horas, caindo para 37k coins, apesar de ter 50% de probabilidade de alta, o que indica um movimento de venda forçada ou correção excessiva que pode atrair compradores de valor. Andrea Pirlo, um dos ativos mais negociados, despenca 18.2% para 87k coins, mas sua probabilidade de alta de 95% sugere fortemente que esta queda é uma oportunidade de compra de alta convicção para traders que acreditam na recuperação imediata. Paolo Maldini também recua 16.4% para 664k coins, com apenas 23% de probabilidade de alta, o que pode indicar uma redistribuição de capital para ativos mais baratos ou uma falta de interesse em ícones de altíssimo preço neste momento específico. Antonio Di Natale cai 14.2% para 175k coins, mas assim como Pirlo, possui 95% de probabilidade de alta, tornando sua queda atual uma potencial armadilha de venda para os otimistas. Roberto Baggio (-13% para 69k coins) e Franco Baresi (-10.7% para 398k coins) também registram quedas significativas com altas probabilidades de alta de 95% e 84% respectivamente, sugerindo que o mercado está vendendo ícones estabelecidos em níveis que modelos preditivos consideram subvalorizados a curto prazo.
+As quedas foram devastadoras e abrangem os ativos mais líquidos do mercado, com Gianluigi Buffon (91, Icons) sofrendo uma queda brutal de 43.5% em 24 horas para 118k coins, um movimento que reflete uma perda massiva de confiança e uma probabilidade de alta de apenas 18%, sugerindo que o fundo ainda não foi encontrado e os riscos de manter essa posição são elevadíssimos. Andrea Pirlo (91, Icons) despencou 36.2% para 622k coins, um ativo de altíssima cotação que está sendo liquidado agressivamente, com probabilidade de alta de 35% indicando que a estabilização pode demorar e que traders de curto prazo devem evitar completamente a exposição nesse momento. Barbara Bonansea (87, Calcio A Femminile) caiu 34% para 30k coins, mostrando que nem mesmo nichos específicos estão imunes à pressão vendedora generalizada, com probabilidade de alta de 50% sugerindo uma incerteza total sobre a direção futura do preço. Paolo Maldini (93, Icons) teve uma queda de 33.7% para 600k coins, um movimento preocupante dado o status de elite do card, com probabilidade de alta de apenas 23% reforçando a ideia de que grandes capitais estão saindo do mercado de ícones premium. Luca Mazzitelli (84, Serie A TIM) caiu 24.4% para 34k coins, representando o tipo de perda que afeta carteiras de médio porte, com probabilidade de alta de 50% indicando que o ativo está em uma zona de decisão crítica entre continuar caindo ou estabilizar temporariamente.
 
 
 ## 🔮 Radar de valorização (24h)
@@ -74,17 +74,17 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Giovanni Di Lorenzo | 85 | 68k coins | 81k coins | 95% |
-| Gianluigi Donnarumma | 89 | 340k coins | 423k coins | 95% |
-| Sandro Tonali | 88 | 187k coins | 239k coins | 95% |
-| Antonio Di Natale | 89 | 175k coins | 218k coins | 95% |
-| Andrea Pirlo | 90 | 87k coins | 110k coins | 95% |
-| Mattia Zaccagni | 87 | 17k coins | 22k coins | 95% |
-| Roberto Baggio | 91 | 69k coins | 85k coins | 95% |
+| Giovanni Di Lorenzo | 85 | 70k coins | 83k coins | 95% |
+| Gianluigi Donnarumma | 89 | 272k coins | 339k coins | 95% |
+| Sandro Tonali | 88 | 167k coins | 214k coins | 95% |
+| Andrea Pirlo | 90 | 81k coins | 102k coins | 95% |
+| Mattia Zaccagni | 87 | 21k coins | 27k coins | 95% |
+| Roberto Baggio | 91 | 78k coins | 96k coins | 95% |
 | Vincenzo Grifo | 84 | 41k coins | 55k coins | 95% |
+| Giorgio Scalvini | 86 | 30k coins | 34k coins | 93% |
 
 
-O modelo preditivo identifica uma convergência interessante entre os ativos que estão caindo e aqueles projetados para subir, com Giovanni Di Lorenzo, Gianluigi Donnarumma, Sandro Tonali, Antonio Di Natale, Andrea Pirlo, Mattia Zaccagni, Roberto Baggio e Vincenzo Grifo todos compartilhando uma probabilidade de alta de 95%. Essa uniformidade na previsão sugere que o algoritmo detectou padrões de acumulação ou gatilos de squad que ainda não se refletiram totalmente nos preços de mercado para a maioria desses jogadores. Especificamente, a previsão para Di Lorenzo a 68k coins e Donnarumma a 340k coins reforça a tese de que as altas atuais desses dois jogadores são o início de uma tendência mais longa, enquanto as quedas de Pirlo e Di Natale são vistas como correções temporárias antes de uma recuperação. A inclusão de Sandro Tonali e Mattia Zaccagni, que não apareceram nas listas de maiores variações do dia, indica que o mercado pode estar prestes a redirecionar capital para esses ativos de média captação, antecipando uma rotação de estilo ou evento que os favoreça.
+O modelo de previsão identifica Giovanni Di Lorenzo (85, Serie A TIM) como ativo de alta probabilidade com 95% de chance de alta para 70k coins, confirmando a tendência positiva observada nas últimas 24 horas e sugerindo continuidade no movimento ascendente. Gianluigi Donnarumma (89, Premier League) é projetado com 95% de probabilidade de alta para 272k coins, um ativo que parece estar em fase de acumulação silenciosa antes de um possível breakout significativo, oferecendo uma oportunidade de entrada estratégica. Sandro Tonali (88, Premier League) também possui 95% de probabilidade de alta para 167k coins, alinhando-se com o movimento recente de alta de 11.4% do card 91, indicando consistência na valorização da carreira do jogador no mercado virtual. Andrea Pirlo (90, Icons) é uma previsão interessante com 95% de probabilidade de alta para 81k coins, apesar da queda recente do card 91, sugerindo uma divergência de valor entre as versões e uma possível correção de preço para o card mais barato. Mattia Zaccagni (87, Serie A TIM) mantém 95% de probabilidade de alta para 21k coins, validando a compra imediata após o forte ganho de 23.7% e indicando que o suporte de preço está sendo estabelecido em níveis mais elevados. Roberto Baggio (91, Icons) é projetado com 95% de probabilidade de alta para 78k coins, um ícone de preço acessível que pode atrair compradores de baixo risco em um mercado volátil. Vincenzo Grifo (84, Bundesliga) tem 95% de probabilidade de alta para 41k coins, oferecendo uma alternativa de baixo custo com alto potencial de retorno relativo. Giorgio Scalvini (86, Serie A TIM) encerra a lista com 93% de probabilidade de alta para 30k coins, um ativo sólido para carteiras diversificadas que buscam exposição à Serie A com menor volatilidade.
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -93,18 +93,18 @@ O modelo vê **risco de queda** nestas nas próximas 24h — segure a compra:
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Lorenzo Pellegrini | 83 | 52k coins | -15.6% |
-| Leonardo Spinazzola | 89 | 30k coins | -16.7% |
+| Davide Zappacosta | 88 | 30k coins | -34.2% |
 | Giovanni Di Lorenzo | 86 | 64k coins | -24% |
+| Lorenzo Pellegrini | 83 | 53k coins | -15.6% |
 | Wladimiro Falcone | 85 | 32k coins | -23.8% |
-| Gianluca Mancini | 85 | 19k coins | -29.2% |
-| Federico Chiesa | 86 | 160k coins | -15.6% |
-| Antonio Di Natale | 88 | 70k coins | -12.6% |
+| Nicolò Zaniolo | 86 | 19k coins | -21.4% |
 | Sandro Tonali | 87 | 32k coins | -12.6% |
+| Claudio Marchisio | 87 | 20k coins | -10.3% |
+| Claudio Marchisio | 88 | 140k coins | -10.2% |
 
 
 ## 🎯 O que fazer hoje
-A estratégia recomendada para o dia é focar na compra agressiva dos ícones e lendas que estão em queda mas com alta probabilidade de recuperação, especificamente Andrea Pirlo, Antonio Di Natale e Roberto Baggio, aproveitando o pânico de venda para acumular posições a preços descontados. Simultaneamente, traders de momentum devem considerar a venda parcial de Gianluigi Donnarumma e Giada Greggi, pois suas altas recentes combinadas com altas probabilidades de continuação sugerem que o pico pode estar próximo ou que há espaço para lucros rápidos antes de uma possível correção. É aconselhável evitar novos investimentos em Paolo Maldini e Fabio Cannavaro no curto prazo, pois suas probabilidades de alta são mais baixas e as quedas podem indicar uma perda de interesse sustentada. Para quem busca exposição a média captação, Mattia Zaccagni e Sandro Tonali oferecem uma entrada limpa baseada apenas na previsão do modelo, sem o ruído das altas recentes, permitindo uma compra em zona de valor relativo. O timing ideal para executar essas operações é durante as horas de pico de atividade do servidor, quando a liquidez é maior e os spreads de compra e venda são mais apertados, minimizando o impacto da execução nas posições.
+A estratégia do dia deve priorizar a compra agressiva de ativos com probabilidade de alta superior a 90%, especialmente Giovanni Di Lorenzo (85, Serie A TIM) e Mattia Zaccagni (87, Serie A TIM), que combinam alta recente com projeções robustas de continuidade, oferecendo o melhor risco-retorno em um mercado pressionado. Traders devem evitar completamente a compra de ícones de alta cotação como Gianluigi Buffon (91, Icons) e Andrea Pirlo (91, Icons) devido às quedas profundas e probabilidades de alta baixas, que indicam queda livre sem fundo visível a curto prazo. Posições existentes em Paolo Maldini (93, Icons) e Sandro Tonali (91, Premier League) devem ser monitoradas de perto, com ordens de stop-loss ajustadas para proteger o capital contra quedas adicionais, já que a probabilidade de alta de Tonali é de apenas 50% e a de Maldini é de 23%. É recomendável segurar posições em Andrea Pirlo (90, Icons) e Roberto Baggio (91, Icons) devido às altas probabilidades de previsão de alta, apesar da volatilidade recente, pois o modelo indica uma reversão técnica iminente para esses ativos específicos. A diversificação deve incluir ativos de menor valor como Giorgio Scalvini (86, Serie A TIM) e Vincenzo Grifo (84, Bundesliga) para equilibrar o portfólio e reduzir a exposição a choques de mercado em ativos premium, aproveitando a liquidez relativa desses segmentos.
 
 
 ## 🔍 Como apuramos os preços
@@ -114,16 +114,16 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Gianluigi Donnarumma (89, Premier League), com +23.6% em 24h, a 340k coins no Console (PS).
+Mattia Zaccagni (87, Serie A TIM), com +23.7% em 24h, a 21k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Barbara Bonansea (87), -35.2% em 24h, a 37k coins.
+Gianluigi Buffon (91), -43.5% em 24h, a 118k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Giovanni Di Lorenzo (85) — 95% de probabilidade de alta, a 68k coins.
+Pelo modelo FutQuant, Giovanni Di Lorenzo (85) — 95% de probabilidade de alta, a 70k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 19 cartas em alta contra 18 em queda (média 0.52%).
+Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 13 cartas em alta contra 25 em queda (média -6.0%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
