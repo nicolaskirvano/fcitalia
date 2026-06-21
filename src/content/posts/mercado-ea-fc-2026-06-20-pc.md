@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T22:30:51.000Z
+pubDatetime: 2026-06-21T01:29:47.000Z
 title: "Italianos no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Paolo Maldini (92, Icons), com +37.5% em 24h, a 550k coins no PC."
+    a: "Paolo Maldini (92, Icons), com +44.5% em 24h, a 548k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Nicolò Savona (83), -45.5% em 24h, a 52k coins."
+    a: "Daniele De Rossi (87), -26.1% em 24h, a 22k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 18 cartas em alta contra 22 em queda (média -2.62%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 26 cartas em alta contra 18 em queda (média 3.06%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado de cartas italianas no EA FC Ultimate Team para PC apresenta um cenário de extrema volatilidade e predomínio de quedas neste dia 20 de junho de 2026, refletindo uma desconfiança generalizada dos traders em relação à sustentabilidade dos preços atuais. Com uma média negativa de -2.62% em 24 horas, o balanço mostra claramente a fragilidade do setor, com apenas 18 registros de alta contra 22 de queda, sinalizando que a pressão vendedora está superando a demanda orgânica. O tom do dia é de cautela extrema, onde apenas ativos com fundamentos muito específicos ou notícias imediatas conseguiram resistir à onda de liquidificação que afasta investidores de carteiras expostas ao mercado europeu. Traders experientes devem estar atentos não apenas aos números absolutos, mas à probabilidade de alta associada a cada movimento, pois muitas subidas recentes carecem de suporte técnico sólido para se manterem. Este ambiente de baixa liquidez relativa exige uma análise granular de cada ativo, diferenciando oportunidades de compra de armadilhas de valorização temporária que podem reverter rapidamente.
+O cenário do mercado italiano para PC nesta terça-feira, 20 de junho de 2026, exibe uma dominância clara das valorizações, com um balanço de 26 altas contra apenas 18 quedas, refletindo um sentimento de otimismo e liquidez concentrada nos ativos mais cobiçados. A média de variação positiva de 3.06% em 24 horas indica que o volume de negociações está sendo absorvido por compradores dispostos a pagar prêmios, especialmente na categoria de ícones e estrelas da Serie A TIM. Esse ambiente favorável sugere que traders devem estar atentos a oportunidades de compra rápida em ativos que ainda não atingiram seus picos psicológicos, evitando vender prematuramente posições de longo prazo. A volatilidade presente no segmento exige disciplina, pois a probabilidade de continuidade nas altas varia significativamente entre os jogadores, demandando uma análise precisa dos fundamentos por trás de cada movimento de preço. O foco do dia está claramente na especulação de curto prazo com ícones de alto valor e jogadores de liga ativa que estão sendo empurrados para cima pela demanda de squads específicos ou rotas de SBC.
 
-> 🟢 **Maior alta:** Paolo Maldini (92) **+37.5%** · 🔴 **Maior baixa:** Nicolò Savona (83) **-45.5%**
+> 🟢 **Maior alta:** Paolo Maldini (92) **+44.5%** · 🔴 **Maior baixa:** Daniele De Rossi (87) **-26.1%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Paolo Maldini | 92 | Icons | 550k coins | +37.5% | +37.5% |
-| Davide Zappacosta | 88 | Serie A TIM | 28k coins | +30.3% | -45.8% |
-| Tommaso Biasci | 84 | Serie BKT | 40k coins | +17.9% | -19% |
-| Mattia Zaccagni | 87 | Serie A TIM | 32k coins | +14.6% | -13% |
-| Barbara Bonansea | 87 | Calcio A Femminile | 40k coins | +13.2% | +182.2% |
-| Andrea Barzagli | 88 | Serie A TIM | 37k coins | +8.8% | +5.7% |
-| Roberto Baggio | 91 | Icons | 84k coins | +7.2% | +3.5% |
-| Luca Mazzitelli | 84 | Serie A TIM | 34k coins | +7% | -17.5% |
-| Leonardo Spinazzola | 89 | Serie A TIM | 31k coins | +6.9% | -18.4% |
-| Sandro Tonali | 91 | Premier League | 120k coins | +5.3% | +22.4% |
+| Paolo Maldini | 92 | Icons | 548k coins | +44.5% | +37.2% |
+| Davide Zappacosta | 88 | Serie A TIM | 24k coins | +39.2% | -51.9% |
+| Mattia Zaccagni | 87 | Serie A TIM | 31k coins | +32.3% | +13.9% |
+| Gianluigi Buffon | 91 | Icons | 112k coins | +29.9% | -19.6% |
+| Cher Ndour | 86 | Serie A TIM | 20k coins | +28.6% | +14.1% |
+| Barbara Bonansea | 87 | Calcio A Femminile | 49k coins | +26.6% | +163.2% |
+| Franco Baresi | 92 | Icons | 850k coins | +24.8% | +12.5% |
+| Riccardo Orsolini | 85 | Serie A TIM | 32k coins | +22.4% | +13.9% |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 45k coins | +21.9% | -2.6% |
+| Gianluca Mancini | 85 | Serie A TIM | 27k coins | +17% | +7.8% |
 
 
-Entre os poucos ativos que conseguiram valorizar, Paolo Maldini destaca-se com uma impressionante alta de 37.5% em 24 horas, atingindo o patamar de 550k coins, embora sua probabilidade de alta de apenas 31% sugira que este movimento seja mais especulativo do que fundamentado em demanda sustentada. Davide Zappacosta surge como uma das oportunidades mais interessantes com uma alta de 30.3% para 28k coins, apoiado por uma robusta probabilidade de alta de 65%, indicando que a valorização tem base real no mercado de trading e não apenas em manipulação pontual. Tommaso Biasci também apresenta movimento positivo de 17.9% para 40k coins, com probabilidade de alta de 37%, o que pode indicar um ajuste de preços em baixa liquidez, mas requer atenção devido ao risco de reversão. Mattia Zaccagni subiu 14.6% para 32k coins, mas com uma probabilidade de alta baixa de 18%, sinalizando que a alta pode ser frágil e propensa a correções rápidas se não houver entrada de novos compradores. Por fim, Barbara Bonansea registrou alta de 13.2% para 40k coins com probabilidade de 28%, enquanto Andrea Barzagli e Roberto Baggio mostraram ganhos modestos de 8.8% e 7.2% respectivamente, com probabilidades mais equilibradas de 49% e 55%, sugerindo estabilidade relativa em seus novos níveis de preço.
+Paolo Maldini lidera o ranking com uma impressionante alta de 44.5% em 24 horas, atingindo 548k coins, um movimento impulsionado pela alta probabilidade de continuidade de 31% e pela escassez de itens na prateleira durante o pico de negociação. Davide Zappacosta apresenta a segunda maior porcentual com 39.2% para 24k coins, e sua alta probabilidade de alta de 65% sugere que o preço ainda está subvalorizado frente à demanda imediata, tornando-o um alvo atraente para flips rápidos. Mattia Zaccagni subiu 32.3% para 31k coins, embora a probabilidade de alta de apenas 18% indique que o movimento pode estar exaurido a curto prazo, sugerindo cautela na entrada. Gianluigi Buffon valorizou 29.9% para 112k coins, mantendo uma probabilidade de alta de 31%, o que reflete a estabilidade do ativo em momentos de incerteza no mercado geral. Cher Ndour completou o top cinco com 28.6% de alta para 20k coins, com uma probabilidade de alta de 50%, equilibrando risco e retorno para traders que buscam exposição em ativos de menor capital empregado.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nicolò Savona | 83 | Premier League | 52k coins | -45.5% | -43.2% |
-| Gianluca Zambrotta | 86 | Icons | 65k coins | -40.9% | -17.7% |
-| Giorgio Chiellini | 88 | Icons | 66k coins | -32.1% | -33.5% |
-| Alessandro Bastoni | 91 | Serie A TIM | 47k coins | -23.1% | -45.3% |
-| Antonio Di Natale | 88 | Serie A TIM | 46k coins | -22.5% | -1.1% |
-| Andrea Pirlo | 90 | Icons | 98k coins | -22.3% | -23.1% |
-| Daniele De Rossi | 87 | Serie A TIM | 26k coins | -21.6% | -1.9% |
-| Fabio Cannavaro | 89 | Icons | 68k coins | -20.6% | -30.8% |
+| Daniele De Rossi | 87 | Serie A TIM | 22k coins | -26.1% | -17.8% |
+| Francesco Totti | 89 | Icons | 447k coins | -18.1% | -25.5% |
 | Alessandro Del Piero | 90 | Icons | 68k coins | -18.1% | -40.4% |
-| Antonio Di Natale | 92 | Serie A TIM | 575k coins | -15.4% | -9.7% |
+| Giorgio Chiellini | 89 | Icons | 268k coins | -17.8% | -18.8% |
+| Vincenzo Grifo | 84 | Bundesliga | 31k coins | -15.3% | -14.8% |
+| Sandro Tonali | 91 | Premier League | 100k coins | -6.8% | +10.7% |
+| Alessandro Bastoni | 91 | Serie A TIM | 47k coins | -6% | -45.7% |
+| Andrea Pirlo | 90 | Icons | 85k coins | -5.8% | -8.2% |
+| Domenico Berardi | 85 | Serie A TIM | 28k coins | -5.1% | -6.7% |
+| Niccolò Pierozzi | 83 | Serie BKT | 36k coins | -4.5% | -17.3% |
 
 
-As quedas dominam o cenário com Nicolò Savona liderando as perdas em uma drástica queda de 45.5% para 52k coins, com probabilidade de alta mínima de 12%, indicando um colapso total de confiança e possível panico de venda em massa entre os detentores da carta. Gianluca Zambrotta também sofreu uma queda severa de 40.9% para 65k coins, apesar de manter uma probabilidade de alta de 54%, o que pode sugerir uma oportunidade de compra de desconto para traders de médio prazo dispostos a aguardar a estabilização. Giorgio Chiellini caiu 32.1% para 66k coins com probabilidade de alta de apenas 27%, reforçando a tendência de enfraquecimento de ícones de defesa que não têm suporte de eventos promocionais imediatos. Alessandro Bastoni, apesar de ser uma carta de alta avaliação, desvalorizou 23.1% para 47k coins, mantendo uma alta probabilidade de alta de 69%, o que cria um cenário clássico de 'sangue no chão' onde a queda é vista como oportunidade por algoritmos e traders experientes. Antonio Di Natale e Andrea Pirlo também registraram quedas significativas de 22.5% e 22.3% respectivamente, com Pirlo caindo para 98k coins e Di Natale para 46k coins, mostrando que até mesmo as lendas mais consolidadas não estão imunes à pressão vendedora atual do mercado italiano.
+Daniele De Rossi sofreu a maior queda com -26.1% para 22k coins, e sua baixa probabilidade de alta de 17% indica que a venda massiva pode continuar, aconselhando traders a evitarem compras prematuras até estabilização. Francesco Totti recuou 18.1% para 447k coins, com uma probabilidade de alta de apenas 11%, sinalizando uma possível correção mais profunda ou falta de interesse dos grandes investidores no ativo neste momento. Alessandro Del Piero também caiu 18.1% para 68k coins, mas sua probabilidade de alta de 16% ainda é ligeiramente superior à de Totti, sugerindo que o suporte pode ser testado novamente. Giorgio Chiellini desceu 17.8% para 268k coins, e apesar da probabilidade de alta de 32%, a queda significativa sugere que grandes carteiras estão realizando lucros ou ajustando portfólios. Vincenzo Grifo, embora não seja italiano, aparece nas quedas com -15.3% para 31k coins, com probabilidade de alta de 19%, indicando fraqueza no setor defensivo de ligas secundárias que pode se espalhar.
 
 
 ## 🎯 A estratégia do dia
-A estratégia ideal para hoje é manter-se altamente seletivo, focando em acumular posições em ativos com alta probabilidade de recuperação e fundamentos sólidos, como Davide Zappacosta e Alessandro Bastoni, que apresentam quedas ou altas sustentadas por probabilidades superiores a 60%. Evite fortemente a compra especulativa de Paolo Maldini ou Nicolò Savona neste momento, pois a discrepância entre seus movimentos de preço e as baixas probabilidades de alta indica alta volatilidade e risco de perda rápida de capital. Traders devem considerar a venda de exposições em ícones de defesa como Chiellini e Cannavaro, que mostram sinais de enfraquecimento estrutural sem suporte imediato de eventos do jogo. O timing atual favorece a paciência, comprando apenas nos fundos de correção de cartas com alta probabilidade de alta, como Luca Mazzitelli e Roberto Baggio, que oferecem um equilíbrio melhor entre risco e retorno potencial. Mantenha o caixa líquido para aproveitar oportunidades de última hora que possam surgir com a volatilidade extrema, e evite alavancar posições em ativos sem suporte técnico claro, priorizando a preservação de capital em um mercado claramente em tendência de baixa.
+A estratégia recomendada para hoje é comprar Davide Zappacosta e Cher Ndour devido às suas altas probabilidades de alta de 65% e 50%, respectivamente, aproveitando a momentum do mercado para flips de curto prazo. Segure posições em Paolo Maldini e Gianluigi Buffon, pois suas valorizações de 44.5% e 29.9% são sustentadas por probabilidades de continuidade de 31%, indicando que há mais espaço para alta antes da estabilização. Evite comprar Daniele De Rossi e Francesco Totti até que os preços se estabilizem, já que suas probabilidades de alta de 17% e 11% sugerem que a queda não acabou. Considere Franco Baresi como uma aposta de alto risco/alto retorno, com alta de 24.8% e probabilidade de 56%, pois o ativo de 850k coins pode atrair grandes investidores em busca de segurança relativa. Monitore de perto Mattia Zaccagni, pois a baixa probabilidade de 18% indica que qualquer compra deve ser executada com stop-loss rigoroso para evitar perdas em caso de reversão brusca.
 
 
 ## ⚙️ A engine por tras deste post
@@ -77,13 +77,13 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Paolo Maldini (92, Icons), com +37.5% em 24h, a 550k coins no PC.
+Paolo Maldini (92, Icons), com +44.5% em 24h, a 548k coins no PC.
 
 **E a maior queda do dia?**  
-Nicolò Savona (83), -45.5% em 24h, a 52k coins.
+Daniele De Rossi (87), -26.1% em 24h, a 22k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 18 cartas em alta contra 22 em queda (média -2.62%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 26 cartas em alta contra 18 em queda (média 3.06%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
