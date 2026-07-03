@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-02T22:29:05.000Z
+pubDatetime: 2026-07-03T01:29:06.000Z
 title: "Jogadores baratos de Italianos no EA FC (02/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -50% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | -4.2% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 12k coins | -10% |
-| Claudio Marchisio | 87 | CM | Serie A TIM | 14k coins | -17.8% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -47.1% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | -6.2% |
+| Claudio Marchisio | 87 | CM | Serie A TIM | 14k coins | -23.9% |
+| Cher Ndour | 86 | CM | Serie A TIM | 14k coins | -30.1% |
 
 
 ## 📈 Destaques
 
 - **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12k coins**
-
-- **Andrea Barzagli (87, CB)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11k coins**
 
 - **Claudio Marchisio (87, CM)** da Serie A TIM, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Cher Ndour (86, CM)** da Serie A TIM, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
