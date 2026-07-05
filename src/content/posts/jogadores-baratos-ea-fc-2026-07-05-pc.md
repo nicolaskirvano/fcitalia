@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T10:29:09.000Z
+pubDatetime: 2026-07-05T19:29:10.000Z
 title: "Jogadores baratos de Italianos no EA FC (05/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,10 +29,10 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | +46.7% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | +87.5% |
 | Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | -4.3% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 12k coins | -36.5% |
-| Cristiana Girelli | 85 | ST | Calcio A Femminile | 3k coins | +93.8% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 12k coins | -35.1% |
+| Cristiana Girelli | 85 | ST | Calcio A Femminile | 2k coins | +47.1% |
 
 
 ## 📈 Destaques
@@ -43,7 +43,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Andrea Barzagli (87, CB)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Cristiana Girelli (85, ST)** da Calcio A Femminile, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Cristiana Girelli (85, ST)** da Calcio A Femminile, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
