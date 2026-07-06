@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-06T19:29:05.000Z
+pubDatetime: 2026-07-06T22:29:05.000Z
 title: "Jogadores baratos de Italianos no EA FC (06/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 06/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (06/07/2026)?"
-    a: "Gianluigi Donnarumma (89, Premier League) aparece como melhor custo-benefício, a 3k coins no Console (PS)."
+    a: "Gianluca Vialli (89, Serie A TIM) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **06/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Gianluigi Donnarumma (89) por apenas 3k coins.
+> 💰 **Melhor pechincha:** Gianluca Vialli (89) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,26 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | +115.4% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 14k coins | +22.2% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 14k coins | -17.9% |
-| Mattia Zaccagni | 87 | LM | Serie A TIM | 14k coins | -1.8% |
-| Cher Ndour | 86 | CM | Serie A TIM | 12k coins | -16.7% |
-| Nicolò Zaniolo | 86 | RM | Serie A TIM | 13k coins | -13.1% |
-| Cristiana Girelli | 85 | ST | Calcio A Femminile | 2k coins | +54.5% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +6.7% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 12k coins | -27.9% |
+| Cher Ndour | 86 | CM | Serie A TIM | 13k coins | -11.7% |
+| Nicolò Zaniolo | 86 | RM | Serie A TIM | 15k coins | -1.6% |
+| Cristiana Girelli | 85 | ST | Calcio A Femminile | 2k coins | +45.5% |
 
 
 ## 📈 Destaques
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Andrea Barzagli (87, CB)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Andrea Barzagli (87, CB)** da Serie A TIM, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Cher Ndour (86, CM)** da Serie A TIM, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mattia Zaccagni (87, LM)** da Serie A TIM, a apenas **14k coins**
+- **Nicolò Zaniolo (86, RM)** da Serie A TIM, a apenas **15k coins**
 
-- **Cher Ndour (86, CM)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Cristiana Girelli (85, ST)** da Calcio A Femminile, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
@@ -65,7 +63,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (06/07/2026)?**  
-Gianluigi Donnarumma (89, Premier League) aparece como melhor custo-benefício, a 3k coins no Console (PS).
+Gianluca Vialli (89, Serie A TIM) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
