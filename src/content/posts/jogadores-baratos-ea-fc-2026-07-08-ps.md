@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-08T19:29:05.000Z
+pubDatetime: 2026-07-08T22:29:05.000Z
 title: "Jogadores baratos de Italianos no EA FC (08/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,24 +29,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | +66.7% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 13k coins | +17% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 14k coins | +7.3% |
-| Claudio Marchisio | 87 | CM | Serie A TIM | 15k coins | +1.7% |
-| Cristiana Girelli | 85 | ST | Calcio A Femminile | 2k coins | +89.5% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | +55.6% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +10.6% |
+| Claudio Marchisio | 87 | CM | Serie A TIM | 14k coins | 0% |
+| Giada Greggi | 87 | CM | Calcio A Femminile | 15k coins | -15.5% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 15k coins | +1.8% |
+| Cher Ndour | 86 | CM | Serie A TIM | 14k coins | +17.3% |
+| Cristiana Girelli | 85 | ST | Calcio A Femminile | 2k coins | +100% |
+| Manuel Locatelli | 84 | CDM | Serie A Enilive | 2k coins | +33.3% |
 
 
 ## 📈 Destaques
 
 - **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Andrea Barzagli (87, CB)** da Serie A TIM, a apenas **14k coins**
+- **Claudio Marchisio (87, CM)** da Serie A TIM, a apenas **14k coins**
 
-- **Claudio Marchisio (87, CM)** da Serie A TIM, a apenas **15k coins**
+- **Giada Greggi (87, CM)** da Calcio A Femminile, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Cristiana Girelli (85, ST)** da Calcio A Femminile, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Andrea Barzagli (87, CB)** da Serie A TIM, a apenas **15k coins**
 
 
 ## Por que estas cartas?
