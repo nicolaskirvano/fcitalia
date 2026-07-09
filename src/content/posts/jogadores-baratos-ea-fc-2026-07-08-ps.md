@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-08T22:29:05.000Z
+pubDatetime: 2026-07-09T01:29:05.000Z
 title: "Jogadores baratos de Italianos no EA FC (08/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 08/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (08/07/2026)?"
-    a: "Gianluigi Donnarumma (89, Premier League) aparece como melhor custo-benefício, a 3k coins no Console (PS)."
+    a: "Gianluca Vialli (89, Serie A TIM) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **08/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Gianluigi Donnarumma (89) por apenas 3k coins.
+> 💰 **Melhor pechincha:** Gianluca Vialli (89) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,27 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | +55.6% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +10.6% |
-| Claudio Marchisio | 87 | CM | Serie A TIM | 14k coins | 0% |
-| Giada Greggi | 87 | CM | Calcio A Femminile | 15k coins | -15.5% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 15k coins | +1.8% |
-| Cher Ndour | 86 | CM | Serie A TIM | 14k coins | +17.3% |
-| Cristiana Girelli | 85 | ST | Calcio A Femminile | 2k coins | +100% |
-| Manuel Locatelli | 84 | CDM | Serie A Enilive | 2k coins | +33.3% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 14k coins | +17% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 12k coins | -5.5% |
+| Giada Greggi | 87 | CM | Calcio A Femminile | 15k coins | -16.9% |
+| Claudio Marchisio | 87 | CM | Serie A TIM | 15k coins | +7.7% |
+| Cher Ndour | 86 | CM | Serie A TIM | 14k coins | -3.8% |
+| Cristiana Girelli | 85 | ST | Calcio A Femminile | 2k coins | +111.1% |
 
 
 ## 📈 Destaques
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12k coins**
-
-- **Claudio Marchisio (87, CM)** da Serie A TIM, a apenas **14k coins**
+- **Andrea Barzagli (87, CB)** da Serie A TIM, a apenas **12k coins**
 
 - **Giada Greggi (87, CM)** da Calcio A Femminile, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Andrea Barzagli (87, CB)** da Serie A TIM, a apenas **15k coins**
+- **Claudio Marchisio (87, CM)** da Serie A TIM, a apenas **15k coins**
+
+- **Cher Ndour (86, CM)** da Serie A TIM, a apenas **14k coins**
 
 
 ## Por que estas cartas?
@@ -66,7 +64,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (08/07/2026)?**  
-Gianluigi Donnarumma (89, Premier League) aparece como melhor custo-benefício, a 3k coins no Console (PS).
+Gianluca Vialli (89, Serie A TIM) aparece como melhor custo-benefício, a 14k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
