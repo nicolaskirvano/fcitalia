@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T13:29:05.000Z
+pubDatetime: 2026-07-10T16:29:05.000Z
 title: "Jogadores baratos de Italianos no EA FC (10/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,24 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | +14.8% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 13k coins | +6.4% |
-| Claudio Marchisio | 87 | CM | Serie A TIM | 14k coins | +31.2% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 15k coins | +15.7% |
-| Cher Ndour | 86 | CM | Serie A TIM | 15k coins | +1.7% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | +11.1% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 11k coins | -4.3% |
+| Giada Greggi | 87 | CM | Calcio A Femminile | 13k coins | -29.3% |
+| Cher Ndour | 86 | CM | Serie A TIM | 13k coins | -10.3% |
 
 
 ## 📈 Destaques
 
 - **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **3k coins**
 
-- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **13k coins**
+- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11k coins**
 
-- **Claudio Marchisio (87, CM)** da Serie A TIM, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Giada Greggi (87, CM)** da Calcio A Femminile, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Andrea Barzagli (87, CB)** da Serie A TIM, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Cher Ndour (86, CM)** da Serie A TIM, a apenas **15k coins**
+- **Cher Ndour (86, CM)** da Serie A TIM, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
