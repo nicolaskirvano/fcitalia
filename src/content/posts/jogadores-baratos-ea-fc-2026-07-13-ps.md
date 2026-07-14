@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-13T13:29:05.000Z
+pubDatetime: 2026-07-14T01:29:05.000Z
 title: "Jogadores baratos de Italianos no EA FC (13/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,10 +30,10 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Gianluigi Donnarumma | 89 | GK | Premier League | 2k coins | -50% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | -2.1% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 14k coins | +13.2% |
-| Claudio Marchisio | 87 | CM | Serie A TIM | 14k coins | +24% |
-| Cristiana Girelli | 85 | ST | Calcio A Femminile | 2k coins | +6.2% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | 0% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 13k coins | -5.5% |
+| Mattia Zaccagni | 87 | LM | Serie A TIM | 15k coins | +11.1% |
+| Cristiana Girelli | 85 | ST | Calcio A Femminile | 2k coins | +11.8% |
 
 
 ## 📈 Destaques
@@ -42,9 +42,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Andrea Barzagli (87, CB)** da Serie A TIM, a apenas **14k coins**
+- **Andrea Barzagli (87, CB)** da Serie A TIM, a apenas **13k coins**
 
-- **Claudio Marchisio (87, CM)** da Serie A TIM, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Mattia Zaccagni (87, LM)** da Serie A TIM, a apenas **15k coins**
 
 - **Cristiana Girelli (85, ST)** da Calcio A Femminile, a apenas **2k coins**
 
