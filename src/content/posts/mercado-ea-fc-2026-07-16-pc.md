@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:29:17.000Z
-title: "Italianos no EA FC hoje (16/07/2026): mercado, altas, baixas e previsões — PC"
+pubDatetime: 2026-07-16T23:59:30.000Z
+title: "Mercado EA FC em 16/07: Italianos — PC"
 draft: false
 featured: true
 tags:
@@ -10,72 +10,92 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 16/07/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
+description: "Dados de 16/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (16/07/2026)?"
-    a: "Giovanni Di Lorenzo (86, Serie A TIM), com +50% em 24h, a 62k coins no PC."
+    a: "Giovanni Di Lorenzo (86, Serie A TIM), com +50% em 24h, a 64k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Fabio Cannavaro (89), -31% em 24h, a 92k coins."
+    a: "Francesco Totti (89), -27.1% em 24h, a 510k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 19 cartas em alta contra 23 em queda (média 0.37%)."
+    a: "Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 20 cartas em alta contra 16 em queda (média 2.79%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **16/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em dia **indefinido** — sem tendência dominante: das cartas relevantes (80+ acima de 5k coins), **19 subiram** e **23 caíram**, com variação média de **0.37%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **16/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **20 subiram** e **16 caíram**, com variação média de **2.79%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Giovanni Di Lorenzo (86) **+50%** · 🔴 **Maior baixa:** Fabio Cannavaro (89) **-31%**
+> 🟢 **Maior alta:** Giovanni Di Lorenzo (86) **+50%** · 🔴 **Maior baixa:** Francesco Totti (89) **-27.1%**
+
+![Gráfico de variação em 24h para os destaques de Mercado EA FC em 16/07: Italianos — PC](/charts/mercado-ea-fc-2026-07-16-pc.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## Leitura específica deste recorte
+
+- **Amplitude do dia:** 77.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 55.6% entre as cartas que se moveram; o universo observado reúne 57 cartas.
+- **Concentração:** Serie A TIM aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 62k coins | +50% | +109.8% |
-| Gianluca Zambrotta | 86 | Icons | 133k coins | +38.9% | +30.1% |
-| Gianluigi Buffon | 91 | Icons | 225k coins | +33.9% | +33.1% |
-| Vincenzo Grifo | 84 | Bundesliga | 52k coins | +30.8% | -4.6% |
-| Daniele De Rossi | 89 | Serie A TIM | 194k coins | +30.7% | +11.1% |
-| Andrea Pirlo | 90 | Icons | 168k coins | +28% | +71.6% |
-| Davide Zappacosta | 88 | Serie A TIM | 34k coins | +22.2% | -10.6% |
-| Gianluigi Donnarumma | 95 | Premier League | 598k coins | +20.9% | +12.9% |
-| Sandro Tonali | 87 | Premier League | 35k coins | +20.4% | -4.8% |
-| Nicolò Savona | 83 | Premier League | 98k coins | +18.5% | -4.8% |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 64k coins | +50% | +108.1% |
+| Francesco Totti | 89 | Icons | 240k coins | +46.7% | +27.4% |
+| Gianluca Zambrotta | 86 | Icons | 131k coins | +38.2% | +28.2% |
+| Nicolò Savona | 83 | Premier League | 97k coins | +35.2% | +4.3% |
+| Vincenzo Grifo | 84 | Bundesliga | 54k coins | +34.2% | -2.8% |
+| Davide Zappacosta | 88 | Serie A TIM | 33k coins | +30.2% | -13.8% |
+| Daniele De Rossi | 89 | Serie A TIM | 194k coins | +26.8% | +7.8% |
+| Sandro Tonali | 87 | Premier League | 42k coins | +17.8% | -7.5% |
+| Andrea Pirlo | 90 | Icons | 165k coins | +16.9% | +68.5% |
+| Claudio Marchisio | 88 | Serie A TIM | 409k coins | +16.9% | +16.9% |
 
 
 ### Análise das altas
 
-- **Giovanni Di Lorenzo (86)** subiu **+50%** em 24h, a **62k coins** (faixa do dia: 43k–72k). Está +28% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
+- **Giovanni Di Lorenzo (86)** subiu **+50%** em 24h, a **64k coins** (faixa do dia: 43k–72k). Está +32% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Gianluca Zambrotta (86)** subiu **+38.9%** em 24h, a **133k coins** (faixa do dia: 92k–160k). Está +20% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Francesco Totti (89)** subiu **+46.7%** em 24h, a **240k coins** (faixa do dia: 143k–250k). Está +38% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Gianluigi Buffon (91)** subiu **+33.9%** em 24h, a **225k coins** (faixa do dia: 117k–260k). Está +31% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Gianluca Zambrotta (86)** subiu **+38.2%** em 24h, a **131k coins** (faixa do dia: 92k–160k). Está +18% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Fabio Cannavaro | 89 | Icons | 92k coins | -31% | -30% |
 | Francesco Totti | 89 | Icons | 510k coins | -27.1% | -8.8% |
-| Giorgio Chiellini | 88 | Icons | 86k coins | -22.5% | +29.3% |
-| Ilario Monterisi | 84 | Serie BKT | 38k coins | -18.8% | -9.4% |
-| Riccardo Orsolini | 85 | Serie A TIM | 20k coins | -17.3% | +17.8% |
-| Paolo Maldini | 94 | Icons | 1.50M coins | -15.4% | +20.9% |
-| Tommaso Biasci | 84 | Serie BKT | 34k coins | -13.9% | -7.2% |
-| Andrea Barzagli | 88 | Serie A TIM | 22k coins | -12% | -33.3% |
+| Ilario Monterisi | 84 | Serie BKT | 38k coins | -19.4% | -7.8% |
+| Paolo Maldini | 94 | Icons | 1.51M coins | -15.4% | +20.9% |
+| Gianluigi Buffon | 91 | Icons | 212k coins | -11.4% | +33.1% |
 | Daniele De Rossi | 91 | Serie A TIM | 284k coins | -11.2% | -9% |
-| Alessandro Bastoni | 91 | Serie A TIM | 56k coins | -10.3% | +5.6% |
+| Antonio Di Natale | 89 | Serie A TIM | 270k coins | -10.7% | +1% |
+| Andrea Pirlo | 91 | Icons | 895k coins | -10.5% | +2.6% |
+| Barbara Bonansea | 87 | Calcio A Femminile | 30k coins | -9.1% | +1.7% |
+| Leonardo Spinazzola | 89 | Serie A TIM | 32k coins | -6.2% | +22% |
+| Tommaso Pobega | 83 | Serie A TIM | 62k coins | -4.6% | +6.9% |
 
 
 ### Análise das baixas
 
-- **Fabio Cannavaro (89)** caiu **-31%** em 24h, a **92k coins** (faixa do dia: 90k–137k). Está -33% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Francesco Totti (89)** caiu **-27.1%** em 24h, a **510k coins** (faixa do dia: 510k–700k). Está -23% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Francesco Totti (89)** caiu **-27.1%** em 24h, a **510k coins** (faixa do dia: 510k–700k). Está -23% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Ilario Monterisi (84)** caiu **-19.4%** em 24h, a **38k coins** (faixa do dia: 38k–48k). Está -11% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Giorgio Chiellini (88)** caiu **-22.5%** em 24h, a **86k coins** (faixa do dia: 83k–121k). Está em linha com a média de 7 dias (-3%). O modelo vê **estabilização** no curto prazo.
+- **Paolo Maldini (94)** caiu **-15.4%** em 24h, a **1.51M coins** (faixa do dia: 1.40M–1.78M). Está em linha com a média de 7 dias (-8%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+
+
+## Decisão prática para hoje
+
+- **Evite perseguir topo:** Giovanni Di Lorenzo já avançou 50% em 24h; espere nova cotação antes de entrar.
+
+- **Queda não é compra automática:** Francesco Totti recuou -27.1%; confirme estabilização e liquidez.
+
+- Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
 
 ## 📐 Como o FutQuant le o mercado
@@ -85,13 +105,13 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (16/07/2026)?**  
-Giovanni Di Lorenzo (86, Serie A TIM), com +50% em 24h, a 62k coins no PC.
+Giovanni Di Lorenzo (86, Serie A TIM), com +50% em 24h, a 64k coins no PC.
 
 **E a maior queda do dia?**  
-Fabio Cannavaro (89), -31% em 24h, a 92k coins.
+Francesco Totti (89), -27.1% em 24h, a 510k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 19 cartas em alta contra 23 em queda (média 0.37%).
+Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 20 cartas em alta contra 16 em queda (média 2.79%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
@@ -102,3 +122,10 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 ---
 
 *Preços de PC, referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Investimentos EA FC: Italianos em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)
