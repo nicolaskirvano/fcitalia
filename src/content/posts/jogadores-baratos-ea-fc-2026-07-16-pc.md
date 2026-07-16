@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T19:29:09.000Z
+pubDatetime: 2026-07-16T22:29:19.000Z
 title: "Jogadores baratos de Italianos no EA FC (16/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,10 +29,10 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | -3.2% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | +4.3% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 13k coins | -19.4% |
-| Cristiana Girelli | 85 | ST | Calcio A Femminile | 3k coins | +14.8% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3k coins | +3.4% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 12k coins | -4.3% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 14k coins | -22.2% |
+| Cristiana Girelli | 85 | ST | Calcio A Femminile | 3k coins | +25.9% |
 
 
 ## 📈 Destaques
@@ -41,9 +41,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Andrea Barzagli (87, CB)** da Serie A TIM, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Andrea Barzagli (87, CB)** da Serie A TIM, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Cristiana Girelli (85, ST)** da Calcio A Femminile, a apenas **3k coins**
+- **Cristiana Girelli (85, ST)** da Calcio A Femminile, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
