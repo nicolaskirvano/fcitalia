@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fcitalia.pages.dev/",
     title: "Italia FUT Market",
     description:
-      "Precos e mercado dos jogadores italianos no EA FC Ultimate Team, todos os dias.",
+      "preços e mercado dos jogadores italianos no EA FC Ultimate Team, todos os dias.",
     author: "Italia FUT Market",
-    profile: "https://fcitalia.pages.dev/",
+    profile: "https://fcitalia.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "Italia FUT Market",
