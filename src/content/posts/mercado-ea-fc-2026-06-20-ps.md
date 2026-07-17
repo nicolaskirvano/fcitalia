@@ -110,8 +110,8 @@ Onde o sinal aponta **tendência de baixa** no curto prazo — atenção antes d
 A estratégia recomendada para hoje é focar na compra de ativos com alta probabilidade de valorização e baixo risco, como o Giovanni Di Lorenzo (85) e o Mattia Zaccagni (87), que oferecem segurança e liquidez em um mercado lateral. Evite expor capital significativo em ícones de alto custo que estão em queda livre, como o Pirlo (91) e o Di Natale (92), a menos que haja uma estratégia de médio prazo muito bem fundamentada, pois as probabilidades de alta atuais são desfavoráveis. Considere vender rapidamente os ganhos obtidos com o Daniele De Rossi (89) e (91), já que a baixa probabilidade de alta contínua sugere que o pico pode estar próximo. Segure posições em ícones de menor custo como o Gattuso (86) e Pirlo (90), que demonstraram resiliência e alta probabilidade de manutenção de valor. Monitore de perto o Sandro Tonali (91) e (88), pois a divergência entre a queda recente e a previsão de alta do modelo pode oferecer uma oportunidade de entrada de alto risco e alto retorno se a venda se esgotar. O gerenciamento de risco é crucial neste cenário de lateralidade, priorizando lucros rápidos em ativos de baixa probabilidade e acumulação lenta em ativos de alta probabilidade.
 
 
-## ⚙️ A engine por tras deste post
-Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
+## ⚙️ A engine por trás deste post
+Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
 
 
 ## ❓ Perguntas frequentes

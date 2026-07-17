@@ -75,8 +75,8 @@ Daniele De Rossi sofreu a maior queda com -26.1% para 22k coins, e sua baixa pro
 A estratégia recomendada para hoje é comprar Davide Zappacosta e Cher Ndour devido às suas altas probabilidades de alta de 65% e 50%, respectivamente, aproveitando a momentum do mercado para flips de curto prazo. Segure posições em Paolo Maldini e Gianluigi Buffon, pois suas valorizações de 44.5% e 29.9% são sustentadas por probabilidades de continuidade de 31%, indicando que há mais espaço para alta antes da estabilização. Evite comprar Daniele De Rossi e Francesco Totti até que os preços se estabilizem, já que suas probabilidades de alta de 17% e 11% sugerem que a queda não acabou. Considere Franco Baresi como uma aposta de alto risco/alto retorno, com alta de 24.8% e probabilidade de 56%, pois o ativo de 850k coins pode atrair grandes investidores em busca de segurança relativa. Monitore de perto Mattia Zaccagni, pois a baixa probabilidade de 18% indica que qualquer compra deve ser executada com stop-loss rigoroso para evitar perdas em caso de reversão brusca.
 
 
-## ⚙️ A engine por tras deste post
-Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
+## ⚙️ A engine por trás deste post
+Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do EA FC, de fontes diversas. Um passo de limpeza tira **anomalias**; depois cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e momentum. Assim cada carta chega com leitura, não só com um número.
 
 
 ## ❓ Perguntas frequentes

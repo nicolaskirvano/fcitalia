@@ -98,8 +98,8 @@ Em **16/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
 
-## 📐 Como o FutQuant le o mercado
-Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de varias fontes e atualizados ao longo do dia. Antes de publicar, filtramos **anomalias** (cartas extintas, erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. Você vê aqui o que poucos sites mostram: não só o preço, mas **para onde ele tende a ir**.
+## 📐 Como o FutQuant lê o mercado
+Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, de várias fontes e atualizados ao longo do dia. Antes de publicar, filtramos **anomalias** (cartas extintas, erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. Você vê aqui o que poucos sites mostram: não só o preço, mas **para onde ele tende a ir**.
 
 
 ## ❓ Perguntas frequentes
