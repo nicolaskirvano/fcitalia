@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T23:59:22.000Z
+pubDatetime: 2026-07-17T00:11:50.000Z
 title: "Investimentos EA FC: Italianos em 16/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **16/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.8% em 24h** e **+22.9% em 7 dias**.
+- A mediana é de **+15.6% em 24h** e **+21.4% em 7 dias**.
 - **1 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -43,19 +43,19 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Alessandro Bastoni | 91 | Serie A TIM | 60k coins | +5.3% | +53.8% | Momentum moderado |
-| Ilario Monterisi | 84 | Serie BKT | 46k coins | +18.7% | +23.5% | Momentum moderado |
+| Alessandro Bastoni | 91 | Serie A TIM | 60k coins | +1.7% | +53.8% | Momentum moderado |
 | Gianluca Zambrotta | 86 | Icons | 94k coins | +13% | +22.4% | Momentum moderado |
+| Ilario Monterisi | 84 | Serie BKT | 46k coins | +18.1% | +20.4% | Momentum moderado |
 | Riccardo Orsolini | 85 | Serie A TIM | 25k coins | +31.2% | +7.4% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Alessandro Bastoni (91)** — 60k coins, **+53.8% em 7 dias** (+5.3% em 24h). Preço +61% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alessandro Bastoni (91)** — 60k coins, **+53.8% em 7 dias** (+1.7% em 24h). Preço +61% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ilario Monterisi (84)** — 46k coins, **+23.5% em 7 dias** (+18.7% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gianluca Zambrotta (86)** — 94k coins, **+22.4% em 7 dias** (+13% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gianluca Zambrotta (86)** — 94k coins, **+22.4% em 7 dias** (+13% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ilario Monterisi (84)** — 46k coins, **+20.4% em 7 dias** (+18.1% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Riccardo Orsolini (85)** — 25k coins, **+7.4% em 7 dias** (+31.2% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 

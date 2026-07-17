@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T23:59:31.000Z
+pubDatetime: 2026-07-17T00:11:59.000Z
 title: "Investimentos EA FC: Italianos em 16/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 16/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (16/07/2026) no EA FC?"
-    a: "Andrea Pirlo (90, Icons) lidera, com +68.5% em 7 dias a 165k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Andrea Pirlo (90, Icons) lidera, com +67.5% em 7 dias a 164k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **16/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Andrea Pirlo (90) acumula **+68.5% em 7 dias** a 165k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Andrea Pirlo (90) acumula **+67.5% em 7 dias** a 164k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Italianos em 16/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-16-pc.svg)
 
@@ -33,7 +33,7 @@ Esta lista de **16/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+4.0% em 24h** e **+28.2% em 7 dias**.
+- A mediana é de **+4.0% em 24h** e **+29.2% em 7 dias**.
 - **3 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -43,26 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Andrea Pirlo | 90 | Icons | 165k coins | +16.9% | +68.5% | Esticada |
-| Giada Greggi | 87 | Calcio A Femminile | 26k coins | +2.7% | +37.8% | Momentum moderado |
+| Andrea Pirlo | 90 | Icons | 164k coins | +16.2% | +67.5% | Esticada |
+| Giada Greggi | 87 | Calcio A Femminile | 23k coins | +2.7% | +37.8% | Momentum moderado |
+| Gianluca Zambrotta | 86 | Icons | 131k coins | +38.9% | +29.4% | Esticada |
 | Luca Mazzitelli | 84 | Serie A TIM | 46k coins | +2.2% | +29.2% | Momentum moderado |
-| Gianluca Zambrotta | 86 | Icons | 131k coins | +38.2% | +28.2% | Esticada |
-| Roberto Baggio | 91 | Icons | 84k coins | +1.8% | +23.2% | Entrada a observar |
-| Nicolò Zaniolo | 86 | Serie A TIM | 26k coins | +4% | +18.2% | Entrada a observar |
+| Nicolò Zaniolo | 86 | Serie A TIM | 26k coins | +4% | +25.3% | Momentum moderado |
+| Roberto Baggio | 91 | Icons | 81k coins | +1.2% | +22.5% | Entrada a observar |
 | Daniele De Rossi | 89 | Serie A TIM | 194k coins | +26.8% | +7.8% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Andrea Pirlo (90)** — 165k coins, **+68.5% em 7 dias** (+16.9% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Andrea Pirlo (90)** — 164k coins, **+67.5% em 7 dias** (+16.2% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giada Greggi (87)** — 26k coins, **+37.8% em 7 dias** (+2.7% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giada Greggi (87)** — 23k coins, **+37.8% em 7 dias** (+2.7% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Gianluca Zambrotta (86)** — 131k coins, **+29.4% em 7 dias** (+38.9% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Luca Mazzitelli (84)** — 46k coins, **+29.2% em 7 dias** (+2.2% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gianluca Zambrotta (86)** — 131k coins, **+28.2% em 7 dias** (+38.2% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Roberto Baggio (91)** — 84k coins, **+23.2% em 7 dias** (+1.8% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nicolò Zaniolo (86)** — 26k coins, **+25.3% em 7 dias** (+4% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -80,7 +80,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (16/07/2026) no EA FC?**  
-Andrea Pirlo (90, Icons) lidera, com +68.5% em 7 dias a 165k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Andrea Pirlo (90, Icons) lidera, com +67.5% em 7 dias a 164k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
