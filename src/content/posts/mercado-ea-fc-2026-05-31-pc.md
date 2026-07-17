@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Italia FUT Market"
 pubDatetime: 2026-06-01T01:29:02.000Z
-title: "Italianos no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
+title: "Italianos no EA FC em 31/05: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,26 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Daniele De Rossi (87, Serie A TIM), com +54.2% em 24h, a 32k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Giorgio Chiellini (88), -42.5% em 24h, a 111k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 24 cartas em alta contra 22 em queda (média -1.36%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 31/05/2026 no PC: Daniele De Rossi liderou as altas e Giorgio Chiellini as baixas em Italianos. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 31/05/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **24 subiram** e **22 caíram**, com variação média de **-1.36%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Daniele De Rossi** registrou o maior movimento de 24h (+54,2%), enquanto **Giorgio Chiellini** marcou o menor (-42,5%). A distância entre os extremos foi de **96,7 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-1,7%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Italianos no EA FC em 31/05: altas e baixas — PC](/charts/mercado-ea-fc-2026-05-31-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
+
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** estava em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **24 subiram** e **22 caíram**, com variação média de **-1.36%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Daniele De Rossi (87) **+54.2%** · 🔴 **Maior baixa:** Giorgio Chiellini (88) **-42.5%**
 
@@ -46,11 +51,11 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das altas
 
-- **Daniele De Rossi (87)** subiu **+54.2%** em 24h, a **32k coins** (faixa do dia: 21k–32k). Está +11% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Daniele De Rossi (87)** subiu **+54.2%** em 24h, a **32k coins** (faixa do dia: 21k–32k). Está +11% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Gianluca Zambrotta (86)** subiu **+26.9%** em 24h, a **85k coins** (faixa do dia: 65k–86k). Está +11% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Gianluca Zambrotta (86)** subiu **+26.9%** em 24h, a **85k coins** (faixa do dia: 65k–86k). Está +11% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Nicolò Zaniolo (86)** subiu **+21.6%** em 24h, a **22k coins** (faixa do dia: 18k–23k). Está em linha com a média de 7 dias (+6%). O modelo vê **estabilização** no curto prazo.
+- **Nicolò Zaniolo (86)** subiu **+21.6%** em 24h, a **22k coins** (faixa do dia: 18k–23k). Está em linha com a média de 7 dias (+6%). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -71,11 +76,11 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das baixas
 
-- **Giorgio Chiellini (88)** caiu **-42.5%** em 24h, a **111k coins** (faixa do dia: 106k–193k). Está em linha com a média de 7 dias (-6%). O modelo vê **estabilização** no curto prazo.
+- **Giorgio Chiellini (88)** caiu **-42.5%** em 24h, a **111k coins** (faixa do dia: 106k–193k). Está em linha com a média de 7 dias (-6%). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Mattia Zaccagni (87)** caiu **-23.3%** em 24h, a **23k coins** (faixa do dia: 11k–30k). Está -8% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Mattia Zaccagni (87)** caiu **-23.3%** em 24h, a **23k coins** (faixa do dia: 11k–30k). Está -8% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Claudio Marchisio (88)** caiu **-18.8%** em 24h, a **220k coins** (faixa do dia: 220k–300k). Está -18% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Claudio Marchisio (88)** caiu **-18.8%** em 24h, a **220k coins** (faixa do dia: 220k–300k). Está -18% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -85,16 +90,16 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
+**Qual foi a maior alta do EA FC hoje (31/05/2026)?**
 Daniele De Rossi (87, Serie A TIM), com +54.2% em 24h, a 32k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Giorgio Chiellini (88), -42.5% em 24h, a 111k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 24 cartas em alta contra 22 em queda (média -1.36%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava lateral — sem direção clara, com 24 cartas em alta contra 22 em queda (média -1.36%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -103,3 +108,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 31/05/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Italianos baratos no EA FC em 31/05 — PC](/posts/jogadores-baratos-ea-fc-2026-05-31-pc/)
+- [Momentum de Italianos no EA FC em 31/05 — PC](/posts/melhores-investimentos-ea-fc-2026-05-31-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

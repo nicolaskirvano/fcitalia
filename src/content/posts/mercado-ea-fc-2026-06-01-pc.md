@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Italia FUT Market"
 pubDatetime: 2026-06-02T01:29:02.000Z
-title: "Italianos no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Italianos no EA FC em 01/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,26 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 01/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (01/06/2026)?"
-    a: "Giovanni Di Lorenzo (85, Serie A TIM), com +22.7% em 24h, a 23k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Gianluigi Buffon (91), -28.9% em 24h, a 106k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 13 cartas em alta contra 36 em queda (média -2.52%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 01/06/2026 no PC: Giovanni Di Lorenzo liderou as altas e Gianluigi Buffon as baixas em Italianos. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 01/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **13 subiram** e **36 caíram**, com variação média de **-2.52%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Giovanni Di Lorenzo** registrou o maior movimento de 24h (+22,7%), enquanto **Gianluigi Buffon** marcou o menor (-28,9%). A distância entre os extremos foi de **51,6 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-2,7%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Italianos no EA FC em 01/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-01-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
+
+Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** estava em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **13 subiram** e **36 caíram**, com variação média de **-2.52%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Giovanni Di Lorenzo (85) **+22.7%** · 🔴 **Maior baixa:** Gianluigi Buffon (91) **-28.9%**
 
@@ -46,11 +51,11 @@ Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das altas
 
-- **Giovanni Di Lorenzo (85)** subiu **+22.7%** em 24h, a **23k coins** (faixa do dia: 16k–24k). Está em linha com a média de 7 dias (-5%). O modelo vê **estabilização** no curto prazo.
+- **Giovanni Di Lorenzo (85)** subiu **+22.7%** em 24h, a **23k coins** (faixa do dia: 16k–24k). Está em linha com a média de 7 dias (-5%). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 - **Paolo Maldini (94)** subiu **+16.8%** em 24h, a **2.53M coins** (faixa do dia: 1.70M–2.95M). Está +22% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
-- **Gianluca Zambrotta (86)** subiu **+15.1%** em 24h, a **96k coins** (faixa do dia: 69k–96k). Está +24% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Gianluca Zambrotta (86)** subiu **+15.1%** em 24h, a **96k coins** (faixa do dia: 69k–96k). Está +24% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -71,11 +76,11 @@ Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das baixas
 
-- **Gianluigi Buffon (91)** caiu **-28.9%** em 24h, a **106k coins** (faixa do dia: 106k–148k). Está -16% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Gianluigi Buffon (91)** caiu **-28.9%** em 24h, a **106k coins** (faixa do dia: 106k–148k). Está -16% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Giada Greggi (87)** caiu **-25.4%** em 24h, a **24k coins** (faixa do dia: 24k–32k). Está -19% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Giada Greggi (87)** caiu **-25.4%** em 24h, a **24k coins** (faixa do dia: 24k–32k). Está -19% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Paolo Maldini (92)** caiu **-16.9%** em 24h, a **349k coins** (faixa do dia: 349k–420k). Está -14% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Paolo Maldini (92)** caiu **-16.9%** em 24h, a **349k coins** (faixa do dia: 349k–420k). Está -14% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -85,16 +90,16 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (01/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (01/06/2026)?**
 Giovanni Di Lorenzo (85, Serie A TIM), com +22.7% em 24h, a 23k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Gianluigi Buffon (91), -28.9% em 24h, a 106k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 13 cartas em alta contra 36 em queda (média -2.52%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 13 cartas em alta contra 36 em queda (média -2.52%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -103,3 +108,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 01/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Italianos baratos no EA FC em 01/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-01-pc/)
+- [Momentum de Italianos no EA FC em 01/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-01-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

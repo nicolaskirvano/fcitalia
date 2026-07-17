@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Italia FUT Market"
 pubDatetime: 2026-06-01T01:29:01.000Z
-title: "Italianos no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Italianos no EA FC em 31/05: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,23 +10,26 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Federico Baschirotto (81, Serie A TIM), com +47.5% em 24h, a 30k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Franco Baresi (92), -17.9% em 24h, a 490k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Roberto Baggio (91) — 95% de probabilidade de alta, a 95k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 26 cartas em alta contra 37 em queda (média 2.59%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 31/05/2026 no PS: Federico Baschirotto liderou as altas e Franco Baresi as baixas em Italianos. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 31/05/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **26 subiram** e **37 caíram**, com variação média de **2.59%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Federico Baschirotto** registrou o maior movimento de 24h (+47,5%), enquanto **Franco Baresi** marcou o menor (-17,9%). A distância entre os extremos foi de **65,4 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **+2,9%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Italianos no EA FC em 31/05: altas e baixas — PS](/charts/mercado-ea-fc-2026-05-31-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
+
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** teve um recorte **misto** — as quedas foram mais numerosas, embora as altas tenham sido mais intensas: das cartas relevantes (80+ acima de 5k coins), **26 subiram** e **37 caíram**, com variação média de **2.59%** nas últimas 24 horas. O recorte mostrava viés comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Federico Baschirotto (81) **+47.5%** · 🔴 **Maior baixa:** Franco Baresi (92) **-17.9%**
 
@@ -48,7 +51,7 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ### Análise das altas
 
-- **Federico Baschirotto (81)** subiu **+47.5%** em 24h, a **30k coins** (faixa do dia: 20k–30k). Está em linha com a média de 7 dias (+5%). O modelo vê **estabilização** no curto prazo.
+- **Federico Baschirotto (81)** subiu **+47.5%** em 24h, a **30k coins** (faixa do dia: 20k–30k). Está em linha com a média de 7 dias (+5%). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 - **Gianluca Zambrotta (86)** subiu **+38.5%** em 24h, a **99k coins** (faixa do dia: 71k–99k). Está +20% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
@@ -73,16 +76,16 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ### Análise das baixas
 
-- **Franco Baresi (92)** caiu **-17.9%** em 24h, a **490k coins** (faixa do dia: 490k–600k). Está em linha com a média de 7 dias (+2%). 🔮 O modelo projeta **recuperação** (reversão para alta), com 84% de probabilidade.
+- **Franco Baresi (92)** caiu **-17.9%** em 24h, a **490k coins** (faixa do dia: 490k–600k). Está em linha com a média de 7 dias (+2%). 🔮 Naquele snapshot, o modelo projetava **recuperação** (reversão para alta), com 84% de probabilidade.
 
-- **Antonio Di Natale (92)** caiu **-17.1%** em 24h, a **539k coins** (faixa do dia: 521k–650k). Está -18% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Antonio Di Natale (92)** caiu **-17.1%** em 24h, a **539k coins** (faixa do dia: 521k–650k). Está -18% abaixo da média de 7 dias (descontada). ⚠️ Naquele snapshot, o modelo projetava **continuidade da queda** — ainda não encontrou fundo.
 
-- **Andrea Barzagli (88)** caiu **-15.6%** em 24h, a **31k coins** (faixa do dia: 27k–37k). Está -15% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 93% de probabilidade.
+- **Andrea Barzagli (88)** caiu **-15.6%** em 24h, a **31k coins** (faixa do dia: 27k–37k). Está -15% abaixo da média de 7 dias (descontada). 🔮 Naquele snapshot, o modelo projetava **recuperação** (reversão para alta), com 93% de probabilidade.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+Na publicação original, estas cartas receberam as maiores probabilidades de valorização. Os valores expiraram após 24 horas e não representam um sinal atual:
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -119,19 +122,19 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
+**Qual foi a maior alta do EA FC hoje (31/05/2026)?**
 Federico Baschirotto (81, Serie A TIM), com +47.5% em 24h, a 30k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Franco Baresi (92), -17.9% em 24h, a 490k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Roberto Baggio (91) — 95% de probabilidade de alta, a 95k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Roberto Baggio (91) — 95% de probabilidade de alta, a 95k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 26 cartas em alta contra 37 em queda (média 2.59%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava em alta — predominam as valorizações, com 26 cartas em alta contra 37 em queda (média 2.59%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -140,3 +143,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 31/05/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Italianos baratos no EA FC em 31/05 — PS](/posts/jogadores-baratos-ea-fc-2026-05-31-ps/)
+- [Momentum de Italianos no EA FC em 31/05 — PS](/posts/melhores-investimentos-ea-fc-2026-05-31-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

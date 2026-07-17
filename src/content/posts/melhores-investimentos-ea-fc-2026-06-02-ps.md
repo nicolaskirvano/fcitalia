@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Italia FUT Market"
 pubDatetime: 2026-06-02T13:29:02.000Z
-title: "Melhores investimentos em Italianos no EA FC (02/06/2026): análise e previsões — Console (PS)"
+title: "Momentum de Italianos no EA FC em 02/06 — PS"
 draft: false
 featured: true
 tags:
@@ -9,27 +9,34 @@ tags:
   - trading
   - previsoes
   - ps
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 02/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
-faq:
-  - q: "Qual a melhor carta para investir hoje (02/06/2026) no EA FC?"
-    a: "Claudio Marchisio (88, Serie A TIM) lidera, com +47.6% em 7 dias a 155k coins no Console (PS), e o modelo dá 16% de chance de seguir subindo."
-  - q: "Investir em FUT dá lucro garantido?"
-    a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
-  - q: "Com que frequência a lista de investimentos atualiza?"
-    a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
+description: "Ranking histórico de momentum em 02/06/2026 no PS: Claudio Marchisio liderou 7d com +47,6%. Compare preços, 24h/7d, gráfico e limites."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 02/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+**Claudio Marchisio** liderou o recorte com **+47,6% em 7d** e +15,7% em 24h. Entre 9 cartas, 9 tinham as duas janelas positivas; a mediana semanal foi **+22,4%**.
+
+Os preços destacados iam de **24k coins** a **169k coins**. O ranking descreve momentum observado naquela data; previsão ausente ou inválida aparece como N/D e não confirma uma compra atual.
+
+![Gráfico de variação em 7 dias para os destaques de Momentum de Italianos no EA FC em 02/06 — PS](/charts/melhores-investimentos-ea-fc-2026-06-02-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## Por que estas cartas
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **02/06/2026** no **Console (PS)**:
+Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** e organiza o recorte pelo **momentum observado**. Resultado de **02/06/2026** no **Console (PS)**:
 
 > 🔝 **Destaque:** Claudio Marchisio (88) acumula **+47.6% em 7 dias** a 155k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias. *Prob. registrada* preserva a saída histórica do modelo; N/D indica ausência ou leitura inválida:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. registrada |
 | --- | --- | --- | --- | --- | --- | --- |
 | Claudio Marchisio | 88 | Serie A TIM | 155k coins | +15.7% | +47.6% | 16% |
 | Daniele De Rossi | 89 | Serie A TIM | 166k coins | +10.7% | +29.7% | 39% |
@@ -46,22 +53,30 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Claudio Marchisio (88)** — 155k coins, **+47.6% em 7 dias** (+15.7% em 24h). Preço +42% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Daniele De Rossi (89)** — 166k coins, **+29.7% em 7 dias** (+10.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Daniele De Rossi (89)** — 166k coins, **+29.7% em 7 dias** (+10.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
 - **Riccardo Orsolini (85)** — 24k coins, **+24% em 7 dias** (+5.4% em 24h). Preço em linha com a média de 7 dias (+2%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Barbara Bonansea (87)** — 36k coins, **+23.3% em 7 dias** (+25.4% em 24h). Preço +14% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Barbara Bonansea (87)** — 36k coins, **+23.3% em 7 dias** (+25.4% em 24h). Preço +14% acima da média de 7 dias (aquecida). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
 - **Gianluca Zambrotta (86)** — 104k coins, **+22.4% em 7 dias** (+18.9% em 24h). Preço +22% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista
 
-- **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
-- Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
+- **24h e 7d positivos juntos** indicavam continuidade naquele recorte, sem garantir uma entrada futura.
+- Naquele contexto, uma correção dentro da alta reduziria o risco; hoje é preciso recalcular a entrada.
 - **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- A coluna *Prob. registrada* é apenas histórica; revalide preço, liquidez e contexto antes de decidir.
 
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Italianos baratos no EA FC em 02/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-02-ps/)
+- [Italianos no EA FC em 02/06: altas e baixas — PS](/posts/mercado-ea-fc-2026-06-02-ps/)
+- [Momentum de Italianos no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
 
 ## 📐 Como o FutQuant gera estes dados
 Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
@@ -69,13 +84,13 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 
 ## ❓ Perguntas frequentes
 
-**Qual a melhor carta para investir hoje (02/06/2026) no EA FC?**  
-Claudio Marchisio (88, Serie A TIM) lidera, com +47.6% em 7 dias a 155k coins no Console (PS), e o modelo dá 16% de chance de seguir subindo.
+**Qual carta liderava o momentum em 02/06/2026 no EA FC?**
+Claudio Marchisio (88, Serie A TIM) lidera, com +47.6% em 7 dias a 155k coins no Console (PS). No recorte, isso descrevia momentum observado, não uma recomendação atual.
 
-**Investir em FUT dá lucro garantido?**  
+**Investir em FUT dá lucro garantido?**
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
 
-**Com que frequência a lista de investimentos atualiza?**  
+**Com que frequência a lista de investimentos atualiza?**
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 

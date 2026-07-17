@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Italia FUT Market"
 pubDatetime: 2026-06-20T01:30:21.000Z
-title: "Italianos no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Italianos no EA FC em 19/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,17 +10,22 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Vincenzo Grifo (84, Bundesliga), com +32.1% em 24h, a 39k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Alessandro Bastoni (91), -41.2% em 24h, a 50k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 20 cartas em alta contra 32 em queda (média -3.7%)."
-  - q: "Posso confiar nos preços e previsões do FutQuant?"
-    a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
+description: "Snapshot histórico de 19/06/2026 no PC: Vincenzo Grifo liderou as altas e Alessandro Bastoni as baixas em Italianos. Compare preços, variações, gráfico e riscos."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Vincenzo Grifo** registrou o maior movimento de 24h (+32,1%), enquanto **Alessandro Bastoni** marcou o menor (-41,2%). A distância entre os extremos foi de **73,3 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-3,2%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Italianos no EA FC em 19/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-19-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## 📊 Como está o mercado agora
 
@@ -76,16 +81,16 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
 Vincenzo Grifo (84, Bundesliga), com +32.1% em 24h, a 39k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Alessandro Bastoni (91), -41.2% em 24h, a 50k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 20 cartas em alta contra 32 em queda (média -3.7%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava pressionado — as quedas dominam o dia, com 20 cartas em alta contra 32 em queda (média -3.7%).
 
-**Posso confiar nos preços e previsões do FutQuant?**  
+**Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
 
 
@@ -94,3 +99,12 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 ---
 
 *Preços de PC, referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Momentum de Italianos no EA FC em 19/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-19-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Momentum de Italianos no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

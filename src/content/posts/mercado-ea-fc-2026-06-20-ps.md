@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Italia FUT Market"
 pubDatetime: 2026-06-20T22:29:50.000Z
-title: "Italianos no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Italianos no EA FC em 20/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Daniele De Rossi (89, Serie A TIM), com +23.7% em 24h, a 115k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Andrea Pirlo (91), -44.1% em 24h, a 313k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Gianluigi Donnarumma (89) — 95% de probabilidade de alta, a 298k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 19 cartas em alta contra 27 em queda (média -1.08%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 20/06/2026 no PS: Daniele De Rossi liderou as altas e Andrea Pirlo as baixas em Italianos. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Daniele De Rossi** registrou o maior movimento de 24h (+23,7%), enquanto **Andrea Pirlo** marcou o menor (-44,1%). A distância entre os extremos foi de **67,8 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-2,0%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Italianos no EA FC em 20/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-20-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado de italianos no console PS apresenta um cenário de lateralidade acentuada hoje, 20 de junho de 2026, caracterizado pela ausência de uma direção clara e predominante nos fluxos de compra e venda. Com uma média de variação negativa de apenas -1.08% nas últimas 24 horas, observamos um equilíbrio frágil entre 19 registros de alta e 27 de queda, indicando que os traders estão hesitantes e aguardando gatilhos mais concretos para posicionar seus capitais. Este ambiente de incerteza favorece aqueles que possuem disciplina para operar com base em probabilidades estatísticas robustas, em vez de impulsos emocionais comuns em dias de pacotes ou eventos grandes. A volatilidade pontual em cartas específicas de ícones e lendas da Serie A TIM sugere oportunidades de arbitragem, mas exige uma leitura atenta das probabilidades de alta associadas a cada ativo para evitar perdas em movimentos de correção. O tom do dia é de cautela estratégica, onde a paciência e a análise dos fundamentos de oferta e demanda de cada jogador isoladamente são determinantes para a rentabilidade.
 
@@ -68,7 +71,7 @@ Dentre os ativos que se destacaram na direção ascendente, o Daniele De Rossi (
 Na direção contrária, o Andrea Pirlo (91, Icons) sofreu uma queda brutal de 44.1% em 24 horas, recuando para 313k coins, um movimento alarmante dado sua probabilidade de alta de apenas 35%, o que sugere uma venda em pânico ou correção de sobreavaliação anterior. O Antonio Di Natale (92, Serie A TIM) também caiu significativamente, com -32.3% para 351k coins, e com probabilidade de alta de 32%, os riscos de manter esta carta são elevados a curto prazo, pois não há indícios de suporte imediato. O Sandro Tonali (91, Premier League) perdeu 18.9% de seu valor, estabilizando em 130k coins, mas sua probabilidade de alta de 50% indica um ponto de inflexão possível, exigindo monitoramento constante para identificar se a venda se esgotou. O Riccardo Calafiori (90, Premier League) e o Paolo Maldini (92, Icons) registraram quedas de 13.3% e 13% respectivamente, com preços atuais de 399k e 247k coins; a probabilidade de alta de 33% e 68% respectivamente mostra que o Maldini ainda tem força de mercado, enquanto o Calafiori enfrenta pressões de venda mais intensas. Além disso, o Gianluigi Buffon (91, Icons) caiu 12.8% para 95k coins com probabilidade de alta baixa de 18%, e o Alessandro Nesta (89, Icons) recuou 9.4% para 68k coins com probabilidade de 59%, indicando que mesmo ícones icônicos não estão imunes à desvalorização quando a demanda esfria.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -113,19 +116,19 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 Daniele De Rossi (89, Serie A TIM), com +23.7% em 24h, a 115k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Andrea Pirlo (91), -44.1% em 24h, a 313k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Gianluigi Donnarumma (89) — 95% de probabilidade de alta, a 298k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Gianluigi Donnarumma (89) — 95% de probabilidade de alta, a 298k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 19 cartas em alta contra 27 em queda (média -1.08%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava lateral — sem direção clara, com 19 cartas em alta contra 27 em queda (média -1.08%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -134,3 +137,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Italianos baratos no EA FC em 20/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-20-ps/)
+- [Momentum de Italianos no EA FC em 20/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-20-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
