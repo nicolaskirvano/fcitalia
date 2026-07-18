@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T13:29:17.000Z
+pubDatetime: 2026-07-18T16:29:17.000Z
 title: "Mercado EA FC em 18/07: Italianos — PC"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
     a: "Francesco Totti (89, Icons), com +57.5% em 24h, a 630k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Nicolò Savona (83), -33.3% em 24h, a 60k coins."
+    a: "Marco Carnesecchi (87), -41.6% em 24h, a 35k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 30 cartas em alta contra 21 em queda (média 4.67%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 23 cartas em alta contra 23 em queda (média 3.67%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **18/07/2026** no PC com clima **comprador** — a maioria das cartas subiu: **30 cartas subiram** e **21 caíram** (80+ acima de 5k coins), variação média de **4.67%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **18/07/2026** no PC com clima **comprador** — a maioria das cartas subiu: **23 cartas subiram** e **23 caíram** (80+ acima de 5k coins), variação média de **3.67%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Francesco Totti (89) **+57.5%** · 🔴 **Maior baixa:** Nicolò Savona (83) **-33.3%**
+> 🟢 **Maior alta:** Francesco Totti (89) **+57.5%** · 🔴 **Maior baixa:** Marco Carnesecchi (87) **-41.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Italianos — PC](/charts/mercado-ea-fc-2026-07-18-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **18/07/2026** no PC com clima **comprador** — a m
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 90.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 58.8% entre as cartas que se moveram; o universo observado reúne 68 cartas.
-- **Concentração:** Icons aparece em 10 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 99.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 66 cartas.
+- **Concentração:** Serie A TIM aparece em 10 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Francesco Totti | 89 | Icons | 630k coins | +57.5% | -10% |
-| Andrea Pirlo | 90 | Icons | 188k coins | +56.2% | +114.8% |
-| Nicolò Zaniolo | 86 | Serie A TIM | 24k coins | +50% | -2.9% |
-| Riccardo Orsolini | 85 | Serie A TIM | 30k coins | +36.8% | +3.5% |
-| Antonio Di Natale | 88 | Serie A TIM | 64k coins | +32.7% | +75.7% |
-| Fabio Cannavaro | 89 | Icons | 129k coins | +32% | -17% |
-| Antonio Di Natale | 89 | Serie A TIM | 340k coins | +23.6% | +14.5% |
-| Gennaro Gattuso | 86 | Icons | 88k coins | +19.9% | +30.2% |
-| Francesco Totti | 89 | Icons | 195k coins | +17.3% | +30.4% |
-| Paolo Maldini | 94 | Icons | 1.77M coins | +17% | +8.1% |
+| Riccardo Orsolini | 85 | Serie A TIM | 25k coins | +51.2% | +7.8% |
+| Antonio Di Natale | 88 | Serie A TIM | 60k coins | +47.1% | +74.8% |
+| Andrea Pirlo | 90 | Icons | 150k coins | +42% | +92% |
+| Daniele De Rossi | 87 | Serie A TIM | 24k coins | +28.7% | +60.9% |
+| Alessandro Del Piero | 90 | Icons | 104k coins | +28% | +64.7% |
+| Paolo Maldini | 93 | Icons | 1.63M coins | +20.4% | +22.8% |
+| Antonio Di Natale | 89 | Serie A TIM | 330k coins | +20% | +12.2% |
+| Claudio Marchisio | 87 | Serie A TIM | 21k coins | +17.7% | +38.8% |
+| Barbara Bonansea | 87 | Calcio A Femminile | 34k coins | +15.1% | +6.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **18/07/2026** no PC com clima **comprador** — a m
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Francesco Totti (89)** subiu **+57.5%** em 24h, a **630k coins** (faixa do dia: 400k–700k). Está em linha com a média de 7 dias (-5%).
+- **Francesco Totti (89)** subiu **+57.5%** em 24h, a **630k coins** (faixa do dia: 600k–700k). Está em linha com a média de 7 dias (-5%).
 
-- **Andrea Pirlo (90)** subiu **+56.2%** em 24h, a **188k coins** (faixa do dia: 100k–210k). Está +40% acima da média de 7 dias (aquecida).
+- **Riccardo Orsolini (85)** subiu **+51.2%** em 24h, a **25k coins** (faixa do dia: 19.250–32k). Está em linha com a média de 7 dias (-8%).
 
-- **Nicolò Zaniolo (86)** subiu **+50%** em 24h, a **24k coins** (faixa do dia: 13.250–29k). Está em linha com a média de 7 dias (+3%).
+- **Antonio Di Natale (88)** subiu **+47.1%** em 24h, a **60k coins** (faixa do dia: 50k–72k). Está -16% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nicolò Savona | 83 | Premier League | 60k coins | -33.3% | -47% |
-| Luca Mazzitelli | 84 | Serie A TIM | 39k coins | -25% | -11.2% |
-| Paolo Maldini | 92 | Icons | 396k coins | -20.6% | -7.9% |
-| Daniele De Rossi | 89 | Serie A TIM | 158k coins | -20.5% | -11.7% |
-| Sandro Tonali | 87 | Premier League | 38k coins | -20.5% | -31.2% |
-| Roberto Baggio | 91 | Icons | 84k coins | -13.3% | +1.2% |
-| Gianfranco Zola | 87 | Icons | 66k coins | -13.2% | -28.3% |
-| Gianluigi Buffon | 91 | Icons | 200k coins | -11.4% | +36.4% |
-| Daniele De Rossi | 87 | Serie A TIM | 22k coins | -10.6% | +47.6% |
-| Manuel Locatelli | 86 | Serie A TIM | 42k coins | -10.1% | -14.1% |
+| Marco Carnesecchi | 87 | Serie A TIM | 35k coins | -41.6% | -21.9% |
+| Andrea Pirlo | 91 | Icons | 846k coins | -22.7% | -0.2% |
+| Daniele De Rossi | 89 | Serie A TIM | 155k coins | -22% | -13.3% |
+| Nicolò Savona | 83 | Premier League | 60k coins | -16.2% | -49.1% |
+| Giorgio Chiellini | 89 | Icons | 118k coins | -15% | +59.7% |
+| Sandro Tonali | 87 | Premier League | 36k coins | -12.6% | -21.5% |
+| Moise Kean | 86 | Serie A TIM | 45k coins | -10.5% | -3.8% |
+| Franco Baresi | 91 | Icons | 69k coins | -10.4% | 0% |
+| Luca Mazzitelli | 84 | Serie A TIM | 40k coins | -10.1% | +1.9% |
+| Federico Dimarco | 87 | Serie A TIM | 43k coins | -8.6% | -29.9% |
 
 
 ### Análise das baixas
 
-- **Nicolò Savona (83)** caiu **-33.3%** em 24h, a **60k coins** (faixa do dia: 58k–93k). Está -32% abaixo da média de 7 dias (descontada).
+- **Marco Carnesecchi (87)** caiu **-41.6%** em 24h, a **35k coins** (faixa do dia: 32k–65k). Está -28% abaixo da média de 7 dias (descontada).
 
-- **Luca Mazzitelli (84)** caiu **-25%** em 24h, a **39k coins** (faixa do dia: 34k–45k). Está -10% abaixo da média de 7 dias (descontada).
+- **Andrea Pirlo (91)** caiu **-22.7%** em 24h, a **846k coins** (faixa do dia: 846k–1.09M). Está -10% abaixo da média de 7 dias (descontada).
 
-- **Paolo Maldini (92)** caiu **-20.6%** em 24h, a **396k coins** (faixa do dia: 278k–500k). Está em linha com a média de 7 dias (-8%).
+- **Daniele De Rossi (89)** caiu **-22%** em 24h, a **155k coins** (faixa do dia: 155k–200k). Está -9% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Francesco Totti já avançou 57.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Nicolò Savona recuou -33.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Marco Carnesecchi recuou -41.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -121,10 +121,10 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 Francesco Totti (89, Icons), com +57.5% em 24h, a 630k coins no PC.
 
 **E a maior queda do dia?**
-Nicolò Savona (83), -33.3% em 24h, a 60k coins.
+Marco Carnesecchi (87), -41.6% em 24h, a 35k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 30 cartas em alta contra 21 em queda (média 4.67%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 23 cartas em alta contra 23 em queda (média 3.67%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
