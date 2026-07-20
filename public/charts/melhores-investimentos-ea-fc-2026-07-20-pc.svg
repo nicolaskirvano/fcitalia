@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Andrea Barzagli</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+70.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+66.0%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gianluca Mancini</text>
-<rect x="285" y="153" width="247" height="28" rx="7" fill="#22c55e"/>
-<text x="542" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alessandro Nesta</text>
-<rect x="285" y="211" width="183" height="28" rx="7" fill="#22c55e"/>
-<text x="478" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.7%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Roberto Baggio</text>
-<rect x="285" y="269" width="173" height="28" rx="7" fill="#22c55e"/>
-<text x="468" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.3%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gennaro Gattuso</text>
-<rect x="285" y="327" width="169" height="28" rx="7" fill="#22c55e"/>
-<text x="464" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+24.6%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Antonio Di Natale</text>
-<rect x="285" y="385" width="158" height="28" rx="7" fill="#22c55e"/>
-<text x="453" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.1%</text>
+<rect x="285" y="153" width="262" height="28" rx="7" fill="#22c55e"/>
+<text x="557" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gianfranco Zola</text>
+<rect x="285" y="211" width="169" height="28" rx="7" fill="#22c55e"/>
+<text x="464" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.3%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sandro Tonali</text>
+<rect x="285" y="269" width="92" height="28" rx="7" fill="#22c55e"/>
+<text x="387" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+12.6%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Riccardo Orsolini</text>
+<rect x="285" y="327" width="70" height="28" rx="7" fill="#22c55e"/>
+<text x="365" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+9.6%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Luca Mazzitelli</text>
+<rect x="285" y="385" width="50" height="28" rx="7" fill="#22c55e"/>
+<text x="345" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+6.9%</text>
 </svg>
