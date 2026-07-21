@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:29:09.000Z
+pubDatetime: 2026-07-21T13:29:09.000Z
 title: "Investimentos EA FC: Italianos em 21/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "Roberto Baggio (91, Icons) lidera, com +53.8% em 7 dias a 126k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Riccardo Orsolini (85, Serie A TIM) lidera, com +89.6% em 7 dias a 28k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Roberto Baggio (91) acumula **+53.8% em 7 dias** a 126k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Riccardo Orsolini (85) acumula **+89.6% em 7 dias** a 28k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Italianos em 21/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-21-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.5% em 24h** e **+22.8% em 7 dias**.
-- **4 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+28.0% em 24h** e **+26.7% em 7 dias**.
+- **9 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,31 +43,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Roberto Baggio | 91 | Icons | 126k coins | +31.3% | +53.8% | Esticada |
-| Gennaro Gattuso | 86 | Icons | 111k coins | +23.8% | +33.8% | Esticada |
-| Sandro Tonali | 87 | Premier League | 46k coins | +28.3% | +30% | Esticada |
-| Nicolò Zaniolo | 86 | Serie A TIM | 22k coins | +3.4% | +24.7% | Entrada a observar |
-| Giorgio Scalvini | 86 | Serie A TIM | 55k coins | +15.8% | +23.6% | Momentum moderado |
-| Sandro Tonali | 91 | Premier League | 125k coins | +16.2% | +23.2% | Momentum moderado |
-| Gianluca Mancini | 85 | Serie A TIM | 22k coins | +1.1% | +22.4% | Entrada a observar |
-| Leonardo Spinazzola | 89 | Serie A TIM | 34k coins | +14.2% | +20.8% | Momentum moderado |
-| Franco Baresi | 91 | Icons | 76k coins | +21% | +19.3% | Esticada |
-| Alessandro Nesta | 89 | Icons | 74k coins | +15.2% | +17.8% | Momentum moderado |
-| Giorgio Chiellini | 88 | Icons | 72k coins | +5% | +10.5% | Entrada a observar |
-| Vincenzo Grifo | 84 | Bundesliga | 44k coins | +8% | +10% | Momentum moderado |
+| Riccardo Orsolini | 85 | Serie A TIM | 28k coins | +28.3% | +89.6% | Esticada |
+| Giorgio Chiellini | 89 | Icons | 140k coins | +28.3% | +89.5% | Esticada |
+| Roberto Baggio | 91 | Icons | 115k coins | +27.6% | +45.7% | Esticada |
+| Antonio Di Natale | 88 | Serie A TIM | 55k coins | +13.8% | +42.1% | Momentum moderado |
+| Sandro Tonali | 91 | Premier League | 137k coins | +37% | +39.1% | Esticada |
+| Federico Dimarco | 87 | Serie A TIM | 58k coins | +34.8% | +31.2% | Esticada |
+| Fabio Cannavaro | 89 | Icons | 116k coins | +32.6% | +27.5% | Esticada |
+| Gianluca Zambrotta | 86 | Icons | 101k coins | +27.5% | +25.9% | Esticada |
+| Giorgio Scalvini | 86 | Serie A TIM | 55k coins | +35.8% | +24.3% | Esticada |
+| Gennaro Gattuso | 86 | Icons | 90k coins | +28.6% | +21.6% | Esticada |
+| Claudio Marchisio | 87 | Serie A TIM | 18.500 coins | +7.4% | +17.7% | Momentum moderado |
+| Alessandro Nesta | 89 | Icons | 72k coins | +5.8% | +8.1% | Momentum moderado |
+| Manuel Locatelli | 86 | Serie A TIM | 46k coins | +10.6% | +6.2% | Momentum moderado |
+| Giorgio Chiellini | 88 | Icons | 77k coins | +4.5% | +5.3% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Roberto Baggio (91)** — 126k coins, **+53.8% em 7 dias** (+31.3% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Riccardo Orsolini (85)** — 28k coins, **+89.6% em 7 dias** (+28.3% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gennaro Gattuso (86)** — 111k coins, **+33.8% em 7 dias** (+23.8% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giorgio Chiellini (89)** — 140k coins, **+89.5% em 7 dias** (+28.3% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sandro Tonali (87)** — 46k coins, **+30% em 7 dias** (+28.3% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Roberto Baggio (91)** — 115k coins, **+45.7% em 7 dias** (+27.6% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nicolò Zaniolo (86)** — 22k coins, **+24.7% em 7 dias** (+3.4% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Antonio Di Natale (88)** — 55k coins, **+42.1% em 7 dias** (+13.8% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giorgio Scalvini (86)** — 55k coins, **+23.6% em 7 dias** (+15.8% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sandro Tonali (91)** — 137k coins, **+39.1% em 7 dias** (+37% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -85,7 +87,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-Roberto Baggio (91, Icons) lidera, com +53.8% em 7 dias a 126k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Riccardo Orsolini (85, Serie A TIM) lidera, com +89.6% em 7 dias a 28k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -103,6 +105,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Italianos em 21/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-21-ps/)
 - [Mercado EA FC em 21/07: Italianos — Console (PS)](/posts/mercado-ea-fc-2026-07-21-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

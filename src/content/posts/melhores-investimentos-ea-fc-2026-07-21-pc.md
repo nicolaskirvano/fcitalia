@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:29:18.000Z
+pubDatetime: 2026-07-21T13:29:18.000Z
 title: "Investimentos EA FC: Italianos em 21/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "Andrea Pirlo (90, Icons) lidera, com +76.2% em 7 dias a 185k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Giovanni Di Lorenzo (86, Serie A TIM) lidera, com +39.2% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Andrea Pirlo (90) acumula **+76.2% em 7 dias** a 185k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Giovanni Di Lorenzo (86) acumula **+39.2% em 7 dias** a 50k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Italianos em 21/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-21-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+24.2% em 24h** e **+28.5% em 7 dias**.
-- **7 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+6.9% em 24h** e **+18.0% em 7 dias**.
+- **2 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,28 +43,27 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Andrea Pirlo | 90 | Icons | 185k coins | +24.2% | +76.2% | Esticada |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 50k coins | +4.7% | +39.2% | Momentum moderado |
-| Franco Baresi | 91 | Icons | 89k coins | +31.9% | +31.9% | Esticada |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 50k coins | +7.6% | +39.2% | Momentum moderado |
+| Claudio Marchisio | 87 | Serie A TIM | 25k coins | +1% | +37% | Momentum moderado |
 | Antonio Di Natale | 88 | Serie A TIM | 110k coins | +22.2% | +31.7% | Esticada |
-| Fabio Cannavaro | 89 | Icons | 154k coins | +25.4% | +28.5% | Esticada |
-| Giada Greggi | 87 | Calcio A Femminile | 25k coins | +25% | +19% | Esticada |
+| Franco Baresi | 91 | Icons | 82k coins | +18.8% | +18.8% | Momentum moderado |
 | Moise Kean | 86 | Serie A TIM | 50k coins | +28.6% | +17.2% | Esticada |
-| Tommaso Biasci | 84 | Serie BKT | 46k coins | +21.7% | +12.1% | Esticada |
+| Fabio Cannavaro | 89 | Icons | 141k coins | +2.9% | +15.6% | Entrada a observar |
 | Giorgio Scalvini | 86 | Serie A TIM | 50k coins | +2.6% | +11.2% | Entrada a observar |
+| Gianluigi Buffon | 91 | Icons | 167k coins | +6.3% | +8.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Andrea Pirlo (90)** — 185k coins, **+76.2% em 7 dias** (+24.2% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giovanni Di Lorenzo (86)** — 50k coins, **+39.2% em 7 dias** (+7.6% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giovanni Di Lorenzo (86)** — 50k coins, **+39.2% em 7 dias** (+4.7% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Claudio Marchisio (87)** — 25k coins, **+37% em 7 dias** (+1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Franco Baresi (91)** — 89k coins, **+31.9% em 7 dias** (+31.9% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Antonio Di Natale (88)** — 110k coins, **+31.7% em 7 dias** (+22.2% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Antonio Di Natale (88)** — 110k coins, **+31.7% em 7 dias** (+22.2% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Franco Baresi (91)** — 82k coins, **+18.8% em 7 dias** (+18.8% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fabio Cannavaro (89)** — 154k coins, **+28.5% em 7 dias** (+25.4% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Moise Kean (86)** — 50k coins, **+17.2% em 7 dias** (+28.6% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -82,7 +81,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-Andrea Pirlo (90, Icons) lidera, com +76.2% em 7 dias a 185k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Giovanni Di Lorenzo (86, Serie A TIM) lidera, com +39.2% em 7 dias a 50k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
