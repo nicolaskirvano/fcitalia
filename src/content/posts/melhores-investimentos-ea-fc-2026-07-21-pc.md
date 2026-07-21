@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T13:29:18.000Z
+pubDatetime: 2026-07-21T16:29:18.000Z
 title: "Investimentos EA FC: Italianos em 21/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+6.9% em 24h** e **+18.0% em 7 dias**.
-- **2 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+9.9% em 24h** e **+21.4% em 7 dias**.
+- **0 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Serie A TIM** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,27 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 50k coins | +7.6% | +39.2% | Momentum moderado |
-| Claudio Marchisio | 87 | Serie A TIM | 25k coins | +1% | +37% | Momentum moderado |
-| Antonio Di Natale | 88 | Serie A TIM | 110k coins | +22.2% | +31.7% | Esticada |
-| Franco Baresi | 91 | Icons | 82k coins | +18.8% | +18.8% | Momentum moderado |
-| Moise Kean | 86 | Serie A TIM | 50k coins | +28.6% | +17.2% | Esticada |
-| Fabio Cannavaro | 89 | Icons | 141k coins | +2.9% | +15.6% | Entrada a observar |
-| Giorgio Scalvini | 86 | Serie A TIM | 50k coins | +2.6% | +11.2% | Entrada a observar |
-| Gianluigi Buffon | 91 | Icons | 167k coins | +6.3% | +8.4% | Momentum moderado |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 50k coins | +9.9% | +39.2% | Momentum moderado |
+| Claudio Marchisio | 87 | Serie A TIM | 25k coins | +9.9% | +37% | Momentum moderado |
+| Leonardo Spinazzola | 89 | Serie A TIM | 44k coins | +3.4% | +25.9% | Momentum moderado |
+| Daniele De Rossi | 89 | Serie A TIM | 198k coins | +11.2% | +16.8% | Momentum moderado |
+| Franco Baresi | 91 | Icons | 77k coins | +11.6% | +11.6% | Momentum moderado |
+| Giorgio Scalvini | 86 | Serie A TIM | 48k coins | +2.1% | +8.9% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Giovanni Di Lorenzo (86)** — 50k coins, **+39.2% em 7 dias** (+7.6% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giovanni Di Lorenzo (86)** — 50k coins, **+39.2% em 7 dias** (+9.9% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Claudio Marchisio (87)** — 25k coins, **+37% em 7 dias** (+1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Claudio Marchisio (87)** — 25k coins, **+37% em 7 dias** (+9.9% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Antonio Di Natale (88)** — 110k coins, **+31.7% em 7 dias** (+22.2% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Leonardo Spinazzola (89)** — 44k coins, **+25.9% em 7 dias** (+3.4% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Franco Baresi (91)** — 82k coins, **+18.8% em 7 dias** (+18.8% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Daniele De Rossi (89)** — 198k coins, **+16.8% em 7 dias** (+11.2% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Moise Kean (86)** — 50k coins, **+17.2% em 7 dias** (+28.6% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Franco Baresi (91)** — 77k coins, **+11.6% em 7 dias** (+11.6% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
