@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T16:29:09.000Z
+pubDatetime: 2026-07-23T19:29:08.000Z
 title: "Investimentos EA FC: Italianos em 23/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Federico Dimarco (87, Serie A TIM) lidera, com +38.3% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Franco Baresi (91, Icons) lidera, com +47.4% em 7 dias a 90k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Federico Dimarco (87) acumula **+38.3% em 7 dias** a 55k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Franco Baresi (91) acumula **+47.4% em 7 dias** a 90k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Italianos em 23/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-23-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.7% em 24h** e **+15.3% em 7 dias**.
-- **3 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+7.5% em 24h** e **+35.0% em 7 dias**.
+- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Serie A TIM** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,26 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Federico Dimarco | 87 | Serie A TIM | 55k coins | +16.7% | +38.3% | Momentum moderado |
-| Tommaso Biasci | 84 | Serie BKT | 46k coins | +22.7% | +21.1% | Esticada |
-| Vincenzo Grifo | 84 | Bundesliga | 47k coins | +28.6% | +16% | Esticada |
-| Daniele De Rossi | 89 | Serie A TIM | 219k coins | +38.6% | +15.3% | Esticada |
-| Alessandro Del Piero | 90 | Icons | 93k coins | +12.7% | +7% | Momentum moderado |
-| Giovanni Di Lorenzo | 85 | Serie A TIM | 72k coins | +14.4% | +6.7% | Momentum moderado |
-| Luca Mazzitelli | 84 | Serie A TIM | 40k coins | +6% | +6% | Momentum moderado |
+| Franco Baresi | 91 | Icons | 90k coins | +24.4% | +47.4% | Esticada |
+| Roberto Baggio | 91 | Icons | 100k coins | +24.6% | +38.2% | Esticada |
+| Alessandro Bastoni | 91 | Serie A TIM | 70k coins | +7.1% | +35.1% | Momentum moderado |
+| Andrea Barzagli | 88 | Serie A TIM | 25k coins | +8% | +35% | Momentum moderado |
+| Federico Dimarco | 87 | Serie A TIM | 42k coins | +4.7% | +13.9% | Entrada a observar |
+| Daniele De Rossi | 91 | Serie A TIM | 210k coins | +5% | +9% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Federico Dimarco (87)** — 55k coins, **+38.3% em 7 dias** (+16.7% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Franco Baresi (91)** — 90k coins, **+47.4% em 7 dias** (+24.4% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tommaso Biasci (84)** — 46k coins, **+21.1% em 7 dias** (+22.7% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Roberto Baggio (91)** — 100k coins, **+38.2% em 7 dias** (+24.6% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Vincenzo Grifo (84)** — 47k coins, **+16% em 7 dias** (+28.6% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alessandro Bastoni (91)** — 70k coins, **+35.1% em 7 dias** (+7.1% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Daniele De Rossi (89)** — 219k coins, **+15.3% em 7 dias** (+38.6% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Andrea Barzagli (88)** — 25k coins, **+35% em 7 dias** (+8% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alessandro Del Piero (90)** — 93k coins, **+7% em 7 dias** (+12.7% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Federico Dimarco (87)** — 42k coins, **+13.9% em 7 dias** (+4.7% em 24h). Preço -15% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -89,7 +88,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Federico Dimarco (87, Serie A TIM) lidera, com +38.3% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Franco Baresi (91, Icons) lidera, com +47.4% em 7 dias a 90k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
