@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Daniele De Rossi</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Fabio Cannavaro</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+22.7%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Federico Dimarco</text>
-<rect x="285" y="153" width="423" height="28" rx="7" fill="#22c55e"/>
-<text x="718" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tommaso Biasci</text>
-<rect x="285" y="211" width="421" height="28" rx="7" fill="#22c55e"/>
-<text x="716" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+19.9%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Roberto Baggio</text>
-<rect x="285" y="269" width="404" height="28" rx="7" fill="#22c55e"/>
-<text x="699" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+19.1%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Paolo Maldini</text>
-<rect x="285" y="327" width="398" height="28" rx="7" fill="#22c55e"/>
-<text x="693" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.8%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Franco Baresi</text>
-<rect x="285" y="385" width="364" height="28" rx="7" fill="#22c55e"/>
-<text x="659" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+17.2%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.7%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Franco Baresi</text>
+<rect x="285" y="153" width="297" height="28" rx="7" fill="#22c55e"/>
+<text x="592" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.2%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Giovanni Di Lorenzo</text>
+<rect x="285" y="211" width="226" height="28" rx="7" fill="#22c55e"/>
+<text x="521" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.4%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Andrea Pirlo</text>
+<rect x="285" y="269" width="172" height="28" rx="7" fill="#22c55e"/>
+<text x="467" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+11.7%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ilario Monterisi</text>
+<rect x="285" y="327" width="167" height="28" rx="7" fill="#22c55e"/>
+<text x="462" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+11.4%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Giorgio Chiellini</text>
+<rect x="285" y="385" width="166" height="28" rx="7" fill="#22c55e"/>
+<text x="461" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+11.3%</text>
 </svg>
