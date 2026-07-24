@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T16:29:09.000Z
+pubDatetime: 2026-07-24T19:29:09.000Z
 title: "Investimentos EA FC: Italianos em 24/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Ilario Monterisi (84, Serie BKT) lidera, com +36.6% em 7 dias a 52k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Vincenzo Grifo (84, Bundesliga) lidera, com +30.9% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ilario Monterisi (84) acumula **+36.6% em 7 dias** a 52k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Vincenzo Grifo (84) acumula **+30.9% em 7 dias** a 50k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Italianos em 24/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-24-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+22.4% em 24h** e **+18.6% em 7 dias**.
-- **3 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+8.8% em 24h** e **+11.9% em 7 dias**.
+- **1 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,25 +43,28 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ilario Monterisi | 84 | Serie BKT | 52k coins | +26.9% | +36.6% | Esticada |
-| Giada Greggi | 87 | Calcio A Femminile | 26k coins | +31% | +27.9% | Esticada |
-| Gianluca Zambrotta | 86 | Icons | 94k coins | +25.8% | +19.5% | Esticada |
-| Alessandro Del Piero | 90 | Icons | 94k coins | +19% | +17.6% | Momentum moderado |
-| Manuel Locatelli | 86 | Serie A TIM | 48k coins | +1.1% | +9.2% | Entrada a observar |
-| Nicolò Zaniolo | 86 | Serie A TIM | 18.500 coins | +8.8% | +5.7% | Momentum moderado |
+| Vincenzo Grifo | 84 | Bundesliga | 50k coins | +7.1% | +30.9% | Momentum moderado |
+| Ilario Monterisi | 84 | Serie BKT | 42k coins | +16.1% | +22.4% | Momentum moderado |
+| Giovanni Di Lorenzo | 85 | Serie A TIM | 71k coins | +2.1% | +20.2% | Entrada a observar |
+| Manuel Locatelli | 86 | Serie A TIM | 44k coins | +17.7% | +12% | Momentum moderado |
+| Marco Carnesecchi | 87 | Serie A TIM | 47k coins | +34.3% | +11.9% | Esticada |
+| Luca Mazzitelli | 84 | Serie A TIM | 41k coins | +1.3% | +10.6% | Entrada a observar |
+| Sandro Tonali | 87 | Premier League | 44k coins | +6.5% | +9.3% | Momentum moderado |
+| Gianluca Zambrotta | 86 | Icons | 84k coins | +12.6% | +6.9% | Momentum moderado |
+| Nicolò Zaniolo | 86 | Serie A TIM | 16.000 coins | +8.8% | +5.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Ilario Monterisi (84)** — 52k coins, **+36.6% em 7 dias** (+26.9% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Vincenzo Grifo (84)** — 50k coins, **+30.9% em 7 dias** (+7.1% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giada Greggi (87)** — 26k coins, **+27.9% em 7 dias** (+31% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ilario Monterisi (84)** — 42k coins, **+22.4% em 7 dias** (+16.1% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gianluca Zambrotta (86)** — 94k coins, **+19.5% em 7 dias** (+25.8% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giovanni Di Lorenzo (85)** — 71k coins, **+20.2% em 7 dias** (+2.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alessandro Del Piero (90)** — 94k coins, **+17.6% em 7 dias** (+19% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Manuel Locatelli (86)** — 44k coins, **+12% em 7 dias** (+17.7% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Manuel Locatelli (86)** — 48k coins, **+9.2% em 7 dias** (+1.1% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marco Carnesecchi (87)** — 47k coins, **+11.9% em 7 dias** (+34.3% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -79,7 +82,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Ilario Monterisi (84, Serie BKT) lidera, com +36.6% em 7 dias a 52k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Vincenzo Grifo (84, Bundesliga) lidera, com +30.9% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -97,6 +100,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Italianos em 24/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-24-ps/)
 - [Mercado EA FC em 24/07: Italianos — Console (PS)](/posts/mercado-ea-fc-2026-07-24-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
