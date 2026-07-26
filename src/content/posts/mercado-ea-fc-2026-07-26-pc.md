@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T19:29:17.000Z
+pubDatetime: 2026-07-26T22:29:17.000Z
 title: "Mercado EA FC em 26/07: Italianos — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 26/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
-    a: "Andrea Pirlo (90, Icons), com +54.4% em 24h, a 210k coins no PC."
+    a: "Giovanni Di Lorenzo (86, Serie A TIM), com +54.6% em 24h, a 75k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Fabio Cannavaro (89), -48.1% em 24h, a 68k coins."
+    a: "Fabio Cannavaro (89), -40.9% em 24h, a 68k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 21 cartas em alta contra 15 em queda (média 9.25%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 23 cartas em alta contra 14 em queda (média 6.83%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **26/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **21 subiram** e **15 caíram**, com variação média de **9.25%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **26/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **23 subiram** e **14 caíram**, com variação média de **6.83%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Andrea Pirlo (90) **+54.4%** · 🔴 **Maior baixa:** Fabio Cannavaro (89) **-48.1%**
+> 🟢 **Maior alta:** Giovanni Di Lorenzo (86) **+54.6%** · 🔴 **Maior baixa:** Fabio Cannavaro (89) **-40.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Italianos — PC](/charts/mercado-ea-fc-2026-07-26-pc.svg)
 
@@ -35,24 +35,24 @@ Em **26/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alt
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 102.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 58.3% entre as cartas que se moveram; o universo observado reúne 59 cartas.
-- **Concentração:** Icons aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 95.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 62.2% entre as cartas que se moveram; o universo observado reúne 62 cartas.
+- **Concentração:** Serie A TIM aparece em 9 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Andrea Pirlo | 90 | Icons | 210k coins | +54.4% | +44.8% |
-| Barbara Bonansea | 87 | Calcio A Femminile | 40k coins | +52.1% | +33.1% |
-| Tommaso Biasci | 84 | Serie BKT | 55k coins | +46.7% | 0% |
-| Daniele De Rossi | 87 | Serie A TIM | 24k coins | +45.7% | +10.9% |
-| Gianluca Zambrotta | 86 | Icons | 98k coins | +45% | -35.4% |
-| Daniele De Rossi | 89 | Serie A TIM | 142k coins | +42.7% | -19.3% |
-| Marco Carnesecchi | 87 | Serie A TIM | 46k coins | +38.7% | -3.2% |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 75k coins | +37.7% | +44.6% |
-| Giada Greggi | 87 | Calcio A Femminile | 24k coins | +27.1% | -4.4% |
-| Daniele De Rossi | 91 | Serie A TIM | 360k coins | +25% | +25.9% |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 75k coins | +54.6% | +50.8% |
+| Riccardo Orsolini | 85 | Serie A TIM | 26k coins | +38.1% | +26.1% |
+| Gianluca Mancini | 85 | Serie A TIM | 26k coins | +36.8% | +11.8% |
+| Antonio Di Natale | 89 | Serie A TIM | 243k coins | +31.9% | -8.4% |
+| Tommaso Biasci | 84 | Serie BKT | 47k coins | +28% | -12.7% |
+| Alessandro Bastoni | 91 | Serie A TIM | 59k coins | +21.8% | -17.8% |
+| Nicolò Cambiaghi | 80 | Serie A TIM | 48k coins | +18.8% | +9.2% |
+| Gianluigi Buffon | 91 | Icons | 179k coins | +18.1% | +11.4% |
+| Vincenzo Grifo | 84 | Bundesliga | 52k coins | +14.3% | +2% |
+| Tommaso Pobega | 83 | Serie A TIM | 43k coins | +13.8% | +6.8% |
 
 
 ### Análise das altas
@@ -61,41 +61,43 @@ Em **26/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alt
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Andrea Pirlo (90)** subiu **+54.4%** em 24h, a **210k coins** (faixa do dia: 100k–210k). Está +33% acima da média de 7 dias (aquecida).
+- **Giovanni Di Lorenzo (86)** subiu **+54.6%** em 24h, a **75k coins** (faixa do dia: 46k–75k). Está +44% acima da média de 7 dias (aquecida).
 
-- **Barbara Bonansea (87)** subiu **+52.1%** em 24h, a **40k coins** (faixa do dia: 29k–64k). Está em linha com a média de 7 dias (-1%).
+- **Riccardo Orsolini (85)** subiu **+38.1%** em 24h, a **26k coins** (faixa do dia: 22k–38k). Está em linha com a média de 7 dias (+2%).
 
-- **Tommaso Biasci (84)** subiu **+46.7%** em 24h, a **55k coins** (faixa do dia: 38k–55k). Está +25% acima da média de 7 dias (aquecida).
+- **Gianluca Mancini (85)** subiu **+36.8%** em 24h, a **26k coins** (faixa do dia: 16.000–26k). Está +17% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Fabio Cannavaro | 89 | Icons | 68k coins | -48.1% | -43.9% |
-| Gianfranco Zola | 87 | Icons | 70k coins | -24.3% | -12.3% |
-| Roberto Baggio | 91 | Icons | 81k coins | -14.3% | -39.1% |
-| Ilario Monterisi | 84 | Serie BKT | 45k coins | -10.4% | +11.7% |
-| Sandro Tonali | 91 | Premier League | 130k coins | -7.1% | -17.2% |
-| Giorgio Chiellini | 89 | Icons | 118k coins | -7.1% | +48.4% |
-| Antonio Di Natale | 88 | Serie A TIM | 66k coins | -3.4% | +6.7% |
-| Sandro Tonali | 87 | Premier League | 47k coins | -3% | +20% |
+| Fabio Cannavaro | 89 | Icons | 68k coins | -40.9% | -46.5% |
+| Alessandro Del Piero | 90 | Icons | 68k coins | -28.8% | -21.8% |
+| Manuel Locatelli | 86 | Serie A TIM | 35k coins | -28.2% | -29.3% |
+| Antonio Di Natale | 88 | Serie A TIM | 54k coins | -26% | -21.2% |
+| Francesco Totti | 89 | Icons | 189k coins | -24.4% | -24.4% |
+| Francesco Totti | 89 | Icons | 567k coins | -17.2% | -10% |
+| Ilario Monterisi | 84 | Serie BKT | 41k coins | -15.1% | +5.8% |
+| Sandro Tonali | 91 | Premier League | 130k coins | -12.2% | -21.7% |
+| Sandro Tonali | 87 | Premier League | 44k coins | -10.6% | +10.6% |
+| Gennaro Gattuso | 86 | Icons | 78k coins | -6.5% | -20.7% |
 
 
 ### Análise das baixas
 
-- **Fabio Cannavaro (89)** caiu **-48.1%** em 24h, a **68k coins** (faixa do dia: 68k–120k). Está -56% abaixo da média de 7 dias (descontada).
+- **Fabio Cannavaro (89)** caiu **-40.9%** em 24h, a **68k coins** (faixa do dia: 68k–112k). Está -56% abaixo da média de 7 dias (descontada).
 
-- **Gianfranco Zola (87)** caiu **-24.3%** em 24h, a **70k coins** (faixa do dia: 70k–96k). Está -39% abaixo da média de 7 dias (descontada).
+- **Alessandro Del Piero (90)** caiu **-28.8%** em 24h, a **68k coins** (faixa do dia: 68k–100k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Roberto Baggio (91)** caiu **-14.3%** em 24h, a **81k coins** (faixa do dia: 69k–84k). Está -23% abaixo da média de 7 dias (descontada).
+- **Manuel Locatelli (86)** caiu **-28.2%** em 24h, a **35k coins** (faixa do dia: 35k–49k). Está -13% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Andrea Pirlo já avançou 54.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Giovanni Di Lorenzo já avançou 54.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Fabio Cannavaro recuou -48.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Fabio Cannavaro recuou -40.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -107,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (26/07/2026)?**
-Andrea Pirlo (90, Icons), com +54.4% em 24h, a 210k coins no PC.
+Giovanni Di Lorenzo (86, Serie A TIM), com +54.6% em 24h, a 75k coins no PC.
 
 **E a maior queda do dia?**
-Fabio Cannavaro (89), -48.1% em 24h, a 68k coins.
+Fabio Cannavaro (89), -40.9% em 24h, a 68k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 21 cartas em alta contra 15 em queda (média 9.25%).
+Hoje o mercado está em alta — predominam as valorizações, com 23 cartas em alta contra 14 em queda (média 6.83%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
@@ -129,5 +131,6 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ## Continue a análise
 
 - [Jogadores baratos EA FC: Italianos em 26/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-26-pc/)
+- [Investimentos EA FC: Italianos em 26/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-26-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
