@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T22:29:18.000Z
+pubDatetime: 2026-07-27T01:29:19.000Z
 title: "Investimentos EA FC: Italianos em 26/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Giorgio Chiellini (89, Icons) lidera, com +42.1% em 7 dias a 107k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Giorgio Chiellini (89, Icons) lidera, com +33.3% em 7 dias a 92k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Giorgio Chiellini (89) acumula **+42.1% em 7 dias** a 107k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Giorgio Chiellini (89) acumula **+33.3% em 7 dias** a 92k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Italianos em 26/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-26-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+26.3% em 24h** e **+21.0% em 7 dias**.
-- **3 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.4% em 24h** e **+12.4% em 7 dias**.
+- **1 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,25 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Giorgio Chiellini | 89 | Icons | 107k coins | +12.5% | +42.1% | Momentum moderado |
-| Riccardo Orsolini | 85 | Serie A TIM | 26k coins | +38.1% | +26.1% | Esticada |
-| Barbara Bonansea | 87 | Calcio A Femminile | 40k coins | +34.5% | +23.1% | Esticada |
-| Daniele De Rossi | 91 | Serie A TIM | 175k coins | +5.9% | +18.9% | Momentum moderado |
-| Gianluca Mancini | 85 | Serie A TIM | 26k coins | +36.8% | +11.8% | Esticada |
-| Gianluigi Buffon | 91 | Icons | 179k coins | +18.1% | +11.4% | Momentum moderado |
+| Giorgio Chiellini | 89 | Icons | 92k coins | +3.2% | +33.3% | Momentum moderado |
+| Luca Mazzitelli | 84 | Serie A TIM | 46k coins | +5.1% | +17.7% | Momentum moderado |
+| Gianluca Mancini | 85 | Serie A TIM | 26k coins | +31.6% | +7.2% | Esticada |
+| Giada Greggi | 87 | Calcio A Femminile | 30k coins | +17.8% | +5.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Giorgio Chiellini (89)** — 107k coins, **+42.1% em 7 dias** (+12.5% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giorgio Chiellini (89)** — 92k coins, **+33.3% em 7 dias** (+3.2% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Riccardo Orsolini (85)** — 26k coins, **+26.1% em 7 dias** (+38.1% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luca Mazzitelli (84)** — 46k coins, **+17.7% em 7 dias** (+5.1% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Barbara Bonansea (87)** — 40k coins, **+23.1% em 7 dias** (+34.5% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gianluca Mancini (85)** — 26k coins, **+7.2% em 7 dias** (+31.6% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Daniele De Rossi (91)** — 175k coins, **+18.9% em 7 dias** (+5.9% em 24h). Preço -41% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Gianluca Mancini (85)** — 26k coins, **+11.8% em 7 dias** (+36.8% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giada Greggi (87)** — 30k coins, **+5.3% em 7 dias** (+17.8% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -79,7 +75,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Giorgio Chiellini (89, Icons) lidera, com +42.1% em 7 dias a 107k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Giorgio Chiellini (89, Icons) lidera, com +33.3% em 7 dias a 92k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
