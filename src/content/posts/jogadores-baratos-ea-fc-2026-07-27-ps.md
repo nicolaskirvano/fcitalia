@@ -1,38 +1,38 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T19:29:20.000Z
-title: "Jogadores baratos EA FC: Italianos em 27/07 — PC"
+pubDatetime: 2026-07-27T19:29:11.000Z
+title: "Jogadores baratos EA FC: Italianos em 27/07 — Console (PS)"
 draft: false
 featured: false
 tags:
   - baratos
   - custo-beneficio
   - budget
-  - pc
-description: "Cartas 83+ abaixo de 15 mil coins em 27/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
+  - ps
+description: "Cartas 83+ abaixo de 15 mil coins em 27/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (27/07/2026)?"
-    a: "Gianluigi Donnarumma (89, Premier League) aparece como melhor custo-benefício, a 3.800 coins no PC."
+    a: "Gianluigi Donnarumma (89, Premier League) aparece como melhor custo-benefício, a 3.600 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
     a: "Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias."
 ---
 
-Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **27/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
+Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **27/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Gianluigi Donnarumma (89) por apenas 3.800 coins.
+> 💰 **Melhor pechincha:** Gianluigi Donnarumma (89) por apenas 3.600 coins.
 
-![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Italianos em 27/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-27-pc.svg)
+![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Italianos em 27/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-27-ps.svg)
 
 *Visualização gerada com os mesmos valores da tabela deste artigo.*
 
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 9.650 coins.
-- **Posição mais frequente:** ST, com 2 cartas.
-- **Faixa real:** 3.800 a 13.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 4 opções:** 10.900 coins.
+- **Posição mais frequente:** GK, com 1 cartas.
+- **Faixa real:** 3.600 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,35 +40,30 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 3.800 coins | +11.8% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 12.000 coins | +6.7% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 3.600 coins | +28.6% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 14.500 coins | +3.6% |
 | Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 11.000 coins | 0% |
-| Claudio Marchisio | 87 | CM | Serie A TIM | 13.000 coins | +17.8% |
-| Cher Ndour | 86 | CM | Serie A TIM | 12.750 coins | -12.7% |
-| Cristiana Girelli | 85 | ST | Calcio A Femminile | 4.000 coins | 0% |
+| Cher Ndour | 86 | CM | Serie A TIM | 14.500 coins | +33.3% |
 
 
 ## 📈 Destaques
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **3.800 coins**
+- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **3.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **14.500 coins**
 
 - **Andrea Barzagli (88, CB)** da Serie A TIM, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Andrea Barzagli (87, CB)** da Serie A TIM, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Claudio Marchisio (87, CM)** da Serie A TIM, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Cher Ndour (86, CM)** da Serie A TIM, a apenas **14.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Gianluigi Donnarumma (89, GK) por 3.800 coins é a referência de rating deste recorte.
+- **Defesa:** Gianluigi Donnarumma (89, GK) por 3.600 coins é a referência de rating deste recorte.
 
-- **Meio:** Claudio Marchisio (87, CM) por 13.000 coins é a referência de rating deste recorte.
+- **Meio:** Cher Ndour (86, CM) por 14.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Gianluca Vialli (89, ST) por 12.000 coins é a referência de rating deste recorte.
+- **Ataque:** Gianluca Vialli (89, ST) por 14.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -87,7 +82,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (27/07/2026)?**  
-Gianluigi Donnarumma (89, Premier League) aparece como melhor custo-benefício, a 3.800 coins no PC.
+Gianluigi Donnarumma (89, Premier League) aparece como melhor custo-benefício, a 3.600 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -100,11 +95,12 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 
 ---
 
-*Preços de PC, referência de 27/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+*Preços de Console (PS), referência de 27/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
 
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Mercado EA FC em 27/07: Italianos — PC](/posts/mercado-ea-fc-2026-07-27-pc/)
+- [Investimentos EA FC: Italianos em 27/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-27-ps/)
+- [Mercado EA FC em 27/07: Italianos — Console (PS)](/posts/mercado-ea-fc-2026-07-27-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
