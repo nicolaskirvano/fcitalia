@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T19:29:09.000Z
+pubDatetime: 2026-07-27T22:29:09.000Z
 title: "Investimentos EA FC: Italianos em 27/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Andrea Pirlo (90, Icons) lidera, com +41.9% em 7 dias a 180k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Federico Dimarco (87, Serie A TIM) lidera, com +41.8% em 7 dias a 66k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Andrea Pirlo (90) acumula **+41.9% em 7 dias** a 180k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Federico Dimarco (87) acumula **+41.8% em 7 dias** a 66k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Italianos em 27/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-27-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.8% em 24h** e **+22.4% em 7 dias**.
-- **1 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+7.5% em 24h** e **+24.1% em 7 dias**.
+- **2 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,21 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Andrea Pirlo | 90 | Icons | 180k coins | +37.9% | +41.9% | Esticada |
-| Moise Kean | 86 | Serie A TIM | 48k coins | +11.1% | +28.2% | Momentum moderado |
-| Davide Zappacosta | 88 | Serie A TIM | 23k coins | +1.9% | +16.5% | Entrada a observar |
-| Tommaso Biasci | 84 | Serie BKT | 60k coins | +6.5% | +16.5% | Momentum moderado |
+| Federico Dimarco | 87 | Serie A TIM | 66k coins | +4.7% | +41.8% | Momentum moderado |
+| Manuel Locatelli | 86 | Serie A TIM | 54k coins | +6.9% | +31.3% | Momentum moderado |
+| Moise Kean | 86 | Serie A TIM | 50k coins | +19.4% | +25.7% | Momentum moderado |
+| Gianluigi Buffon | 91 | Icons | 136k coins | +35.7% | +24.1% | Esticada |
+| Gianfranco Zola | 87 | Icons | 79k coins | +7.5% | +11.3% | Momentum moderado |
+| Vincenzo Grifo | 84 | Bundesliga | 50k coins | +37% | +8.1% | Esticada |
+| Davide Zappacosta | 88 | Serie A TIM | 26k coins | +2% | +6.2% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Andrea Pirlo (90)** — 180k coins, **+41.9% em 7 dias** (+37.9% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Federico Dimarco (87)** — 66k coins, **+41.8% em 7 dias** (+4.7% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Moise Kean (86)** — 48k coins, **+28.2% em 7 dias** (+11.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Manuel Locatelli (86)** — 54k coins, **+31.3% em 7 dias** (+6.9% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Davide Zappacosta (88)** — 23k coins, **+16.5% em 7 dias** (+1.9% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Moise Kean (86)** — 50k coins, **+25.7% em 7 dias** (+19.4% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tommaso Biasci (84)** — 60k coins, **+16.5% em 7 dias** (+6.5% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gianluigi Buffon (91)** — 136k coins, **+24.1% em 7 dias** (+35.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Gianfranco Zola (87)** — 79k coins, **+11.3% em 7 dias** (+7.5% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +80,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Andrea Pirlo (90, Icons) lidera, com +41.9% em 7 dias a 180k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Federico Dimarco (87, Serie A TIM) lidera, com +41.8% em 7 dias a 66k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
