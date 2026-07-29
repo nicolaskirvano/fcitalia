@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T13:29:18.000Z
+pubDatetime: 2026-07-29T16:29:18.000Z
 title: "Investimentos EA FC: Italianos em 29/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 29/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (29/07/2026) no EA FC?"
-    a: "Giovanni Di Lorenzo (86, Serie A TIM) lidera, com +64.8% em 7 dias a 75k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Fabio Cannavaro (89, Icons) lidera, com +71.2% em 7 dias a 234k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **29/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Giovanni Di Lorenzo (86) acumula **+64.8% em 7 dias** a 75k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Fabio Cannavaro (89) acumula **+71.2% em 7 dias** a 234k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Italianos em 29/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-29-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **29/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.9% em 24h** e **+20.8% em 7 dias**.
-- **1 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+7.7% em 24h** e **+14.3% em 7 dias**.
+- **2 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,21 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 75k coins | +3.4% | +64.8% | Esticada |
-| Daniele De Rossi | 87 | Serie A TIM | 26k coins | +15.8% | +25.8% | Momentum moderado |
-| Ilario Monterisi | 84 | Serie BKT | 46k coins | +14.4% | +15.8% | Momentum moderado |
-| Giorgio Chiellini | 89 | Icons | 96k coins | +3.2% | +13.7% | Entrada a observar |
+| Fabio Cannavaro | 89 | Icons | 234k coins | +2% | +71.2% | Esticada |
+| Gianluigi Buffon | 91 | Icons | 163k coins | +25.4% | +31.5% | Esticada |
+| Riccardo Orsolini | 85 | Serie A TIM | 28k coins | +10% | +14.6% | Momentum moderado |
+| Giorgio Scalvini | 86 | Serie A TIM | 48k coins | +6.4% | +14.3% | Momentum moderado |
+| Gianluca Mancini | 85 | Serie A TIM | 26k coins | +13% | +13% | Momentum moderado |
+| Marco Carnesecchi | 87 | Serie A TIM | 55k coins | +3.7% | +9.9% | Entrada a observar |
+| Ilario Monterisi | 84 | Serie BKT | 48k coins | +7.7% | +8.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Giovanni Di Lorenzo (86)** — 75k coins, **+64.8% em 7 dias** (+3.4% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Fabio Cannavaro (89)** — 234k coins, **+71.2% em 7 dias** (+2% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Daniele De Rossi (87)** — 26k coins, **+25.8% em 7 dias** (+15.8% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gianluigi Buffon (91)** — 163k coins, **+31.5% em 7 dias** (+25.4% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ilario Monterisi (84)** — 46k coins, **+15.8% em 7 dias** (+14.4% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Riccardo Orsolini (85)** — 28k coins, **+14.6% em 7 dias** (+10% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giorgio Chiellini (89)** — 96k coins, **+13.7% em 7 dias** (+3.2% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giorgio Scalvini (86)** — 48k coins, **+14.3% em 7 dias** (+6.4% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Gianluca Mancini (85)** — 26k coins, **+13% em 7 dias** (+13% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +80,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (29/07/2026) no EA FC?**  
-Giovanni Di Lorenzo (86, Serie A TIM) lidera, com +64.8% em 7 dias a 75k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Fabio Cannavaro (89, Icons) lidera, com +71.2% em 7 dias a 234k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
