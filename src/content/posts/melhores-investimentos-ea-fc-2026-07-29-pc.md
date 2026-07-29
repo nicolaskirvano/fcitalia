@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T19:29:18.000Z
+pubDatetime: 2026-07-29T22:29:19.000Z
 title: "Investimentos EA FC: Italianos em 29/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 29/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (29/07/2026) no EA FC?"
-    a: "Giorgio Chiellini (89, Icons) lidera, com +42.2% em 7 dias a 128k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Giorgio Chiellini (89, Icons) lidera, com +39.1% em 7 dias a 128k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **29/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Giorgio Chiellini (89) acumula **+42.2% em 7 dias** a 128k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Giorgio Chiellini (89) acumula **+39.1% em 7 dias** a 128k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Italianos em 29/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-29-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **29/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.4% em 24h** e **+15.8% em 7 dias**.
-- **4 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.2% em 24h** e **+17.0% em 7 dias**.
+- **2 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,28 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Giorgio Chiellini | 89 | Icons | 128k coins | +36.2% | +42.2% | Esticada |
-| Gianluigi Buffon | 91 | Icons | 138k coins | +25.4% | +33.6% | Esticada |
-| Gianluca Zambrotta | 86 | Icons | 120k coins | +24.6% | +25.9% | Esticada |
-| Gianluca Mancini | 85 | Serie A TIM | 28k coins | +17.4% | +17.4% | Momentum moderado |
-| Giorgio Scalvini | 86 | Serie A TIM | 50k coins | +5.3% | +15.8% | Momentum moderado |
-| Riccardo Orsolini | 85 | Serie A TIM | 26k coins | +10% | +12.2% | Momentum moderado |
-| Ilario Monterisi | 84 | Serie BKT | 49k coins | +7.7% | +8.8% | Momentum moderado |
+| Giorgio Chiellini | 89 | Icons | 128k coins | +36.2% | +39.1% | Esticada |
+| Gennaro Gattuso | 86 | Icons | 101k coins | +3.1% | +31.2% | Momentum moderado |
+| Gianluca Mancini | 85 | Serie A TIM | 28k coins | +19.6% | +19.6% | Momentum moderado |
+| Giorgio Scalvini | 86 | Serie A TIM | 50k coins | +6.4% | +17% | Momentum moderado |
+| Gianluca Zambrotta | 86 | Icons | 120k coins | +16.2% | +16.8% | Momentum moderado |
 | Federico Chiesa | 86 | Premier League | 203k coins | +40% | +8% | Esticada |
-| Franco Baresi | 91 | Icons | 69k coins | +6.5% | +6.5% | Momentum moderado |
+| Ilario Monterisi | 84 | Serie BKT | 48k coins | +6% | +7.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Giorgio Chiellini (89)** — 128k coins, **+42.2% em 7 dias** (+36.2% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giorgio Chiellini (89)** — 128k coins, **+39.1% em 7 dias** (+36.2% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gianluigi Buffon (91)** — 138k coins, **+33.6% em 7 dias** (+25.4% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gennaro Gattuso (86)** — 101k coins, **+31.2% em 7 dias** (+3.1% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gianluca Zambrotta (86)** — 120k coins, **+25.9% em 7 dias** (+24.6% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gianluca Mancini (85)** — 28k coins, **+19.6% em 7 dias** (+19.6% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gianluca Mancini (85)** — 28k coins, **+17.4% em 7 dias** (+17.4% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giorgio Scalvini (86)** — 50k coins, **+17% em 7 dias** (+6.4% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giorgio Scalvini (86)** — 50k coins, **+15.8% em 7 dias** (+5.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gianluca Zambrotta (86)** — 120k coins, **+16.8% em 7 dias** (+16.2% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -82,7 +80,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (29/07/2026) no EA FC?**  
-Giorgio Chiellini (89, Icons) lidera, com +42.2% em 7 dias a 128k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Giorgio Chiellini (89, Icons) lidera, com +39.1% em 7 dias a 128k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

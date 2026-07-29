@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T19:29:20.000Z
+pubDatetime: 2026-07-29T22:29:20.000Z
 title: "Jogadores baratos EA FC: Italianos em 29/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 29/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (29/07/2026)?"
-    a: "Gianluigi Donnarumma (89, Premier League) aparece como melhor custo-benefício, a 4.900 coins no PC."
+    a: "Gianluigi Donnarumma (89, Premier League) aparece como melhor custo-benefício, a 5.400 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **29/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Gianluigi Donnarumma (89) por apenas 4.900 coins.
+> 💰 **Melhor pechincha:** Gianluigi Donnarumma (89) por apenas 5.400 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Italianos em 29/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-29-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 10.483 coins.
-- **Posição mais frequente:** CB, com 2 cartas.
-- **Faixa real:** 4.900 a 13.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 5 opções:** 10.480 coins.
+- **Posição mais frequente:** GK, com 1 cartas.
+- **Faixa real:** 5.400 a 13.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,17 +40,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 4.900 coins | +42.9% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 5.400 coins | +42.9% |
 | Gianluca Vialli | 89 | ST | Serie A TIM | 12.000 coins | 0% |
 | Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
 | Sandro Tonali | 88 | CDM | Premier League | 11.000 coins | 0% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 11.000 coins | -6.4% |
 | Claudio Marchisio | 87 | CM | Serie A TIM | 13.000 coins | -1.9% |
 
 
 ## 📈 Destaques
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **4.900 coins** A alta de 24h pede uma nova checagem antes da compra.
+- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **5.400 coins** A alta de 24h pede uma nova checagem antes da compra.
 
 - **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -58,12 +57,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Sandro Tonali (88, CDM)** da Premier League, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Andrea Barzagli (87, CB)** da Serie A TIM, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Claudio Marchisio (87, CM)** da Serie A TIM, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Gianluigi Donnarumma (89, GK) por 4.900 coins é a referência de rating deste recorte.
+- **Defesa:** Gianluigi Donnarumma (89, GK) por 5.400 coins é a referência de rating deste recorte.
 
 - **Meio:** Sandro Tonali (88, CDM) por 11.000 coins é a referência de rating deste recorte.
 
@@ -86,7 +85,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (29/07/2026)?**  
-Gianluigi Donnarumma (89, Premier League) aparece como melhor custo-benefício, a 4.900 coins no PC.
+Gianluigi Donnarumma (89, Premier League) aparece como melhor custo-benefício, a 5.400 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
