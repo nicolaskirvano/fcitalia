@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T16:29:17.000Z
+pubDatetime: 2026-07-29T19:29:17.000Z
 title: "Mercado EA FC em 29/07: Italianos — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 29/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (29/07/2026)?"
-    a: "Nicolò Savona (83, Premier League), com +29.3% em 24h, a 77k coins no PC."
+    a: "Federico Chiesa (86, Premier League), com +40% em 24h, a 203k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Giada Greggi (87), -10.6% em 24h, a 25k coins."
+    a: "Alessandro Bastoni (91), -44.1% em 24h, a 48k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 16 cartas em alta contra 11 em queda (média 2.3%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 23 cartas em alta contra 21 em queda (média 6.36%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **29/07/2026** no PC: mercado **em alta** — predominam as valorizações. **16 valorizações** contra **11 quedas** entre as cartas relevantes, com média de **2.3%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **29/07/2026** no PC: mercado **em alta** — predominam as valorizações. **23 valorizações** contra **21 quedas** entre as cartas relevantes, com média de **6.36%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Nicolò Savona (83) **+29.3%** · 🔴 **Maior baixa:** Giada Greggi (87) **-10.6%**
+> 🟢 **Maior alta:** Federico Chiesa (86) **+40%** · 🔴 **Maior baixa:** Alessandro Bastoni (91) **-44.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 29/07: Italianos — PC](/charts/mercado-ea-fc-2026-07-29-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **29/07/2026** no PC: mercado **em alta** — predominam as valorizaç
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 39.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 59.3% entre as cartas que se moveram; o universo observado reúne 46 cartas.
-- **Concentração:** Serie A TIM aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 84.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 52.3% entre as cartas que se moveram; o universo observado reúne 63 cartas.
+- **Concentração:** Serie A TIM aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Nicolò Savona | 83 | Premier League | 77k coins | +29.3% | +3.4% |
-| Gianluigi Buffon | 91 | Icons | 163k coins | +25.4% | +31.5% |
-| Paolo Maldini | 94 | Icons | 40k coins | +21.7% | -96.7% |
-| Daniele De Rossi | 89 | Serie A TIM | 160k coins | +17.4% | -0.6% |
-| Gianluca Mancini | 85 | Serie A TIM | 26k coins | +13% | +13% |
+| Federico Chiesa | 86 | Premier League | 203k coins | +40% | +8% |
+| Riccardo Calafiori | 90 | Premier League | 1.50M coins | +39.4% | 0% |
+| Giorgio Chiellini | 89 | Icons | 128k coins | +36.2% | +42.2% |
+| Gianfranco Zola | 87 | Icons | 124k coins | +31% | -19.4% |
+| Andrea Pirlo | 90 | Icons | 137k coins | +29.2% | -5.5% |
+| Antonio Di Natale | 92 | Serie A TIM | 800k coins | +27% | -11.1% |
+| Gianluca Zambrotta | 86 | Icons | 120k coins | +24.6% | +25.9% |
+| Paolo Maldini | 93 | Icons | 1.70M coins | +21.9% | +4.4% |
 | Daniele De Rossi | 91 | Serie A TIM | 320k coins | +11.1% | +53.1% |
-| Riccardo Orsolini | 85 | Serie A TIM | 28k coins | +10% | +14.6% |
-| Ilario Monterisi | 84 | Serie BKT | 48k coins | +7.7% | +8.8% |
-| Roberto Baggio | 91 | Icons | 84k coins | +7% | 0% |
-| Giorgio Scalvini | 86 | Serie A TIM | 48k coins | +6.4% | +14.3% |
+| Riccardo Orsolini | 85 | Serie A TIM | 26k coins | +10% | +12.2% |
 
 
 ### Análise das altas
@@ -61,38 +61,43 @@ Resumo de **29/07/2026** no PC: mercado **em alta** — predominam as valorizaç
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Nicolò Savona (83)** subiu **+29.3%** em 24h, a **77k coins** (faixa do dia: 70k–90k). Está +10% acima da média de 7 dias (aquecida).
+- **Federico Chiesa (86)** subiu **+40%** em 24h, a **203k coins** (faixa do dia: 145k–226k). Está em linha com a média de 7 dias (+1%).
 
-- **Gianluigi Buffon (91)** subiu **+25.4%** em 24h, a **163k coins** (faixa do dia: 148k–163k). Está +13% acima da média de 7 dias (aquecida).
+- **Riccardo Calafiori (90)** subiu **+39.4%** em 24h, a **1.50M coins** (faixa do dia: 1.08M–1.50M). Está +9% acima da média de 7 dias (aquecida).
 
-- **Paolo Maldini (94)** subiu **+21.7%** em 24h, a **40k coins** (faixa do dia: 40k–50k). Está -93% abaixo da média de 7 dias (descontada).
+- **Giorgio Chiellini (89)** subiu **+36.2%** em 24h, a **128k coins** (faixa do dia: 94k–129k). Está +20% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Alessandro Bastoni | 91 | Serie A TIM | 48k coins | -44.1% | -31.7% |
+| Lorenzo Pellegrini | 83 | Serie A TIM | 42k coins | -33.2% | -35.8% |
+| Antonio Di Natale | 88 | Serie A TIM | 46k coins | -30.9% | -38.2% |
+| Daniele De Rossi | 87 | Serie A TIM | 22k coins | -17% | -16.2% |
+| Paolo Maldini | 94 | Icons | 40k coins | -16.9% | -97.9% |
+| Giovanni Di Lorenzo | 85 | Serie A TIM | 46k coins | -13.3% | +31.2% |
+| Gianluigi Donnarumma | 95 | Premier League | 322k coins | -13% | +7.7% |
+| Sandro Tonali | 91 | Premier League | 113k coins | -12.4% | +17.7% |
 | Giada Greggi | 87 | Calcio A Femminile | 25k coins | -10.6% | +8.6% |
-| Gianluigi Donnarumma | 95 | Premier League | 331k coins | -10.5% | +10.7% |
-| Giovanni Di Lorenzo | 85 | Serie A TIM | 49k coins | -9.6% | +36.8% |
-| Sandro Tonali | 87 | Premier League | 61k coins | -6.2% | +10.9% |
-| Francesco Totti | 89 | Icons | 228k coins | -4.9% | +39.8% |
+| Andrea Pirlo | 91 | Icons | 899k coins | -10.1% | -18.3% |
 
 
 ### Análise das baixas
 
-- **Giada Greggi (87)** caiu **-10.6%** em 24h, a **25k coins** (faixa do dia: 25k–28k). Está em linha com a média de 7 dias (-1%).
+- **Alessandro Bastoni (91)** caiu **-44.1%** em 24h, a **48k coins** (faixa do dia: 45k–76k). Está -35% abaixo da média de 7 dias (descontada).
 
-- **Gianluigi Donnarumma (95)** caiu **-10.5%** em 24h, a **331k coins** (faixa do dia: 331k–370k). Está em linha com a média de 7 dias (-5%).
+- **Lorenzo Pellegrini (83)** caiu **-33.2%** em 24h, a **42k coins** (faixa do dia: 42k–62k). Está -29% abaixo da média de 7 dias (descontada).
 
-- **Giovanni Di Lorenzo (85)** caiu **-9.6%** em 24h, a **49k coins** (faixa do dia: 49k–54k). Está +11% acima da média de 7 dias (aquecida).
+- **Antonio Di Natale (88)** caiu **-30.9%** em 24h, a **46k coins** (faixa do dia: 46k–68k). Está -34% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Nicolò Savona já avançou 29.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Federico Chiesa já avançou 40% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Giada Greggi recuou -10.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Alessandro Bastoni recuou -44.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -104,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (29/07/2026)?**
-Nicolò Savona (83, Premier League), com +29.3% em 24h, a 77k coins no PC.
+Federico Chiesa (86, Premier League), com +40% em 24h, a 203k coins no PC.
 
 **E a maior queda do dia?**
-Giada Greggi (87), -10.6% em 24h, a 25k coins.
+Alessandro Bastoni (91), -44.1% em 24h, a 48k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 16 cartas em alta contra 11 em queda (média 2.3%).
+Hoje o mercado está em alta — predominam as valorizações, com 23 cartas em alta contra 21 em queda (média 6.36%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
