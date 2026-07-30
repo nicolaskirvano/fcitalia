@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T19:29:09.000Z
+pubDatetime: 2026-07-30T22:29:09.000Z
 title: "Investimentos EA FC: Italianos em 30/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 30/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (30/07/2026) no EA FC?"
-    a: "Federico Dimarco (87, Serie A TIM) lidera, com +50.8% em 7 dias a 75k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Giorgio Scalvini (86, Serie A TIM) lidera, com +37.5% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **30/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Federico Dimarco (87) acumula **+50.8% em 7 dias** a 75k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Giorgio Scalvini (86) acumula **+37.5% em 7 dias** a 55k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Italianos em 30/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-30-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **30/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.6% em 24h** e **+31.4% em 7 dias**.
-- **3 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+8.0% em 24h** e **+27.2% em 7 dias**.
+- **1 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Federico Dimarco | 87 | Serie A TIM | 75k coins | +35.1% | +50.8% | Esticada |
-| Sandro Tonali | 87 | Premier League | 58k coins | +9.3% | +46.2% | Momentum moderado |
-| Ilario Monterisi | 84 | Serie BKT | 56k coins | +11.9% | +44.9% | Momentum moderado |
-| Moise Kean | 86 | Serie A TIM | 48k coins | +21.1% | +36.2% | Esticada |
-| Nicolò Zaniolo | 86 | Serie A TIM | 21k coins | +1.2% | +26.5% | Momentum moderado |
-| Giorgio Chiellini | 89 | Icons | 145k coins | +3.6% | +16.9% | Entrada a observar |
-| Tommaso Biasci | 84 | Serie BKT | 52k coins | +5.6% | +13% | Momentum moderado |
-| Antonio Di Natale | 88 | Serie A TIM | 50k coins | +28.3% | +7.4% | Esticada |
+| Giorgio Scalvini | 86 | Serie A TIM | 55k coins | +10% | +37.5% | Momentum moderado |
+| Luca Mazzitelli | 84 | Serie A TIM | 50k coins | +5.9% | +28.6% | Momentum moderado |
+| Vincenzo Grifo | 84 | Bundesliga | 50k coins | +24.2% | +25.8% | Esticada |
+| Giorgio Chiellini | 89 | Icons | 144k coins | +2.9% | +17.1% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Federico Dimarco (87)** — 75k coins, **+50.8% em 7 dias** (+35.1% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giorgio Scalvini (86)** — 55k coins, **+37.5% em 7 dias** (+10% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sandro Tonali (87)** — 58k coins, **+46.2% em 7 dias** (+9.3% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Luca Mazzitelli (84)** — 50k coins, **+28.6% em 7 dias** (+5.9% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ilario Monterisi (84)** — 56k coins, **+44.9% em 7 dias** (+11.9% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Vincenzo Grifo (84)** — 50k coins, **+25.8% em 7 dias** (+24.2% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Moise Kean (86)** — 48k coins, **+36.2% em 7 dias** (+21.1% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Nicolò Zaniolo (86)** — 21k coins, **+26.5% em 7 dias** (+1.2% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giorgio Chiellini (89)** — 144k coins, **+17.1% em 7 dias** (+2.9% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +75,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (30/07/2026) no EA FC?**  
-Federico Dimarco (87, Serie A TIM) lidera, com +50.8% em 7 dias a 75k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Giorgio Scalvini (86, Serie A TIM) lidera, com +37.5% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
