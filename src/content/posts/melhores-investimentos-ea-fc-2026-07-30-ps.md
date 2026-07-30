@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T13:29:09.000Z
+pubDatetime: 2026-07-30T16:29:09.000Z
 title: "Investimentos EA FC: Italianos em 30/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **30/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+7.6% em 24h** e **+17.0% em 7 dias**.
-- **3 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+15.6% em 24h** e **+26.9% em 7 dias**.
+- **4 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Serie A TIM** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,26 +44,27 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Barbara Bonansea | 87 | Calcio A Femminile | 41k coins | +16.4% | +85.2% | Esticada |
-| Fabio Cannavaro | 89 | Icons | 169k coins | +13.2% | +72.7% | Esticada |
-| Marco Carnesecchi | 87 | Serie A TIM | 72k coins | +10.4% | +35.5% | Momentum moderado |
-| Luca Mazzitelli | 84 | Serie A TIM | 45k coins | +2.3% | +17.6% | Entrada a observar |
-| Moise Kean | 86 | Serie A TIM | 50k coins | +25% | +16.3% | Esticada |
-| Ilario Monterisi | 84 | Serie BKT | 45k coins | +4.7% | +15.4% | Entrada a observar |
-| Manuel Locatelli | 86 | Serie A TIM | 48k coins | +2.9% | +11.6% | Entrada a observar |
-| Cher Ndour | 86 | Serie A TIM | 16.000 coins | +1.6% | +10.3% | Entrada a observar |
+| Mattia Zaccagni | 87 | Serie A TIM | 26k coins | +1.9% | +54.9% | Momentum moderado |
+| Nicolò Zaniolo | 86 | Serie A TIM | 20k coins | +36.5% | +48.5% | Esticada |
+| Moise Kean | 86 | Serie A TIM | 44k coins | +29% | +36.2% | Esticada |
+| Ilario Monterisi | 84 | Serie BKT | 50k coins | +10.6% | +26.9% | Momentum moderado |
+| Giada Greggi | 87 | Calcio A Femminile | 24k coins | +2% | +19% | Entrada a observar |
+| Marco Carnesecchi | 87 | Serie A TIM | 60k coins | +15.6% | +18.9% | Momentum moderado |
+| Daniele De Rossi | 87 | Serie A TIM | 36k coins | +32.2% | +16.9% | Esticada |
+| Gianluigi Donnarumma | 95 | Premier League | 195k coins | +2.4% | +16.2% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Barbara Bonansea (87)** — 41k coins, **+85.2% em 7 dias** (+16.4% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Barbara Bonansea (87)** — 41k coins, **+85.2% em 7 dias** (+16.4% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fabio Cannavaro (89)** — 169k coins, **+72.7% em 7 dias** (+13.2% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mattia Zaccagni (87)** — 26k coins, **+54.9% em 7 dias** (+1.9% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marco Carnesecchi (87)** — 72k coins, **+35.5% em 7 dias** (+10.4% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nicolò Zaniolo (86)** — 20k coins, **+48.5% em 7 dias** (+36.5% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Luca Mazzitelli (84)** — 45k coins, **+17.6% em 7 dias** (+2.3% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Moise Kean (86)** — 44k coins, **+36.2% em 7 dias** (+29% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Moise Kean (86)** — 50k coins, **+16.3% em 7 dias** (+25% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ilario Monterisi (84)** — 50k coins, **+26.9% em 7 dias** (+10.6% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
