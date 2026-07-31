@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T13:29:19.000Z
+pubDatetime: 2026-07-31T16:29:20.000Z
 title: "Jogadores baratos EA FC: Italianos em 31/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 11.583 coins.
-- **Posição mais frequente:** CDM, com 2 cartas.
-- **Faixa real:** 11.000 a 13.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 7 opções:** 9.986 coins.
+- **Posição mais frequente:** CDM, com 3 cartas.
+- **Faixa real:** 1.900 a 12.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -45,7 +45,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Claudio Marchisio | 88 | CDM | Serie A TIM | 11.000 coins | 0% |
 | Sandro Tonali | 88 | CDM | Premier League | 11.000 coins | 0% |
 | Barbara Bonansea | 87 | LM | Calcio A Femminile | 11.250 coins | +2.3% |
-| Claudio Marchisio | 87 | CM | Serie A TIM | 13.250 coins | 0% |
+| Claudio Marchisio | 87 | CM | Serie A TIM | 11.750 coins | 0% |
+| Sandro Tonali | 86 | CDM | Premier League | 1.900 coins | 0% |
 
 
 ## 📈 Destaques
