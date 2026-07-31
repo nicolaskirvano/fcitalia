@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:29:18.000Z
+pubDatetime: 2026-07-31T13:29:18.000Z
 title: "Investimentos EA FC: Italianos em 31/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 31/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/07/2026) no EA FC?"
-    a: "Marco Carnesecchi (87, Serie A TIM) lidera, com +50.8% em 7 dias a 28k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Alessandro Nesta (89, Icons) lidera, com +46.2% em 7 dias a 94k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **31/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Marco Carnesecchi (87) acumula **+50.8% em 7 dias** a 28k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Alessandro Nesta (89) acumula **+46.2% em 7 dias** a 94k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Italianos em 31/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-31-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **31/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+23.3% em 24h** e **+25.0% em 7 dias**.
-- **6 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+20.2% em 24h** e **+25.8% em 7 dias**.
+- **4 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Marco Carnesecchi | 87 | Serie A TIM | 28k coins | +27.1% | +50.8% | Esticada |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 60k coins | +23.3% | +41.7% | Esticada |
-| Giovanni Di Lorenzo | 85 | Serie A TIM | 52k coins | +4% | +32.1% | Momentum moderado |
-| Tommaso Biasci | 84 | Serie BKT | 55k coins | +37.5% | +25% | Esticada |
+| Alessandro Nesta | 89 | Icons | 94k coins | +8.7% | +46.2% | Momentum moderado |
+| Tommaso Biasci | 84 | Serie BKT | 55k coins | +37.5% | +37.5% | Esticada |
+| Giovanni Di Lorenzo | 85 | Serie A TIM | 52k coins | +8.8% | +28.8% | Momentum moderado |
+| Marco Carnesecchi | 87 | Serie A TIM | 67k coins | +9.9% | +25.8% | Momentum moderado |
 | Giada Greggi | 87 | Calcio A Femminile | 28k coins | +20.2% | +15.3% | Esticada |
-| Gennaro Gattuso | 86 | Icons | 98k coins | +26.3% | +15.2% | Esticada |
-| Davide Zappacosta | 88 | Serie A TIM | 38k coins | +23% | +14.8% | Esticada |
+| Gennaro Gattuso | 86 | Icons | 95k coins | +26.5% | +14.6% | Esticada |
+| Davide Zappacosta | 88 | Serie A TIM | 40k coins | +33.6% | +8.9% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Marco Carnesecchi (87)** — 28k coins, **+50.8% em 7 dias** (+27.1% em 24h). Preço -49% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alessandro Nesta (89)** — 94k coins, **+46.2% em 7 dias** (+8.7% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giovanni Di Lorenzo (86)** — 60k coins, **+41.7% em 7 dias** (+23.3% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tommaso Biasci (84)** — 55k coins, **+37.5% em 7 dias** (+37.5% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giovanni Di Lorenzo (85)** — 52k coins, **+32.1% em 7 dias** (+4% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giovanni Di Lorenzo (85)** — 52k coins, **+28.8% em 7 dias** (+8.8% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tommaso Biasci (84)** — 55k coins, **+25% em 7 dias** (+37.5% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marco Carnesecchi (87)** — 67k coins, **+25.8% em 7 dias** (+9.9% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Giada Greggi (87)** — 28k coins, **+15.3% em 7 dias** (+20.2% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
@@ -80,7 +80,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/07/2026) no EA FC?**  
-Marco Carnesecchi (87, Serie A TIM) lidera, com +50.8% em 7 dias a 28k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Alessandro Nesta (89, Icons) lidera, com +46.2% em 7 dias a 94k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
