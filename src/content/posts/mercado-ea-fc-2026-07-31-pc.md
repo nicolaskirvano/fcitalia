@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T22:29:17.000Z
+pubDatetime: 2026-08-01T01:29:17.000Z
 title: "Mercado EA FC em 31/07: Italianos — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Davide Zappacosta (88, Serie A TIM), com +48.7% em 24h, a 31k coins no PC."
+    a: "Paolo Maldini (94, Icons), com +48.3% em 24h, a 32k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Leonardo Spinazzola (89), -29.8% em 24h, a 32k coins."
+    a: "Leonardo Spinazzola (89), -36.6% em 24h, a 29k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 12 cartas em alta contra 16 em queda (média 4.22%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 13 cartas em alta contra 21 em queda (média 3.99%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **31/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **12 subiram** e **16 caíram**, com variação média de **4.22%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **31/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **13 subiram** e **21 caíram**, com variação média de **3.99%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Davide Zappacosta (88) **+48.7%** · 🔴 **Maior baixa:** Leonardo Spinazzola (89) **-29.8%**
+> 🟢 **Maior alta:** Paolo Maldini (94) **+48.3%** · 🔴 **Maior baixa:** Leonardo Spinazzola (89) **-36.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Italianos — PC](/charts/mercado-ea-fc-2026-07-31-pc.svg)
 
@@ -35,23 +35,21 @@ Em **31/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aqueci
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 78.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 42.9% entre as cartas que se moveram; o universo observado reúne 50 cartas.
-- **Concentração:** Serie A TIM aparece em 9 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 84.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 38.2% entre as cartas que se moveram; o universo observado reúne 59 cartas.
+- **Concentração:** Icons aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Davide Zappacosta | 88 | Serie A TIM | 31k coins | +48.7% | +11.5% |
-| Giorgio Chiellini | 88 | Icons | 103k coins | +40.9% | +31.2% |
-| Mattia Zaccagni | 87 | Serie A TIM | 40k coins | +34.5% | +53.8% |
-| Sandro Tonali | 87 | Premier League | 56k coins | +28.3% | -10.5% |
-| Paolo Maldini | 94 | Icons | 30k coins | +28% | -73.9% |
-| Marco Carnesecchi | 87 | Serie A TIM | 56k coins | +20% | +33.3% |
-| Riccardo Orsolini | 85 | Serie A TIM | 28k coins | +19.6% | +12.2% |
-| Giovanni Di Lorenzo | 85 | Serie A TIM | 50k coins | +7.1% | -11.3% |
-| Francesco Totti | 89 | Icons | 260k coins | +4% | +53.8% |
+| Paolo Maldini | 94 | Icons | 32k coins | +48.3% | -71.1% |
+| Alessandro Nesta | 89 | Icons | 141k coins | +44.2% | +94.5% |
+| Giada Greggi | 87 | Calcio A Femminile | 35k coins | +38.6% | +47.4% |
+| Giorgio Chiellini | 88 | Icons | 94k coins | +30.2% | +22% |
+| Francesco Totti | 89 | Icons | 260k coins | +15.6% | +52.9% |
+| Riccardo Orsolini | 85 | Serie A TIM | 24k coins | +11.4% | 0% |
+| Andrea Pirlo | 90 | Icons | 196k coins | +7% | +38.5% |
 
 
 ### Análise das altas
@@ -60,39 +58,43 @@ Em **31/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aqueci
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Davide Zappacosta (88)** subiu **+48.7%** em 24h, a **31k coins** (faixa do dia: 28k–42k). Está +42% acima da média de 7 dias (aquecida).
+- **Paolo Maldini (94)** subiu **+48.3%** em 24h, a **32k coins** (faixa do dia: 18.000–34k). Está -49% abaixo da média de 7 dias (descontada).
 
-- **Giorgio Chiellini (88)** subiu **+40.9%** em 24h, a **103k coins** (faixa do dia: 72k–181k). Está +21% acima da média de 7 dias (aquecida).
+- **Alessandro Nesta (89)** subiu **+44.2%** em 24h, a **141k coins** (faixa do dia: 70k–160k). Está +65% acima da média de 7 dias (aquecida).
 
-- **Mattia Zaccagni (87)** subiu **+34.5%** em 24h, a **40k coins** (faixa do dia: 19.000–40k). Está +77% acima da média de 7 dias (aquecida).
+- **Giada Greggi (87)** subiu **+38.6%** em 24h, a **35k coins** (faixa do dia: 24k–35k). Está +33% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Leonardo Spinazzola | 89 | Serie A TIM | 32k coins | -29.8% | +11.7% |
-| Antonio Di Natale | 89 | Serie A TIM | 221k coins | -25.8% | -15% |
-| Ilario Monterisi | 84 | Serie BKT | 43k coins | -12.7% | -12.2% |
-| Fabio Cannavaro | 89 | Icons | 145k coins | -10.7% | +0.7% |
-| Nicolò Cambiaghi | 80 | Serie A TIM | 43k coins | -7.6% | +6.9% |
-| Lorenzo Pellegrini | 83 | Serie A TIM | 56k coins | -6.6% | -12.4% |
+| Leonardo Spinazzola | 89 | Serie A TIM | 29k coins | -36.6% | +22.2% |
+| Daniele De Rossi | 89 | Serie A TIM | 110k coins | -28.1% | -15.2% |
+| Davide Zappacosta | 88 | Serie A TIM | 31k coins | -27.1% | +34.8% |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 56k coins | -24.7% | +52.7% |
+| Cher Ndour | 86 | Serie A TIM | 23k coins | -20% | +77.8% |
+| Tommaso Biasci | 84 | Serie BKT | 50k coins | -19.5% | +10.6% |
+| Gianfranco Zola | 87 | Icons | 128k coins | -13.4% | -4.4% |
+| Marco Carnesecchi | 87 | Serie A TIM | 46k coins | -13% | +17.5% |
+| Alessandro Del Piero | 90 | Icons | 174k coins | -12.7% | +20% |
+| Roberto Baggio | 91 | Icons | 136k coins | -12.5% | +11.1% |
 
 
 ### Análise das baixas
 
-- **Leonardo Spinazzola (89)** caiu **-29.8%** em 24h, a **32k coins** (faixa do dia: 32k–55k). Está em linha com a média de 7 dias (-5%).
+- **Leonardo Spinazzola (89)** caiu **-36.6%** em 24h, a **29k coins** (faixa do dia: 29k–55k). Está -16% abaixo da média de 7 dias (descontada).
 
-- **Antonio Di Natale (89)** caiu **-25.8%** em 24h, a **221k coins** (faixa do dia: 180k–295k). Está -9% abaixo da média de 7 dias (descontada).
+- **Daniele De Rossi (89)** caiu **-28.1%** em 24h, a **110k coins** (faixa do dia: 101k–210k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Ilario Monterisi (84)** caiu **-12.7%** em 24h, a **43k coins** (faixa do dia: 43k–49k). Está em linha com a média de 7 dias (-6%).
+- **Davide Zappacosta (88)** caiu **-27.1%** em 24h, a **31k coins** (faixa do dia: 28k–42k). Está +41% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Davide Zappacosta já avançou 48.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Paolo Maldini já avançou 48.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Leonardo Spinazzola recuou -29.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Leonardo Spinazzola recuou -36.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -104,13 +106,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Davide Zappacosta (88, Serie A TIM), com +48.7% em 24h, a 31k coins no PC.
+Paolo Maldini (94, Icons), com +48.3% em 24h, a 32k coins no PC.
 
 **E a maior queda do dia?**
-Leonardo Spinazzola (89), -29.8% em 24h, a 32k coins.
+Leonardo Spinazzola (89), -36.6% em 24h, a 29k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 12 cartas em alta contra 16 em queda (média 4.22%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 13 cartas em alta contra 21 em queda (média 3.99%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
