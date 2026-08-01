@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:29:18.000Z
+pubDatetime: 2026-08-01T13:29:18.000Z
 title: "Investimentos EA FC: Italianos em 01/08 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+20.1% em 24h** e **+26.7% em 7 dias**.
-- **3 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+23.1% em 24h** e **+14.3% em 7 dias**.
+- **3 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,24 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Gennaro Gattuso | 86 | Icons | 130k coins | +32% | +52% | Esticada |
-| Giada Greggi | 87 | Calcio A Femminile | 35k coins | +23.9% | +48.9% | Esticada |
-| Daniele De Rossi | 87 | Serie A TIM | 22k coins | +13.1% | +26.7% | Momentum moderado |
-| Gianluigi Buffon | 91 | Icons | 146k coins | +6.9% | +20.3% | Momentum moderado |
-| Giorgio Scalvini | 86 | Serie A TIM | 49k coins | +20.1% | +10.7% | Esticada |
+| Gennaro Gattuso | 86 | Icons | 130k coins | +36.8% | +52% | Esticada |
+| Paolo Maldini | 92 | Icons | 242k coins | +25.6% | +16.3% | Esticada |
+| Daniele De Rossi | 87 | Serie A TIM | 19.000 coins | +2.5% | +12.3% | Entrada a observar |
+| Giorgio Scalvini | 86 | Serie A TIM | 50k coins | +20.7% | +11.2% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Gennaro Gattuso (86)** — 130k coins, **+52% em 7 dias** (+32% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gennaro Gattuso (86)** — 130k coins, **+52% em 7 dias** (+36.8% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giada Greggi (87)** — 35k coins, **+48.9% em 7 dias** (+23.9% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paolo Maldini (92)** — 242k coins, **+16.3% em 7 dias** (+25.6% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Daniele De Rossi (87)** — 22k coins, **+26.7% em 7 dias** (+13.1% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Daniele De Rossi (87)** — 19.000 coins, **+12.3% em 7 dias** (+2.5% em 24h). Preço -17% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gianluigi Buffon (91)** — 146k coins, **+20.3% em 7 dias** (+6.9% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Giorgio Scalvini (86)** — 49k coins, **+10.7% em 7 dias** (+20.1% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giorgio Scalvini (86)** — 50k coins, **+11.2% em 7 dias** (+20.7% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
