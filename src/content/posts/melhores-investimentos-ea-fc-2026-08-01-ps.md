@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T16:29:09.000Z
+pubDatetime: 2026-08-01T19:29:09.000Z
 title: "Investimentos EA FC: Italianos em 01/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Gianluca Zambrotta (86, Icons) lidera, com +87.7% em 7 dias a 143k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Giada Greggi (87, Calcio A Femminile) lidera, com +45.1% em 7 dias a 18.250 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Gianluca Zambrotta (86) acumula **+87.7% em 7 dias** a 143k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Giada Greggi (87) acumula **+45.1% em 7 dias** a 18.250 coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Italianos em 01/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-01-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+32.4% em 24h** e **+53.8% em 7 dias**.
-- **3 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+16.7% em 24h** e **+22.2% em 7 dias**.
+- **1 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,24 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Gianluca Zambrotta | 86 | Icons | 143k coins | +39.1% | +87.7% | Esticada |
-| Giada Greggi | 87 | Calcio A Femminile | 18.250 coins | +32.4% | +76.5% | Esticada |
-| Daniele De Rossi | 87 | Serie A TIM | 48k coins | +19.8% | +53.8% | Momentum moderado |
-| Daniele De Rossi | 89 | Serie A TIM | 229k coins | +2% | +47.1% | Momentum moderado |
-| Nicolò Zaniolo | 86 | Serie A TIM | 18.500 coins | +39.6% | +19.4% | Esticada |
+| Giada Greggi | 87 | Calcio A Femminile | 18.250 coins | +19.4% | +45.1% | Momentum moderado |
+| Antonio Di Natale | 89 | Serie A TIM | 160k coins | +16.7% | +35.3% | Momentum moderado |
+| Sandro Tonali | 87 | Premier League | 52k coins | +12.8% | +26.2% | Momentum moderado |
+| Giorgio Scalvini | 86 | Serie A TIM | 55k coins | +4.8% | +22.2% | Entrada a observar |
+| Davide Zappacosta | 88 | Serie A TIM | 26k coins | +30% | +15.6% | Esticada |
+| Alessandro Del Piero | 90 | Icons | 84k coins | +18.1% | +10.4% | Momentum moderado |
+| Gianfranco Zola | 87 | Icons | 82k coins | +4.7% | +7.6% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Gianluca Zambrotta (86)** — 143k coins, **+87.7% em 7 dias** (+39.1% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giada Greggi (87)** — 18.250 coins, **+45.1% em 7 dias** (+19.4% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giada Greggi (87)** — 18.250 coins, **+76.5% em 7 dias** (+32.4% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Antonio Di Natale (89)** — 160k coins, **+35.3% em 7 dias** (+16.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Daniele De Rossi (87)** — 48k coins, **+53.8% em 7 dias** (+19.8% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sandro Tonali (87)** — 52k coins, **+26.2% em 7 dias** (+12.8% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Daniele De Rossi (89)** — 229k coins, **+47.1% em 7 dias** (+2% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giorgio Scalvini (86)** — 55k coins, **+22.2% em 7 dias** (+4.8% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nicolò Zaniolo (86)** — 18.500 coins, **+19.4% em 7 dias** (+39.6% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Davide Zappacosta (88)** — 26k coins, **+15.6% em 7 dias** (+30% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +80,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Gianluca Zambrotta (86, Icons) lidera, com +87.7% em 7 dias a 143k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Giada Greggi (87, Calcio A Femminile) lidera, com +45.1% em 7 dias a 18.250 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

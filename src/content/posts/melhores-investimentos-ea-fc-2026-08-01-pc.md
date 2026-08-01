@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T16:29:18.000Z
+pubDatetime: 2026-08-01T19:29:18.000Z
 title: "Investimentos EA FC: Italianos em 01/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Giada Greggi (87, Calcio A Femminile) lidera, com +40% em 7 dias a 35k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Tommaso Biasci (84, Serie BKT) lidera, com +46.7% em 7 dias a 55k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Giada Greggi (87) acumula **+40% em 7 dias** a 35k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Tommaso Biasci (84) acumula **+46.7% em 7 dias** a 55k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Italianos em 01/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-01-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.4% em 24h** e **+27.2% em 7 dias**.
-- **2 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+22.9% em 24h** e **+19.0% em 7 dias**.
+- **4 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,21 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Giada Greggi | 87 | Calcio A Femminile | 35k coins | +23.9% | +40% | Esticada |
-| Moise Kean | 86 | Serie A TIM | 50k coins | +4.7% | +33.3% | Momentum moderado |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 60k coins | +6.2% | +21.2% | Momentum moderado |
-| Giorgio Scalvini | 86 | Serie A TIM | 49k coins | +20.7% | +11.2% | Esticada |
+| Tommaso Biasci | 84 | Serie BKT | 55k coins | +22.9% | +46.7% | Esticada |
+| Daniele De Rossi | 87 | Serie A TIM | 30k coins | +8% | +44% | Momentum moderado |
+| Sandro Tonali | 91 | Premier League | 170k coins | +39.3% | +29.8% | Esticada |
+| Gianluigi Buffon | 91 | Icons | 100k coins | +7.1% | +19% | Momentum moderado |
+| Federico Dimarco | 87 | Serie A TIM | 95k coins | +24.2% | +18% | Esticada |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 60k coins | +6.2% | +17.6% | Momentum moderado |
+| Paolo Maldini | 92 | Icons | 250k coins | +30.9% | +16.3% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Giada Greggi (87)** — 35k coins, **+40% em 7 dias** (+23.9% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tommaso Biasci (84)** — 55k coins, **+46.7% em 7 dias** (+22.9% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Moise Kean (86)** — 50k coins, **+33.3% em 7 dias** (+4.7% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Daniele De Rossi (87)** — 30k coins, **+44% em 7 dias** (+8% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giovanni Di Lorenzo (86)** — 60k coins, **+21.2% em 7 dias** (+6.2% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sandro Tonali (91)** — 170k coins, **+29.8% em 7 dias** (+39.3% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giorgio Scalvini (86)** — 49k coins, **+11.2% em 7 dias** (+20.7% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gianluigi Buffon (91)** — 100k coins, **+19% em 7 dias** (+7.1% em 24h). Preço -39% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Federico Dimarco (87)** — 95k coins, **+18% em 7 dias** (+24.2% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +80,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Giada Greggi (87, Calcio A Femminile) lidera, com +40% em 7 dias a 35k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Tommaso Biasci (84, Serie BKT) lidera, com +46.7% em 7 dias a 55k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
