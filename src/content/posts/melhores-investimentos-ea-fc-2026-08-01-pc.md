@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T19:29:18.000Z
+pubDatetime: 2026-08-01T22:29:18.000Z
 title: "Investimentos EA FC: Italianos em 01/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Tommaso Biasci (84, Serie BKT) lidera, com +46.7% em 7 dias a 55k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Giovanni Di Lorenzo (86, Serie A TIM) lidera, com +36.3% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Tommaso Biasci (84) acumula **+46.7% em 7 dias** a 55k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Giovanni Di Lorenzo (86) acumula **+36.3% em 7 dias** a 70k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Italianos em 01/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-01-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+22.9% em 24h** e **+19.0% em 7 dias**.
-- **4 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+13.8% em 24h** e **+13.0% em 7 dias**.
+- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,26 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Tommaso Biasci | 84 | Serie BKT | 55k coins | +22.9% | +46.7% | Esticada |
-| Daniele De Rossi | 87 | Serie A TIM | 30k coins | +8% | +44% | Momentum moderado |
-| Sandro Tonali | 91 | Premier League | 170k coins | +39.3% | +29.8% | Esticada |
-| Gianluigi Buffon | 91 | Icons | 100k coins | +7.1% | +19% | Momentum moderado |
-| Federico Dimarco | 87 | Serie A TIM | 95k coins | +24.2% | +18% | Esticada |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 60k coins | +6.2% | +17.6% | Momentum moderado |
-| Paolo Maldini | 92 | Icons | 250k coins | +30.9% | +16.3% | Esticada |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 70k coins | +23% | +36.3% | Esticada |
+| Marco Carnesecchi | 87 | Serie A TIM | 52k coins | +3% | +19.1% | Entrada a observar |
+| Sandro Tonali | 91 | Premier League | 148k coins | +13.8% | +13% | Momentum moderado |
+| Riccardo Orsolini | 85 | Serie A TIM | 26k coins | +3.8% | +12.2% | Entrada a observar |
+| Tommaso Biasci | 84 | Serie BKT | 55k coins | +23.6% | +10% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Tommaso Biasci (84)** — 55k coins, **+46.7% em 7 dias** (+22.9% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giovanni Di Lorenzo (86)** — 70k coins, **+36.3% em 7 dias** (+23% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Daniele De Rossi (87)** — 30k coins, **+44% em 7 dias** (+8% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marco Carnesecchi (87)** — 52k coins, **+19.1% em 7 dias** (+3% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sandro Tonali (91)** — 170k coins, **+29.8% em 7 dias** (+39.3% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sandro Tonali (91)** — 148k coins, **+13% em 7 dias** (+13.8% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gianluigi Buffon (91)** — 100k coins, **+19% em 7 dias** (+7.1% em 24h). Preço -39% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Riccardo Orsolini (85)** — 26k coins, **+12.2% em 7 dias** (+3.8% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Federico Dimarco (87)** — 95k coins, **+18% em 7 dias** (+24.2% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tommaso Biasci (84)** — 55k coins, **+10% em 7 dias** (+23.6% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -80,7 +78,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Tommaso Biasci (84, Serie BKT) lidera, com +46.7% em 7 dias a 55k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Giovanni Di Lorenzo (86, Serie A TIM) lidera, com +36.3% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

@@ -7,19 +7,19 @@
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Antonio Di Natale</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
 <text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.3%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sandro Tonali</text>
-<rect x="285" y="153" width="468" height="28" rx="7" fill="#22c55e"/>
-<text x="763" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.3%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Paolo Maldini</text>
-<rect x="285" y="211" width="368" height="28" rx="7" fill="#22c55e"/>
-<text x="663" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.9%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Federico Dimarco</text>
-<rect x="285" y="269" width="288" height="28" rx="7" fill="#22c55e"/>
-<text x="583" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+24.2%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tommaso Biasci</text>
-<rect x="285" y="327" width="273" height="28" rx="7" fill="#22c55e"/>
-<text x="568" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+22.9%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Daniele De Rossi</text>
-<rect x="285" y="385" width="253" height="28" rx="7" fill="#22c55e"/>
-<text x="548" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.2%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Paolo Maldini</text>
+<rect x="285" y="153" width="476" height="28" rx="7" fill="#22c55e"/>
+<text x="771" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tommaso Biasci</text>
+<rect x="285" y="211" width="281" height="28" rx="7" fill="#22c55e"/>
+<text x="576" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.6%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Giovanni Di Lorenzo</text>
+<rect x="285" y="269" width="274" height="28" rx="7" fill="#22c55e"/>
+<text x="569" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Daniele De Rossi</text>
+<rect x="285" y="327" width="253" height="28" rx="7" fill="#22c55e"/>
+<text x="548" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.2%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Antonio Di Natale</text>
+<rect x="285" y="385" width="249" height="28" rx="7" fill="#22c55e"/>
+<text x="544" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.9%</text>
 </svg>

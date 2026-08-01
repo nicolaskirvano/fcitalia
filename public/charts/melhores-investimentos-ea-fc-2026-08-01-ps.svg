@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Giada Greggi</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gennaro Gattuso</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.1%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Antonio Di Natale</text>
-<rect x="285" y="153" width="376" height="28" rx="7" fill="#22c55e"/>
-<text x="671" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.3%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sandro Tonali</text>
-<rect x="285" y="211" width="279" height="28" rx="7" fill="#22c55e"/>
-<text x="574" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.2%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Giorgio Scalvini</text>
-<rect x="285" y="269" width="236" height="28" rx="7" fill="#22c55e"/>
-<text x="531" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+22.2%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Davide Zappacosta</text>
-<rect x="285" y="327" width="166" height="28" rx="7" fill="#22c55e"/>
-<text x="461" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.6%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alessandro Del Piero</text>
-<rect x="285" y="385" width="111" height="28" rx="7" fill="#22c55e"/>
-<text x="406" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+10.4%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+88.9%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gianluigi Buffon</text>
+<rect x="285" y="153" width="318" height="28" rx="7" fill="#22c55e"/>
+<text x="613" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+58.9%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Daniele De Rossi</text>
+<rect x="285" y="211" width="285" height="28" rx="7" fill="#22c55e"/>
+<text x="580" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.8%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Antonio Di Natale</text>
+<rect x="285" y="269" width="187" height="28" rx="7" fill="#22c55e"/>
+<text x="482" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.6%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Giovanni Di Lorenzo</text>
+<rect x="285" y="327" width="100" height="28" rx="7" fill="#22c55e"/>
+<text x="395" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.5%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alessandro Nesta</text>
+<rect x="285" y="385" width="60" height="28" rx="7" fill="#22c55e"/>
+<text x="355" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+11.1%</text>
 </svg>
