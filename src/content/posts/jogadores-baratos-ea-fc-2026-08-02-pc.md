@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T13:29:20.000Z
+pubDatetime: 2026-08-02T16:29:20.000Z
 title: "Jogadores baratos EA FC: Italianos em 02/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 8 opções:** 8.400 coins.
-- **Posição mais frequente:** CB, com 3 cartas.
-- **Faixa real:** 2.400 a 12.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 5 opções:** 11.300 coins.
+- **Posição mais frequente:** CB, com 2 cartas.
+- **Faixa real:** 11.000 a 12.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,26 +41,23 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Alessandro Bastoni | 91 | CB | Serie A TIM | 11.500 coins | 0% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 4.200 coins | +2.1% |
 | Gianluca Vialli | 89 | ST | Serie A TIM | 12.000 coins | 0% |
 | Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
 | Claudio Marchisio | 88 | CDM | Serie A TIM | 11.000 coins | 0% |
 | Sandro Tonali | 88 | CDM | Premier League | 11.000 coins | 0% |
-| Alessandro Bastoni | 87 | CB | Serie A Enilive | 2.400 coins | +5.3% |
-| Cristiana Girelli | 85 | ST | Calcio A Femminile | 4.100 coins | +14.3% |
 
 
 ## 📈 Destaques
 
 - **Alessandro Bastoni (91, CB)** da Serie A TIM, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **4.200 coins** — já **valorizando**, sinal de procura crescente.
-
 - **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12.000 coins**
 
 - **Andrea Barzagli (88, CB)** da Serie A TIM, a apenas **11.000 coins**
 
 - **Claudio Marchisio (88, CDM)** da Serie A TIM, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Sandro Tonali (88, CDM)** da Premier League, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
