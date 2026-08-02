@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T16:29:18.000Z
+pubDatetime: 2026-08-02T19:29:18.000Z
 title: "Investimentos EA FC: Italianos em 02/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Giorgio Chiellini (89, Icons) lidera, com +71.9% em 7 dias a 159k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Barbara Bonansea (87, Calcio A Femminile) lidera, com +62.5% em 7 dias a 41k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Giorgio Chiellini (89) acumula **+71.9% em 7 dias** a 159k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Barbara Bonansea (87) acumula **+62.5% em 7 dias** a 41k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Italianos em 02/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-02-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+29.9% em 24h** e **+44.5% em 7 dias**.
-- **6 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+17.5% em 24h** e **+34.1% em 7 dias**.
+- **4 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,29 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Giorgio Chiellini | 89 | Icons | 159k coins | +23.3% | +71.9% | Esticada |
-| Barbara Bonansea | 87 | Calcio A Femminile | 65k coins | +30% | +62.5% | Esticada |
-| Gianluca Zambrotta | 86 | Icons | 152k coins | +38.1% | +56% | Esticada |
-| Fabio Cannavaro | 89 | Icons | 222k coins | +29.9% | +46% | Esticada |
-| Manuel Locatelli | 86 | Serie A TIM | 48k coins | +17% | +42.9% | Momentum moderado |
-| Riccardo Orsolini | 85 | Serie A TIM | 38k coins | +33.6% | +41.3% | Esticada |
-| Alessandro Nesta | 89 | Icons | 88k coins | +30.4% | +30.4% | Esticada |
-| Giovanni Di Lorenzo | 85 | Serie A TIM | 50k coins | +2.1% | +8.2% | Entrada a observar |
+| Barbara Bonansea | 87 | Calcio A Femminile | 41k coins | +30% | +62.5% | Esticada |
+| Gianluca Zambrotta | 86 | Icons | 130k coins | +17.5% | +48% | Momentum moderado |
+| Claudio Marchisio | 87 | Serie A TIM | 17.500 coins | +29.6% | +45.8% | Esticada |
+| Riccardo Orsolini | 85 | Serie A TIM | 37k coins | +33.6% | +41.3% | Esticada |
+| Manuel Locatelli | 86 | Serie A TIM | 47k coins | +10.5% | +35% | Momentum moderado |
+| Roberto Baggio | 91 | Icons | 112k coins | +40% | +33.3% | Esticada |
+| Sandro Tonali | 91 | Premier League | 170k coins | +14.9% | +29.8% | Momentum moderado |
+| Leonardo Spinazzola | 89 | Serie A TIM | 34k coins | +17.5% | +17.5% | Momentum moderado |
+| Giovanni Di Lorenzo | 85 | Serie A TIM | 50k coins | +6.5% | +11.2% | Momentum moderado |
+| Ilario Monterisi | 84 | Serie BKT | 49k coins | +1% | +8.8% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Giorgio Chiellini (89)** — 159k coins, **+71.9% em 7 dias** (+23.3% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Barbara Bonansea (87)** — 41k coins, **+62.5% em 7 dias** (+30% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Barbara Bonansea (87)** — 65k coins, **+62.5% em 7 dias** (+30% em 24h). Preço +94% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gianluca Zambrotta (86)** — 130k coins, **+48% em 7 dias** (+17.5% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gianluca Zambrotta (86)** — 152k coins, **+56% em 7 dias** (+38.1% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Claudio Marchisio (87)** — 17.500 coins, **+45.8% em 7 dias** (+29.6% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Fabio Cannavaro (89)** — 222k coins, **+46% em 7 dias** (+29.9% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Riccardo Orsolini (85)** — 37k coins, **+41.3% em 7 dias** (+33.6% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Manuel Locatelli (86)** — 48k coins, **+42.9% em 7 dias** (+17% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Manuel Locatelli (86)** — 47k coins, **+35% em 7 dias** (+10.5% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -91,7 +93,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Giorgio Chiellini (89, Icons) lidera, com +71.9% em 7 dias a 159k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Barbara Bonansea (87, Calcio A Femminile) lidera, com +62.5% em 7 dias a 41k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
