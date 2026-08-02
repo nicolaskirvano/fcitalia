@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:29:10.000Z
+pubDatetime: 2026-08-02T13:29:10.000Z
 title: "Jogadores baratos EA FC: Italianos em 02/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 8.039 coins.
-- **Posição mais frequente:** CB, com 4 cartas.
-- **Faixa real:** 1.600 a 11.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 8 opções:** 8.794 coins.
+- **Posição mais frequente:** CB, com 3 cartas.
+- **Faixa real:** 1.500 a 11.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,14 +41,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Alessandro Bastoni | 91 | CB | Serie A TIM | 11.500 coins | 0% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 11.250 coins | -2.2% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 11.250 coins | 0% |
 | Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
 | Claudio Marchisio | 88 | CDM | Serie A TIM | 11.000 coins | 0% |
 | Sandro Tonali | 88 | CDM | Premier League | 11.000 coins | 0% |
-| Andrea Barzagli | 87 | CB | Serie A TIM | 11.000 coins | -6.4% |
-| Manuela Giugliano | 85 | CM | Calcio A Femminile | 1.600 coins | +6.2% |
-| Cristiana Girelli | 85 | ST | Calcio A Femminile | 2.000 coins | +5.3% |
-| Francesco Acerbi | 84 | CB | Serie A Enilive | 2.000 coins | -9.1% |
+| Andrea Barzagli | 87 | CB | Serie A TIM | 11.000 coins | -2.2% |
+| Manuela Giugliano | 85 | CM | Calcio A Femminile | 1.500 coins | +20% |
+| Cristiana Girelli | 85 | ST | Calcio A Femminile | 2.100 coins | +5.3% |
 
 
 ## 📈 Destaques

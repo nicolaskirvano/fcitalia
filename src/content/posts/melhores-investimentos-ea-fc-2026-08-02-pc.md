@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:29:18.000Z
+pubDatetime: 2026-08-02T13:29:18.000Z
 title: "Investimentos EA FC: Italianos em 02/08 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+19.9% em 24h** e **+36.0% em 7 dias**.
-- **3 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.2% em 24h** e **+43.5% em 7 dias**.
+- **3 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,24 +44,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Giorgio Chiellini | 89 | Icons | 159k coins | +23.3% | +67.4% | Esticada |
-| Franco Baresi | 91 | Icons | 98k coins | +10.1% | +42.8% | Momentum moderado |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 65k coins | +15% | +42.3% | Momentum moderado |
-| Sandro Tonali | 91 | Premier League | 160k coins | +31.8% | +29.8% | Esticada |
-| Gianluigi Buffon | 91 | Icons | 162k coins | +16.4% | +16.4% | Momentum moderado |
-| Tommaso Biasci | 84 | Serie BKT | 55k coins | +37.5% | +10% | Esticada |
+| Barbara Bonansea | 87 | Calcio A Femminile | 65k coins | +30% | +59.5% | Esticada |
+| Gianluca Zambrotta | 86 | Icons | 160k coins | +34.5% | +49.5% | Esticada |
+| Franco Baresi | 91 | Icons | 99k coins | +10% | +43.5% | Momentum moderado |
+| Alessandro Nesta | 89 | Icons | 92k coins | +6.2% | +40% | Momentum moderado |
+| Daniele De Rossi | 87 | Serie A TIM | 30k coins | +13.2% | +8.9% | Momentum moderado |
+| Sandro Tonali | 91 | Premier League | 140k coins | +6.9% | +6.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Giorgio Chiellini (89)** — 159k coins, **+67.4% em 7 dias** (+23.3% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giorgio Chiellini (89)** — 159k coins, **+67.4% em 7 dias** (+23.3% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Franco Baresi (91)** — 98k coins, **+42.8% em 7 dias** (+10.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Barbara Bonansea (87)** — 65k coins, **+59.5% em 7 dias** (+30% em 24h). Preço +97% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giovanni Di Lorenzo (86)** — 65k coins, **+42.3% em 7 dias** (+15% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gianluca Zambrotta (86)** — 160k coins, **+49.5% em 7 dias** (+34.5% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sandro Tonali (91)** — 160k coins, **+29.8% em 7 dias** (+31.8% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Franco Baresi (91)** — 99k coins, **+43.5% em 7 dias** (+10% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gianluigi Buffon (91)** — 162k coins, **+16.4% em 7 dias** (+16.4% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alessandro Nesta (89)** — 92k coins, **+40% em 7 dias** (+6.2% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
