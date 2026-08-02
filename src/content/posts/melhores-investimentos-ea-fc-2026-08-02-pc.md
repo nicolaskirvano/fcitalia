@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:27:55.000Z
+pubDatetime: 2026-08-02T10:29:18.000Z
 title: "Investimentos EA FC: Italianos em 02/08 — PC"
 draft: false
 featured: true
@@ -45,7 +45,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Giorgio Chiellini | 89 | Icons | 159k coins | +23.3% | +67.4% | Esticada |
 | Franco Baresi | 91 | Icons | 98k coins | +10.1% | +42.8% | Momentum moderado |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 69k coins | +15% | +42.3% | Momentum moderado |
+| Giovanni Di Lorenzo | 86 | Serie A TIM | 65k coins | +15% | +42.3% | Momentum moderado |
 | Sandro Tonali | 91 | Premier League | 160k coins | +31.8% | +29.8% | Esticada |
 | Gianluigi Buffon | 91 | Icons | 162k coins | +16.4% | +16.4% | Momentum moderado |
 | Tommaso Biasci | 84 | Serie BKT | 55k coins | +37.5% | +10% | Esticada |
@@ -53,11 +53,11 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 ## 📈 Análise dos destaques
 
-- **Giorgio Chiellini (89)** — 159k coins, **+67.4% em 7 dias** (+23.3% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giorgio Chiellini (89)** — 159k coins, **+67.4% em 7 dias** (+23.3% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Franco Baresi (91)** — 98k coins, **+42.8% em 7 dias** (+10.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giovanni Di Lorenzo (86)** — 69k coins, **+42.3% em 7 dias** (+15% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giovanni Di Lorenzo (86)** — 65k coins, **+42.3% em 7 dias** (+15% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Sandro Tonali (91)** — 160k coins, **+29.8% em 7 dias** (+31.8% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
