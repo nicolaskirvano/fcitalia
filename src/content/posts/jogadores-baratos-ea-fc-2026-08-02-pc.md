@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T22:29:20.000Z
+pubDatetime: 2026-08-03T01:29:20.000Z
 title: "Jogadores baratos EA FC: Italianos em 02/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 7.150 coins.
-- **Posição mais frequente:** CDM, com 3 cartas.
-- **Faixa real:** 1.800 a 12.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 10 opções:** 8.115 coins.
+- **Posição mais frequente:** CB, com 3 cartas.
+- **Faixa real:** 2.500 a 12.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,22 +41,22 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Alessandro Bastoni | 91 | CB | Serie A TIM | 11.500 coins | 0% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 4.600 coins | +15.8% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 4.400 coins | +22.2% |
 | Gianluca Vialli | 89 | ST | Serie A TIM | 12.000 coins | 0% |
 | Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
 | Claudio Marchisio | 88 | CDM | Serie A TIM | 11.000 coins | 0% |
 | Sandro Tonali | 88 | CDM | Premier League | 11.000 coins | 0% |
-| Nicolò Barella | 87 | CM | Serie A Enilive | 1.800 coins | +13.3% |
-| Sandro Tonali | 86 | CDM | Premier League | 2.400 coins | +9.5% |
-| Manuela Giugliano | 85 | CM | Calcio A Femminile | 2.300 coins | -8% |
-| Cristiana Girelli | 85 | ST | Calcio A Femminile | 3.900 coins | 0% |
+| Alessandro Bastoni | 87 | CB | Serie A Enilive | 2.600 coins | +30% |
+| Claudio Marchisio | 87 | CM | Serie A TIM | 11.250 coins | 0% |
+| Sandro Tonali | 86 | CDM | Premier League | 2.500 coins | +13.6% |
+| Cristiana Girelli | 85 | ST | Calcio A Femminile | 3.900 coins | -4.9% |
 
 
 ## 📈 Destaques
 
 - **Alessandro Bastoni (91, CB)** da Serie A TIM, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **4.600 coins** — já **valorizando**, sinal de procura crescente.
+- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **4.400 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 - **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12.000 coins**
 

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T22:29:08.000Z
+pubDatetime: 2026-08-03T01:29:08.000Z
 title: "Mercado EA FC em 02/08: Italianos — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 02/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (02/08/2026)?"
-    a: "Gianluigi Donnarumma (89, Premier League), com +45% em 24h, a 315k coins no Console (PS)."
+    a: "Francesco Totti (89, Icons), com +54.7% em 24h, a 1.40M coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Gianluca Zambrotta (86), -31% em 24h, a 240k coins."
+    a: "Marco Carnesecchi (87), -28.4% em 24h, a 56k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 24 cartas em alta contra 14 em queda (média 3.61%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 16 cartas em alta contra 24 em queda (média -1.21%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **02/08/2026** no Console (PS) com clima **comprador** — a maioria das cartas subiu: **24 cartas subiram** e **14 caíram** (80+ acima de 5k coins), variação média de **3.61%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **02/08/2026** no Console (PS) com clima **vendedor** — a maioria das cartas recuou: **16 cartas subiram** e **24 caíram** (80+ acima de 5k coins), variação média de **-1.21%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Gianluigi Donnarumma (89) **+45%** · 🔴 **Maior baixa:** Gianluca Zambrotta (86) **-31%**
+> 🟢 **Maior alta:** Francesco Totti (89) **+54.7%** · 🔴 **Maior baixa:** Marco Carnesecchi (87) **-28.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 02/08: Italianos — Console (PS)](/charts/mercado-ea-fc-2026-08-02-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **02/08/2026** no Console (PS) com clima **comprador
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 76.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 63.2% entre as cartas que se moveram; o universo observado reúne 58 cartas.
-- **Concentração:** Serie A TIM aparece em 7 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 83.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 40.0% entre as cartas que se moveram; o universo observado reúne 59 cartas.
+- **Concentração:** Icons aparece em 9 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluigi Donnarumma | 89 | Premier League | 315k coins | +45% | 0% |
-| Francesco Totti | 89 | Icons | 1.37M coins | +43.8% | +37.1% |
-| Daniele De Rossi | 87 | Serie A TIM | 56k coins | +29.5% | +85.2% |
-| Davide Zappacosta | 88 | Serie A TIM | 28k coins | +27.9% | +5.8% |
-| Sandro Tonali | 91 | Premier League | 52k coins | +23% | -10.3% |
-| Riccardo Calafiori | 90 | Premier League | 590k coins | +18.5% | +47.5% |
-| Federico Dimarco | 87 | Serie A TIM | 54k coins | +8% | -10% |
-| Giorgio Scalvini | 86 | Serie A TIM | 55k coins | +7% | +7.5% |
-| Giorgio Chiellini | 88 | Icons | 71k coins | +6.8% | +2.9% |
-| Vincenzo Grifo | 84 | Bundesliga | 47k coins | +5.3% | +25% |
+| Francesco Totti | 89 | Icons | 1.40M coins | +54.7% | +40.1% |
+| Antonio Di Natale | 88 | Serie A TIM | 88k coins | +44.3% | +64.5% |
+| Gianluigi Donnarumma | 89 | Premier League | 277k coins | +37.3% | -3.4% |
+| Francesco Totti | 89 | Icons | 631k coins | +28.7% | +47% |
+| Gennaro Gattuso | 86 | Icons | 199k coins | +27.6% | +165.3% |
+| Paolo Maldini | 94 | Icons | 44k coins | +22.4% | -40.8% |
+| Manuel Locatelli | 86 | Serie A TIM | 55k coins | +20.2% | -1.9% |
+| Riccardo Calafiori | 90 | Premier League | 590k coins | +18.5% | +43.2% |
+| Antonio Di Natale | 89 | Serie A TIM | 207k coins | +16.3% | +278.8% |
+| Fabio Cannavaro | 89 | Icons | 140k coins | +14.8% | +20.2% |
 
 
 ### Análise das altas
@@ -61,39 +61,43 @@ O mercado do **EA FC** abre **02/08/2026** no Console (PS) com clima **comprador
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Gianluigi Donnarumma (89)** subiu **+45%** em 24h, a **315k coins** (faixa do dia: 194k–315k). Está em linha com a média de 7 dias (-2%).
+- **Francesco Totti (89)** subiu **+54.7%** em 24h, a **1.40M coins** (faixa do dia: 886k–1.40M). Está +34% acima da média de 7 dias (aquecida).
 
-- **Francesco Totti (89)** subiu **+43.8%** em 24h, a **1.37M coins** (faixa do dia: 886k–1.40M). Está +32% acima da média de 7 dias (aquecida).
+- **Antonio Di Natale (88)** subiu **+44.3%** em 24h, a **88k coins** (faixa do dia: 46k–90k). Está +65% acima da média de 7 dias (aquecida).
 
-- **Daniele De Rossi (87)** subiu **+29.5%** em 24h, a **56k coins** (faixa do dia: 40k–903k). Está -82% abaixo da média de 7 dias (descontada).
+- **Gianluigi Donnarumma (89)** subiu **+37.3%** em 24h, a **277k coins** (faixa do dia: 200k–315k). Está -13% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluca Zambrotta | 86 | Icons | 240k coins | -31% | +102.4% |
-| Barbara Bonansea | 87 | Calcio A Femminile | 75k coins | -25% | — |
-| Leonardo Spinazzola | 89 | Serie A TIM | 43k coins | -21.1% | +75.5% |
-| Daniele De Rossi | 91 | Serie A TIM | 255k coins | -16.8% | +27.7% |
-| Giovanni Di Lorenzo | 85 | Serie A TIM | 72k coins | -9.4% | -4.6% |
-| Sandro Tonali | 87 | Premier League | 45k coins | -7.7% | -5.9% |
+| Marco Carnesecchi | 87 | Serie A TIM | 56k coins | -28.4% | +12.1% |
+| Daniele De Rossi | 89 | Serie A TIM | 192k coins | -28.1% | -2.1% |
+| Barbara Bonansea | 87 | Calcio A Femminile | 75k coins | -24.6% | — |
+| Paolo Maldini | 93 | Icons | 844k coins | -17% | +13.7% |
+| Moise Kean | 86 | Serie A TIM | 46k coins | -16.4% | 0% |
+| Giovanni Di Lorenzo | 85 | Serie A TIM | 72k coins | -9.4% | -3.3% |
+| Daniele De Rossi | 91 | Serie A TIM | 281k coins | -9% | +38.9% |
+| Franco Baresi | 91 | Icons | 69k coins | -8.6% | 0% |
+| Gianluca Zambrotta | 86 | Icons | 205k coins | -8% | +172.2% |
+| Paolo Maldini | 92 | Icons | 192k coins | -6.9% | +2.7% |
 
 
 ### Análise das baixas
 
-- **Gianluca Zambrotta (86)** caiu **-31%** em 24h, a **240k coins** (faixa do dia: 124k–250k). Está +119% acima da média de 7 dias (aquecida).
+- **Marco Carnesecchi (87)** caiu **-28.4%** em 24h, a **56k coins** (faixa do dia: 56k–80k). Está -10% abaixo da média de 7 dias (descontada).
 
-- **Barbara Bonansea (87)** caiu **-25%** em 24h, a **75k coins** (faixa do dia: 18.750–100k). Está +61% acima da média de 7 dias (aquecida).
+- **Daniele De Rossi (89)** caiu **-28.1%** em 24h, a **192k coins** (faixa do dia: 170k–323k). Está -10% abaixo da média de 7 dias (descontada).
 
-- **Leonardo Spinazzola (89)** caiu **-21.1%** em 24h, a **43k coins** (faixa do dia: 28k–55k). Está +22% acima da média de 7 dias (aquecida).
+- **Barbara Bonansea (87)** caiu **-24.6%** em 24h, a **75k coins** (faixa do dia: 18.750–98k). Está +56% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Gianluigi Donnarumma já avançou 45% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Francesco Totti já avançou 54.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Gianluca Zambrotta recuou -31%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Marco Carnesecchi recuou -28.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -104,7 +108,6 @@ O mercado do **EA FC** abre **02/08/2026** no Console (PS) com clima **comprador
 ## Continue a análise
 
 - [Jogadores baratos EA FC: Italianos em 02/08 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-08-02-ps/)
-- [Investimentos EA FC: Italianos em 02/08 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-08-02-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
 
@@ -115,13 +118,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (02/08/2026)?**
-Gianluigi Donnarumma (89, Premier League), com +45% em 24h, a 315k coins no Console (PS).
+Francesco Totti (89, Icons), com +54.7% em 24h, a 1.40M coins no Console (PS).
 
 **E a maior queda do dia?**
-Gianluca Zambrotta (86), -31% em 24h, a 240k coins.
+Marco Carnesecchi (87), -28.4% em 24h, a 56k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 24 cartas em alta contra 14 em queda (média 3.61%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 16 cartas em alta contra 24 em queda (média -1.21%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
