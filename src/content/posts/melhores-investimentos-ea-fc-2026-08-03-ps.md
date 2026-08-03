@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:28:43.000Z
+pubDatetime: 2026-08-03T13:29:09.000Z
 title: "Investimentos EA FC: Italianos em 03/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Antonio Di Natale (88, Serie A TIM) lidera, com +75% em 7 dias a 68k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Gianfranco Zola (87, Icons) lidera, com +71.2% em 7 dias a 100k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Antonio Di Natale (88) acumula **+75% em 7 dias** a 68k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Gianfranco Zola (87) acumula **+71.2% em 7 dias** a 100k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Italianos em 03/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-03-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.1% em 24h** e **+23.7% em 7 dias**.
-- **2 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.1% em 24h** e **+17.5% em 7 dias**.
+- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,28 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Antonio Di Natale | 88 | Serie A TIM | 68k coins | +19.7% | +75% | Esticada |
-| Gianluigi Buffon | 91 | Icons | 230k coins | +16.8% | +71.6% | Esticada |
-| Giovanni Di Lorenzo | 86 | Serie A TIM | 86k coins | +4.2% | +55.1% | Momentum moderado |
-| Sandro Tonali | 87 | Premier League | 66k coins | +7% | +34.3% | Momentum moderado |
-| Mattia Zaccagni | 87 | Serie A TIM | 23k coins | +11.9% | +23.7% | Momentum moderado |
-| Alessandro Nesta | 89 | Icons | 78k coins | +14% | +14.8% | Momentum moderado |
-| Moise Kean | 86 | Serie A TIM | 53k coins | +6% | +11% | Momentum moderado |
-| Manuel Locatelli | 86 | Serie A TIM | 52k coins | +8.9% | +7.8% | Momentum moderado |
-| Luca Mazzitelli | 84 | Serie A TIM | 50k coins | +11.1% | +5.8% | Momentum moderado |
+| Gianfranco Zola | 87 | Icons | 100k coins | +14.4% | +71.2% | Esticada |
+| Gianluigi Buffon | 91 | Icons | 200k coins | +26.5% | +66.7% | Esticada |
+| Paolo Maldini | 94 | Icons | 39k coins | +2.3% | +17.5% | Entrada a observar |
+| Alessandro Nesta | 89 | Icons | 70k coins | +14.1% | +14.1% | Momentum moderado |
+| Davide Zappacosta | 88 | Serie A TIM | 29k coins | +7.1% | +13.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Antonio Di Natale (88)** — 68k coins, **+75% em 7 dias** (+19.7% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gianfranco Zola (87)** — 100k coins, **+71.2% em 7 dias** (+14.4% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gianluigi Buffon (91)** — 230k coins, **+71.6% em 7 dias** (+16.8% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gianluigi Buffon (91)** — 200k coins, **+66.7% em 7 dias** (+26.5% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giovanni Di Lorenzo (86)** — 86k coins, **+55.1% em 7 dias** (+4.2% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paolo Maldini (94)** — 39k coins, **+17.5% em 7 dias** (+2.3% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sandro Tonali (87)** — 66k coins, **+34.3% em 7 dias** (+7% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alessandro Nesta (89)** — 70k coins, **+14.1% em 7 dias** (+14.1% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mattia Zaccagni (87)** — 23k coins, **+23.7% em 7 dias** (+11.9% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Davide Zappacosta (88)** — 29k coins, **+13.2% em 7 dias** (+7.1% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -82,7 +78,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Antonio Di Natale (88, Serie A TIM) lidera, com +75% em 7 dias a 68k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Gianfranco Zola (87, Icons) lidera, com +71.2% em 7 dias a 100k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
