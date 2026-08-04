@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:29:07.000Z
+pubDatetime: 2026-08-04T13:29:07.000Z
 title: "Mercado EA FC em 04/08: Italianos — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 04/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (04/08/2026)?"
-    a: "Gianluigi Donnarumma (95, Premier League), com +17.8% em 24h, a 309k coins no Console (PS)."
+    a: "Giorgio Chiellini (89, Icons), com +30.6% em 24h, a 260k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Fabio Cannavaro (89), -28.7% em 24h, a 82k coins."
+    a: "Fabio Cannavaro (89), -28.4% em 24h, a 74k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 9 cartas em alta contra 14 em queda (média -5.88%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 11 cartas em alta contra 12 em queda (média 3.33%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**04/08/2026**, Console (PS)) o Ultimate Team está **em baixa** — predominam as quedas — **9 subiram**, **14 caíram** (80+ e 5k+ coins), média de **-5.88%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**04/08/2026**, Console (PS)) o Ultimate Team está **em alta** — predominam as valorizações — **11 subiram**, **12 caíram** (80+ e 5k+ coins), média de **3.33%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Gianluigi Donnarumma (95) **+17.8%** · 🔴 **Maior baixa:** Fabio Cannavaro (89) **-28.7%**
+> 🟢 **Maior alta:** Giorgio Chiellini (89) **+30.6%** · 🔴 **Maior baixa:** Fabio Cannavaro (89) **-28.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 04/08: Italianos — Console (PS)](/charts/mercado-ea-fc-2026-08-04-ps.svg)
 
@@ -35,19 +35,18 @@ Hoje (**04/08/2026**, Console (PS)) o Ultimate Team está **em baixa** — predo
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 46.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 39.1% entre as cartas que se moveram; o universo observado reúne 32 cartas.
-- **Concentração:** Icons aparece em 7 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 59.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.8% entre as cartas que se moveram; o universo observado reúne 32 cartas.
+- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gianluigi Donnarumma | 95 | Premier League | 309k coins | +17.8% | +84.9% |
-| Daniele De Rossi | 87 | Serie A TIM | 56k coins | +8.4% | +106% |
-| Gianfranco Zola | 87 | Icons | 119k coins | +5.1% | +78.9% |
-| Andrea Pirlo | 90 | Icons | 74k coins | +3.4% | -47.6% |
-| Roberto Baggio | 91 | Icons | 133k coins | +3.4% | +52.8% |
+| Giorgio Chiellini | 89 | Icons | 260k coins | +30.6% | +64% |
+| Giovanni Di Lorenzo | 85 | Serie A TIM | 80k coins | +9.7% | +23.3% |
+| Davide Zappacosta | 88 | Serie A TIM | 28k coins | +4.3% | +1.7% |
+| Giorgio Chiellini | 88 | Icons | 72k coins | +3.5% | +2.8% |
 
 
 ### Análise das altas
@@ -56,38 +55,40 @@ Hoje (**04/08/2026**, Console (PS)) o Ultimate Team está **em baixa** — predo
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Gianluigi Donnarumma (95)** subiu **+17.8%** em 24h, a **309k coins** (faixa do dia: 240k–339k). Está +28% acima da média de 7 dias (aquecida).
+- **Giorgio Chiellini (89)** subiu **+30.6%** em 24h, a **260k coins** (faixa do dia: 120k–313k). Está +47% acima da média de 7 dias (aquecida).
 
-- **Daniele De Rossi (87)** subiu **+8.4%** em 24h, a **56k coins** (faixa do dia: 38k–56k). Está +31% acima da média de 7 dias (aquecida).
+- **Giovanni Di Lorenzo (85)** subiu **+9.7%** em 24h, a **80k coins** (faixa do dia: 72k–80k). Está +16% acima da média de 7 dias (aquecida).
 
-- **Gianfranco Zola (87)** subiu **+5.1%** em 24h, a **119k coins** (faixa do dia: 87k–176k). Está +37% acima da média de 7 dias (aquecida).
+- **Davide Zappacosta (88)** subiu **+4.3%** em 24h, a **28k coins** (faixa do dia: 25k–44k). Está em linha com a média de 7 dias (+8%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Fabio Cannavaro | 89 | Icons | 82k coins | -28.7% | -27.5% |
-| Giorgio Chiellini | 89 | Icons | 249k coins | -14.1% | +70.3% |
-| Riccardo Calafiori | 90 | Premier League | 552k coins | -12.5% | +20.7% |
-| Alessandro Nesta | 89 | Icons | 68k coins | -4.3% | 0% |
-| Giorgio Chiellini | 88 | Icons | 74k coins | -3.5% | -4.9% |
+| Fabio Cannavaro | 89 | Icons | 74k coins | -28.4% | -41.4% |
+| Gianfranco Zola | 87 | Icons | 99k coins | -16% | +27.4% |
+| Gianluca Mancini | 85 | Serie A TIM | 30k coins | -9% | +94.5% |
+| Manuel Locatelli | 86 | Serie A TIM | 50k coins | -7.4% | +2% |
+| Ilario Monterisi | 84 | Serie BKT | 53k coins | -6.2% | +2.9% |
+| Stephan El Shaarawy | 88 | Serie A TIM | 839k coins | -5.6% | -8.8% |
+| Francesco Totti | 89 | Icons | 550k coins | -5.5% | +35% |
 
 
 ### Análise das baixas
 
-- **Fabio Cannavaro (89)** caiu **-28.7%** em 24h, a **82k coins** (faixa do dia: 72k–135k). Está -40% abaixo da média de 7 dias (descontada).
+- **Fabio Cannavaro (89)** caiu **-28.4%** em 24h, a **74k coins** (faixa do dia: 72k–135k). Está -44% abaixo da média de 7 dias (descontada).
 
-- **Giorgio Chiellini (89)** caiu **-14.1%** em 24h, a **249k coins** (faixa do dia: 120k–313k). Está +40% acima da média de 7 dias (aquecida).
+- **Gianfranco Zola (87)** caiu **-16%** em 24h, a **99k coins** (faixa do dia: 87k–176k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Riccardo Calafiori (90)** caiu **-12.5%** em 24h, a **552k coins** (faixa do dia: 550k–599k). Está em linha com a média de 7 dias (+5%).
+- **Gianluca Mancini (85)** caiu **-9%** em 24h, a **30k coins** (faixa do dia: 24k–45k). Está -10% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Gianluigi Donnarumma já avançou 17.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Giorgio Chiellini já avançou 30.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Fabio Cannavaro recuou -28.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Fabio Cannavaro recuou -28.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -99,13 +100,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (04/08/2026)?**
-Gianluigi Donnarumma (95, Premier League), com +17.8% em 24h, a 309k coins no Console (PS).
+Giorgio Chiellini (89, Icons), com +30.6% em 24h, a 260k coins no Console (PS).
 
 **E a maior queda do dia?**
-Fabio Cannavaro (89), -28.7% em 24h, a 82k coins.
+Fabio Cannavaro (89), -28.4% em 24h, a 74k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 9 cartas em alta contra 14 em queda (média -5.88%).
+Hoje o mercado está em alta — predominam as valorizações, com 11 cartas em alta contra 12 em queda (média 3.33%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
@@ -121,6 +122,5 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ## Continue a análise
 
 - [Jogadores baratos EA FC: Italianos em 04/08 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-08-04-ps/)
-- [Investimentos EA FC: Italianos em 04/08 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-08-04-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:29:19.000Z
+pubDatetime: 2026-08-04T13:29:19.000Z
 title: "Jogadores baratos EA FC: Italianos em 04/08 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 04/08/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (04/08/2026)?"
-    a: "Alessandro Bastoni (91, Serie A TIM) aparece como melhor custo-benefício, a 11.500 coins no PC."
+    a: "Andrea Pirlo (91, Icons) aparece como melhor custo-benefício, a 11.500 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **04/08/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Alessandro Bastoni (91) por apenas 11.500 coins.
+> 💰 **Melhor pechincha:** Andrea Pirlo (91) por apenas 11.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Italianos em 04/08 — PC](/charts/jogadores-baratos-ea-fc-2026-08-04-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 10.236 coins.
-- **Posição mais frequente:** CB, com 3 cartas.
-- **Faixa real:** 4.400 a 11.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 8 opções:** 9.331 coins.
+- **Posição mais frequente:** CDM, com 3 cartas.
+- **Faixa real:** 2.200 a 11.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,33 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
+| Andrea Pirlo | 91 | CDM | Icons | 11.500 coins | 0% |
 | Alessandro Bastoni | 91 | CB | Serie A TIM | 11.500 coins | 0% |
 | Fabio Cannavaro | 90 | CB | Icons | 11.250 coins | 0% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 4.400 coins | -6.5% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 11.500 coins | -4.3% |
-| Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 4.700 coins | -8.2% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 11.500 coins | -2.1% |
 | Claudio Marchisio | 88 | CDM | Serie A TIM | 11.000 coins | 0% |
 | Sandro Tonali | 88 | CDM | Premier League | 11.000 coins | 0% |
+| Nicolò Barella | 87 | CM | Serie A Enilive | 2.200 coins | +46.7% |
 
 
 ## 📈 Destaques
+
+- **Andrea Pirlo (91, CDM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Alessandro Bastoni (91, CB)** da Serie A TIM, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Fabio Cannavaro (90, CB)** da Icons, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **4.400 coins**
+- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **4.700 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11.500 coins**
-
-- **Andrea Barzagli (88, CB)** da Serie A TIM, a apenas **11.000 coins**
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Alessandro Bastoni (91, CB) por 11.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Claudio Marchisio (88, CDM) por 11.000 coins é a referência de rating deste recorte.
+- **Meio:** Andrea Pirlo (91, CDM) por 11.500 coins é a referência de rating deste recorte.
 
 - **Ataque:** Gianluca Vialli (89, ST) por 11.500 coins é a referência de rating deste recorte.
 
@@ -87,7 +88,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (04/08/2026)?**  
-Alessandro Bastoni (91, Serie A TIM) aparece como melhor custo-benefício, a 11.500 coins no PC.
+Andrea Pirlo (91, Icons) aparece como melhor custo-benefício, a 11.500 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
