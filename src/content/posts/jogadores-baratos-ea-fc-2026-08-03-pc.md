@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:29:22.000Z
+pubDatetime: 2026-08-04T01:29:19.000Z
 title: "Jogadores baratos EA FC: Italianos em 03/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 7.110 coins.
-- **Posição mais frequente:** CB, com 3 cartas.
-- **Faixa real:** 2.000 a 12.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 9 opções:** 7.694 coins.
+- **Posição mais frequente:** CB, com 2 cartas.
+- **Faixa real:** 2.000 a 11.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,24 +41,23 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Alessandro Bastoni | 91 | CB | Serie A TIM | 11.500 coins | 0% |
-| Gianluigi Donnarumma | 89 | GK | Premier League | 4.000 coins | -2.3% |
-| Gianluca Vialli | 89 | ST | Serie A TIM | 12.000 coins | 0% |
+| Gianluigi Donnarumma | 89 | GK | Premier League | 4.800 coins | +20.5% |
+| Gianluca Vialli | 89 | ST | Serie A TIM | 11.250 coins | -6.2% |
 | Andrea Barzagli | 88 | CB | Serie A TIM | 11.000 coins | 0% |
 | Claudio Marchisio | 88 | CDM | Serie A TIM | 11.000 coins | 0% |
 | Sandro Tonali | 88 | CDM | Premier League | 11.000 coins | 0% |
-| Nicolò Barella | 87 | CM | Serie A Enilive | 2.000 coins | +26.7% |
-| Sandro Tonali | 85 | CDM | Premier League | 2.900 coins | +25% |
-| Francesco Acerbi | 84 | CB | Serie A Enilive | 2.500 coins | +8.7% |
-| Manuela Giugliano | 84 | CM | Calcio A Femminile | 3.200 coins | +33.3% |
+| Nicolò Barella | 87 | CM | Serie A Enilive | 2.000 coins | -11.8% |
+| Cristiana Girelli | 85 | ST | Calcio A Femminile | 3.700 coins | -5.1% |
+| Manuela Giugliano | 84 | CM | Calcio A Femminile | 3.000 coins | +15.4% |
 
 
 ## 📈 Destaques
 
 - **Alessandro Bastoni (91, CB)** da Serie A TIM, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **4.000 coins**
+- **Gianluigi Donnarumma (89, GK)** da Premier League, a apenas **4.800 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **12.000 coins**
+- **Gianluca Vialli (89, ST)** da Serie A TIM, a apenas **11.250 coins**
 
 - **Andrea Barzagli (88, CB)** da Serie A TIM, a apenas **11.000 coins**
 
@@ -71,7 +70,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Claudio Marchisio (88, CDM) por 11.000 coins é a referência de rating deste recorte.
 
-- **Ataque:** Gianluca Vialli (89, ST) por 12.000 coins é a referência de rating deste recorte.
+- **Ataque:** Gianluca Vialli (89, ST) por 11.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -108,6 +107,7 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Investimentos EA FC: Italianos em 03/08 — PC](/posts/melhores-investimentos-ea-fc-2026-08-03-pc/)
 - [Mercado EA FC em 03/08: Italianos — PC](/posts/mercado-ea-fc-2026-08-03-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
