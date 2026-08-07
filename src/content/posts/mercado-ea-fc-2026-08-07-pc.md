@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-07T13:29:18.000Z
+pubDatetime: 2026-08-07T16:29:16.000Z
 title: "Mercado EA FC em 07/08: Italianos — PC"
 draft: false
 featured: true
